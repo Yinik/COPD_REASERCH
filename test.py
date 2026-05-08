@@ -15,16 +15,21 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+# ==================== 从配置文件读取路径 ====================
+try:
+    from config import DATA_PATH, CLEANED_PATH
+except ImportError:
+    print("错误：找不到 config.py，请从 config_template.py 复制一份并填写路径")
+    sys.exit(1)
+
+# 自动创建输出目录
+os.makedirs(CLEANED_PATH, exist_ok=True)
+
 try:
     import pdfplumber
 except ImportError:
     print("错误：缺少 pdfplumber，请执行：pip install pdfplumber")
     sys.exit(1)
-
-# ==================== 路径配置 ====================
-INPUT_FOLDER = r"I:\101实验专题\原始文献数据"
-OUTPUT_FOLDER = r"I:\101实验专题\抽取结果_v2"  # 新路径，不覆盖旧结果
-os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 
 # ==================== PDF提取 ====================
@@ -354,7 +359,7 @@ def batch_process(pdf_folder, output_folder):
 
 
 if __name__ == "__main__":
-    if not os.path.exists(INPUT_FOLDER):
-        print(f"错误：路径不存在 {INPUT_FOLDER}")
+    if not os.path.exists(DATA_PATH):
+        print(f"错误：路径不存在 {DATA_PATH}")
         sys.exit(1)
-    batch_process(INPUT_FOLDER, OUTPUT_FOLDER)
+    batch_process(DATA_PATH, CLEANED_PATH)

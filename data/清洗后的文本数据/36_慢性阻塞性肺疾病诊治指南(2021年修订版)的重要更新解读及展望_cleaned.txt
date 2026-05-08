@@ -1,0 +1,228 @@
+国际呼吸杂志 年 月第 卷第 期
+2021 10 41 19 IntJRespir,October2021,Vol.41,No.19 ·1457· 指南解读
+· · 慢性阻塞性肺疾病诊治指南 年
+( 修订版 的重要更新解读及展望
+) 梁振宇 王凤燕 陈荣昌
+1 1 2 广州医科大学附属第一医院呼吸与危重症医学科 广州呼吸健康研究院 国家呼吸 系统疾病临床医学研究中心 呼吸疾病国家重点实验室 ; 深圳市人民医院
+510120 呼吸与危重症医学科 深圳市呼吸疾病研究所 通信作者:陈荣昌,
+Email chenrc@vip 163 com
+【摘要】 中国 慢性阻塞性肺疾病诊治指南 年修订版 指南 在 年 月发
+《 (2021 )》( ) 2021 3 布 本指南新增大量最新研究证据 重点更新临床表现 诊断及评估 稳定期管理 急性加重
+。 , 、 、 、 管理 合并症 部分 本文对上述内容的重要更新做出解读 并对指南的未来修订方向作出
+、 4 。 , 展望
+【关键词】 肺疾病 慢性阻塞性 指南 诊治 更新
+, ; ; ; 基金项目:国家重点研发计划 广东省医学科研基金指令性课题项目
+(2017YFC1310600);
+(C2019001)
+DOI 10 3760 cma j cn131368-20210822-00614
+InterpretationandprospectofGuidelinesforthediagnosisandmanagementofchronicobstructive pulmonarydisease revisedversion2021
+LiangZhenyu1 WangFengyan1 ChenRongchang2
+1StateKeyLaboratoryofRespiratoryDisease NationalClinicalResearchCenterforRespiratory
+Disease GuangzhouInstituteofRespiratoryHealth DepartmentofRespiratoryandCritical
+CareMedicine theFirstAffiliatedHospitalofGuangzhouMedicalUniversity Guangzhou
+510120 China 2ShenzhenInstituteofRespiratoryDisease DepartmentofRespiratoryand
+CriticalCareMedicine ShenzhenPeople'sHospital Shenzhen518020 China
+Correspondingauthor ChenRongchang Email chenrc@vip 163 com
+【Abstract】
+Guidelinesforthediagnosisandmanagementofchronicobstructivepulmonary disease revisedversion2021 waspublishedinMarch2021 ThiseditionofCOPDguidelinesadded substanciallatestevidence Theguidelineupdatedthefourpartsofclinicalmanifestations diagnosis andassessment managementofstableCOPD managementofexacerbationandcomorbidities This paperprovidedaninterpretationoftheaboveimportantupdatesandprospectsforthefuture revision
+【Key words】
+Pulmonary disease chronic obstructive Guidebooks Diagnosis and management Update
+Fundprogram
+NationalKeyR&DProgramofChina 2017YFC1310600 MedicalScientific
+ResearchFoundationofGuangdongProvince C2019001
+DOI 10 3760 cma j cn131368-20210822-00614 在众多专家的共同努力下 历时 年 个月 研究证据 对临床关注的重要问题给出推荐意见
+, 1 9 , , , 中国的 慢性阻塞性肺疾病诊治指南 年修 推动我国慢性阻塞性肺疾病 慢阻肺 临床诊治水
+《 (2021 ( ) 订版 指南 终于在 年 月在 中华结核 平和 同质化 水平的提高 本文介绍指南与临床
+)》( ) 2021 3 《 “ ” 。
+和呼吸杂志 [1]刊出 此指南希望通过引入最新的 相关的核心内容 剖析其主要依据 希望能够为读
+》 。 , , fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·1458· 2021 10 41 19 IntJRespir,October2021,Vol.41,No.19 者更好把握指南提供参考 2 2 指南如何既体现中国特色又避免与国际指南
+1 指南修订的背景与历程 有 明显冲突 这是指南更新中的重要问题
+中国面临严重的慢阻肺负担 最新的流行病学 版 无疑是目前国际上最有影响力的指
+。 2021 GOLD 研究结果显示[2] 中国成人慢阻肺患病人数高达近 南 主要依据近期发表的重要研究结果而修订 中
+亿 与 年前的研究报告[3]比较 患病率增加 国专家组在修订过程中在力求把握最新文献的同
+1 。 10 , 了 慢阻肺的知晓率低 肺功能检查普及率 时 需要考虑到中国慢阻肺诊治的现状和中国呼吸
+67%。 、 , 低 未能得到及时诊疗等问题严重 医学界对慢阻肺总体的学术认知 尽可能在结合临
+、 。 , 我国的呼吸病学专家数十年来致力于慢阻肺规 床实践基础上体现学术前沿
+范化诊治 于 年牵头起草了 慢性阻塞性肺 3 更新的主要内容
+, 1997 《 疾病 诊治规范 草案 [4] 年更 慢阻肺作为传统的最常见的慢性呼吸系统疾
+(COPD) ( )》 。2002 新为 慢性阻塞性肺疾病诊治指南 [5] 随后 经 病 其疾病发生 发展已有较为公认的脉络 但诊
+《 》 。 , , 、 , 过 年[6]和 年[7]的更新 并于 年专 疗和管理策略仍在不断完善中 因此 在 定义和
+2007 2013 , 2017 。 , “ 门针对慢阻肺急性加重的规范化诊治出版了 慢性 疾病负担 病因及危险因素 发病机制 病理学
+《 ”“ ”“ 、 阻塞性肺疾病急性加重 诊治中国专 表现及病理生理改变 这 章中 主要引用了最新
+(AECOPD) ” 3 , 家共识 年更新版 [8] 尽管 版指南 的研究数据和成果 更新的内容不多 在与慢阻肺
+(2017 )》 。 2013 , ; 编写的比较完善 但 年多来 慢阻肺领域的研究 诊疗 管理相关的 临床表现 诊断及评估 稳
+, 7 , 、 “ 、 ” “ 有了长足的进步 涉及危险因素 发病机制 肺功 定期管理 急性加重管理 合并症 章则进行
+, 、 、 ”“ ”“ ”4 能变化的轨迹 可用的药物治疗和标志物导向的评 了重点更新 针对目前中国慢阻肺领域存在的知晓
+估与治疗策略等 从慢性阻塞性肺疾病全球倡议 率低 治疗明显不足等问题 力求指南的观点能够
+。 、 , 体现 更积极 更全面 更实用且兼顾个体化 的
+(GlobalInitiativeforChronicObstructiveLung “ 、 、 ” 的年度更新中发现 年新 原则
+Disease,GOLD) ,2018 。
+增参考文献 篇 年新增 篇 年新 3 1 诊断及评价 考虑到我国慢阻肺的漏诊率高
+42 ,2019 64 ,2020 增 篇 年新增 篇 同时 用于慢阻肺 和基层医疗肺功能检查普及率低的国情 本指南推
+66 ,2021 244 。 , , 治疗的新的药物 尤其是同一装置含有两种长效支 荐应用慢阻肺筛查问卷和普及肺功能检查的策略
+, , 气管舒张剂 双支扩 和一个装置含有吸入糖皮质 期望提高慢阻肺的早期诊断率 减少漏诊 在病情
+( ) , 。
+激素 与双支扩的药 评估方面 一方面 重视与哮喘 支气管扩张症
+(inhaledcorticosteroid,ICS) : , 、 、 物 三联药物 经过多项临床研究 陆续进入临 充血性心力衰竭 肺结核和弥漫性泛细支气管炎等
+( ), , 、 床 可见 近几年在慢阻肺领域有不少影响临床治 与慢阻肺有类似临床表现的疾病进行详细鉴别 并
+。 , , 疗策略的研究成果 有必要通过更新指南来体现这 建议重视合并症的评估和治疗 包括心血管疾病
+, , 、 些新的研究进展 肺癌 代谢异常疾病等 另一方面 针对慢阻肺的
+。 、 ; , 中华医学会呼吸病学分会慢阻肺学组和中国医 异质性 推荐结合症状评分 急性加重风险及外周
+, 、 师协会呼吸病学分会慢阻肺工作委员会联合成立了 血嗜酸粒细胞计数 胸部高分
+(eosinophil,EOS)、 指南修订专家组 在 年版指南负责人等多位 辨率 的综合评估分析 以指导慢阻肺的分组
+, 2013 CT , / 编写专家的支持下 经过反复讨论 共同推动了指 分型以及个体化管理 尽管这些评估指标与临床诊
+南的修订工作 疗的关系尚有待深入研究 为了给慢阻肺未来的个
+2 指南更新的总体思考 体化医学研究提供导向 仍将其纳入推荐
+2 1 指南的编写格式 经过文献检索和热点问题 3 2 稳定期的初始治疗 这是备受关注的重要更 的专家咨询等前期准备 专家组对指南的编写格式 新 在 更 新 过 程 中 专 家 组 参 照 了 版
+, 。 , 2021 进行了讨论 最后确定采用疾病全面介绍的形式 [9] 年版 慢阻肺药物治疗指南[10]
+。 , GOLD 、2020 ATS 而不是单纯针对热点问题进行循证医学论证 给出 和最新的研究报道 尤其是最新的双支扩和三联药
+、 , 推荐意见和相应的证据级别的形式 此形式与中国 物的研究结果 并结合我国专家临床经验 共同讨
+。 , , 慢性阻塞性肺 疾 病 诊 治 指 南 年 修 订 论后达成共识 最后形成稍有别于 版
+《 (2013 , 2021 GOLD 版 [7]和 版 [9]的书写格式保持一致 的推荐意见 见表
+)》 2021 GOLD , , 1。
+有利于读者全面掌握慢阻肺的理论知识 诊治方法 3 2 1 组推荐长效抗胆碱能药物
+、 A (long-acting 和管理策略 目前的主要研
+。 muscarinicantagonist,LAMA) fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2021 10 41 19 IntJRespir,October2021,Vol.41,No.19 ·1459· 表1 稳定期慢阻肺初始治疗方案的比较 项目 版 中国慢性阻塞性肺疾病诊治指南 年修订版
+2021 GOLD (2021 ) 组 一种支气管扩张剂 一种支气管扩张剂 条件允许情况下优选
+A · · , LAMA 组 一种长效支气管扩张剂 或 一种长效支气管扩张剂 或
+B · (LABA LAMA) · (LABA LAMA) 若 分 推荐起始使用 联合治疗
+· CAT>20 , LAMA+LABA 组 但若血 个 可考虑使用
+C ·LAMA ·LAMA, EOS≥300 /μl, ICS+LABA 组
+D ·LAMA ·LAMA 若症状严重时 如 分 可考虑使用 若症状严重时 如 分 可考虑使用
+· ( CAT>20 ) LAMA+LABA· ( CAT>20 ) LAMA+LABA 若血 个 时考虑 若血 个 时考虑
+· EOS≥300 /μl ICS+LABA · EOS≥300 /μl ICS+LABA 若 分和血 个 时 可考虑 三联药物治疗
+· CAT>20 EOS≥300 /μl , ICS+LABA+LAMA 注 为慢性阻塞性肺疾病全球倡议 为 评估测试 为嗜酸粒细胞 为吸入糖皮质激素 为长效
+:GOLD ;CAT COPD ;EOS ;ICS ;LABA β2 受体激动剂 为长效抗胆碱能药物
+;LAMA 究证据是一项由 等[11]在轻 中度气流受限 持药物治疗 修订版指南推荐对症状多 急性加
+Zhou - ——— 、 级 的慢阻肺患者使用噻托溴铵的 重频率高和血 偏高的患者 即 组中
+(GOLDⅠ~Ⅱ ) EOS ( D CAT 前瞻性 随机 双盲 安慰剂对照研究 结果显示 评分 分和血 个 的患者 起始
+、 、 、 , >20 EOS≥300 / μl ), 噻托溴铵可改善肺功能及其下降速率等 且安全性 治疗使用三联药物
+好 尽管只有一项研究数据 专家组经过讨论 推 3 3 的使用 这是学术上关注的热点问题之
+。 , , ICS 荐 组患者应尽早使用 一 由于缺乏我国的研究数据 指南的推荐意见与
+A LAMA。 。 ,
+3 2 2 组推荐双支扩 近年来多项对比研 版 基本保持一致 在专家组讨论过程
+B 2021 GOLD 。
+究[12-13]结果显示 在有呼吸困难症状 尤其是 中 基于我国专家的临床经验 提出 具备哮喘样
+, , , , “ 评分 分的患者中 与单支扩对比 双支 喘息 临床特征的患者 也需要考虑 的使用
+CAT >20 , , ” , ICS 。
+扩在改善肺功能 气促相关症状和疾病进展方面均 3 4 稳定期的长期管理 依据临床实践中影响长
+、 有显著获益 而且不增加不良事件 年版 期疗效的最常见问题 引入了基于患者吸气流量和
+, 。2020 , 慢阻肺药物治疗指南中 也推荐在有劳力性 手口协调能力的吸入装置个体化选择路径 并提出
+ATS , , 呼吸困难的患者中优先使用双支扩[10] 因此 本 了 教育 随访评估吸入技术 用药依从性 的管
+。 , “ — 、 ” 指南推荐在 评分 分的患者中初始治疗可 理流程 其目的是希望最大限度提高吸入装置使用
+CAT >20 , 以使用双支扩 的正确性和长期维持治疗的依从性 同时 提出了
+3 2 3 组推荐 长效 受体激动剂 基础医疗机构与二级或以上医疗机构之间的双向转
+C ICS/ β2 (long- 有关 组患者的 诊及分级管理的基本原则 期盼将来能够形成基层 actingbeta2-agonist,LABA) C , 研究数据不足 尤其是缺乏 与 医疗机构与上级医疗机构之间对慢阻肺的 合作共
+, LAMA ICS/LABA “ 的对比研究 专家组考虑到 组患者症状较轻 管 机制
+。 C , ” 。
+但急性加重风险较高的特点 推荐在血 计数 3 5 慢性阻塞性肺疾病急性加重期
+, EOS (acute 偏高 即 既往急性加重频率高 血 偏高
+( : + EOS ) exacerbation of chronic obstructive pulmonary 的人群中起始应用 的评估与管理 此指南在
+ICS/LABA。 disease,AECOPD)
+3 2 4 组推荐三联药物 近几年来 有多项关 方面的主要观点归纳如下 明确指
+D , AECOPD : (1) 于三联药物与双支扩或 的大型多中心 出 的诱发因素和临床表型的异质性 提
+ICS/LABA AECOPD , 随机前瞻双盲对照研究[14-15] 研究结论基本一致 示未来对 评估 治疗和预防的个体化问
+, , AECOPD 、 三联药物治疗可以进一步改善肺功能与生活质量 题 强调鉴别诊断 由于 的判断主
+、 。(2) 。 AECOPD 减少急性加重风险和疾病进展风险 甚至有 项研 要是基于临床表现 指南提出需要特别注重与
+, 2 , 究显示能够降低病死率[14-15] 不良事件主要是肺炎 有类似临床表现的疾病 例如 心力衰
+。 AECOPD , : 的风险有所增高 结合 年 慢阻肺药物治 竭 肺炎 气胸 胸腔积液 肺栓塞 心律失常等
+。 2020 ATS 、 、 、 、 、 疗指南[10] 建议在已经使用双支扩后仍然有呼吸 的鉴别问题 给出抗感染药物使用的推荐意
+, 。 (3) 困难且急性加重频率高的患者中推荐使用三联药物 见 尽管目前尚无 级证据推荐 但本指南提出
+。 A , 治疗的观点 同时考虑到中国慢阻肺诊治现状 明确的抗菌药物应用指征 目的是希望避免在没有
+, ——— , 到医院门诊就诊的患者中 超过 的患者气流 指征的患者中滥用抗菌药物 患者分层的抗菌药物
+, 60% 。
+受限为 级 但多数没有接受长期维 应用方案主要是基于中国的研究数据 同时 对抗
+GOLDⅢ~Ⅳ , 。 , fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·1460· 2021 10 41 19 IntJRespir,October2021,Vol.41,No.19 病毒药物的使用适应证提出了推荐意见 明确 适当延长抗菌药物的疗程 同时关注并权衡该类患
+。(4) , 全身糖皮质激素的应用 近年来的研究证实了长时 者 治疗与肺炎的关系等
+。 ICS 。
+间使用全身糖皮质激素与患者罹患肺炎 病死率增 4 指南未能满足的需求和未来展望
+、 高等相关 修订版指南参考 的原则 由于慢阻肺的复杂性和异质性 在撰写指南过
+, GOLD2021 , , 缩短使用疗程至 版推荐为 程中 仍然遇到很多缺乏足够证据的问题 难以给
+5d (2013 10~14d)。 , , 同时 引用了 血或痰 低 的患者对糖皮质 出明确的推荐意见或指引 在编写过程中 专家组
+, “ EOS ” 。 , 激素的反应差的观点 引导读者往 个体化选择应 讨论较多的问题归纳如下
+, “ : 用全身糖皮质激素治疗 的方向思考 4 1 经过治疗后 稳定的慢阻肺 患者 如何定
+AECOPD” 。 “ ” , 此外 提出雾化 有可能部分替代全身糖皮质 义 尽管目前专家组一致认为 慢阻肺的治疗存在
+, ICS , 激素的建议 保留 预防策略 尽管 天花板效应 即经过治疗后达到患者可以恢复的
+。(5) AECOPD 。 “ ”, 推荐意见与稳定期的维持治疗有类似之处 专家组 最佳状态并维持稳定 然而 尚无法形成可以量化
+, , , 讨论后认为 保留这部分内容 以便强调处理 的评估标准 指南留给临床医师根据临床实践经验
+, , , 的同时 提醒临床医师考虑个体化的预 来评判
+AECOPD , 。
+防下一次 的策略并重视贯彻落实 总 4 2 治疗稳定后是否可以考虑递减药物 这里面
+AECOPD 。
+之 此指南在 的处理原则与 版 存在 个关键的问题 其一 是否可以准确评估治
+, AECOPD 2021 2 。 , 基本相同 见表 疗的天花板 如 的问题 其二 当前已实现的
+GOLD , 2。 ( 4 1 ); ,
+3 6 合并症管理方面 合并症 不少文献常称之 治疗效果是否可以用更低的治疗强度来维持 这两
+为 共病 共患病 共患疾病 为了避免与 个问题目前缺乏足够的研究证据 因此 目前的所
+“ ” “ ” “ ”。 。 , 人畜共患疾病 概念相混淆 本指南统一使用 谓 考虑递减药物 更多的应该理解为在 允许
+“ ” , “ ”, “ 合并症 该部分在保留国际指南关于合并症的流 尝试探索 的患者中 尝试递减药物 从而减少药
+“ ”。 ” , , 行病学和对慢阻肺的相互影响的同时 相对重点地 物的过度使用
+阐述慢阻肺合并支气管扩张的问题 主要考虑到中 4 3 急性加重的异质性和量化评估与分型 尽管
+国患者比较常见 需要提出相应的应对策略 包括 版 指南把既往 的频率作为
+, , 2021 GOLD AECOPD 表2 治疗方案的比较
+AECOPD 项目 版 中国慢性阻塞性肺疾病诊治指南 年修订版
+2021 GOLD (2021 ) 全身糖皮质激素治疗 不超过 推荐 泼尼松 治疗 甲泼尼龙 治疗
+· 5~7d, : 40mg/d, 5d · 40mg/d, 5d 抗菌药物使用指征 同时具备呼吸困难加重 痰量增加和脓性痰 个主要症 同 版 表述略有差异
+· 、 3 2021 GOLD( ) 状 具备 个主要症状 而其中 个为脓性痰 或需要 同时具备呼吸困难加重 痰量增加和脓性痰 个主要症状
+; 2 , 1 ; ·① 、 3 机械通气 有创或无创 型
+( ) (AnthonisenⅠ ) 具备脓性痰和另 个主要症状 型
+·② 1 (AnthonisenⅡ ) 需要有创或无创机械通气治疗
+·③ 氧疗目标 保证 为目标 同 版
+· SpO288%~92% 2021 GOLD 无创机械通气指征 具有下列至少 项 同 版 表述略有不同 具有下列至少 项
+1 2021 GOLD( ) 1 呼吸性酸中毒 动脉血 和 呼吸性酸中毒 动脉血 和 · ( pH≤7 35 PaCO2≥45mmHg)
+· ( pH≤7 35 PaCO2≥45mmHg) 严重呼吸困难且具有呼吸肌疲劳和 或呼吸功增加的临床 严重呼吸困难且具有呼吸肌疲劳和 或呼吸功增加的临床征象 如使用辅
+· / · / , 征象 如使用辅助呼吸肌 腹部矛盾运动或肋间隙凹陷 助呼吸肌 胸腹部矛盾运动或肋间隙凹陷
+, 、 、 给氧治疗不能纠正的持续低氧血症 常规氧疗或 治疗不能纠正的低氧血症
+· · HFNC 有创机械通气指征 不能耐受无创通气 或无创通气失败或存在使用无创通 同 版
+· , 2021 GOLD 气的禁忌证 呼吸或心跳骤停
+· 意识状态下降 普通镇静药物无法控制的躁动
+· 、 明显的误吸或反复呕吐
+· 持续性气道分泌物排出困难
+· 严重的室性心律失常
+· 严重的血流动力学不稳定 补液和血管活性药物均无效
+· , 危及生命的低氧血症 且患者不能耐受无创通气
+· , 注 为慢性阻塞性肺疾病急性加重 为慢性阻塞性肺疾病全球倡议 为高流量鼻导管氧疗
+:1mmHg=0 133kPa;AECOPD ;GOLD ;HFNC fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2021 10 41 19 IntJRespir,October2021,Vol.41,No.19 ·1461· 含 的长期维持治疗方案选择的重要指标 而 性肺疾病诊治指南 年修订版 中华结核和呼吸杂
+ICS , 2013 J 且 近年来对 的诱发因素和炎症表型等 志
+2013 36 4 255-264 DOI 10 3760 cma j issn 1001 , AECOPD 有一些研究报道 但 表型的评估方法 0939 2013 04 007
+, AECOPD 、 慢性阻塞性肺疾病急性加重 诊治专家组 慢性阻 分型与治疗方案的关系等缺乏研究 目前无法给出 8 AECOPD
+, 塞性肺疾病急性加重 诊治中国专家共识 年
+AECOPD 2017 有循证医学证据的建议 专家组讨论认为 感染相 更新版 国际呼吸杂志
+。 , J 2017 37 14 1041-1057 DOI 关的频繁发作 可能是 使用的 反指征 在
+, ICS “ ”。 10 3760 cma j issn 1673-436X 2017 14 001 缺乏足够研究证据的前提下 本指南没有提出相关
+, 9 Global strategy for the diagnosis management and 的建议 但鼓励将来针对此问题进行系统探讨 preventionofchronicobstructivepulmonarydisease 2021
+4 4 生物标志物指导的个体化诊疗 这无疑是研 REPORT EB OL 2020-11-17 https goldcopd org gold-reports 究和探索的热点 即应用生物标志物识别每例慢阻
+, 10 NiciL Mammen MJ Charbek E etal Pharmacologic 肺患者的 可治疗特征 对患者 量体裁衣 式
+“ ”, “ ” managementofchronicobstructivepulmonarydisease An 地制订或调整治疗方案[16-17]
+, 目前研究证据 officialAmericanThoracicSocietyclinicalpracticeguideline 比较多的生物标志物是外周血 计数 证据主 J AmJRespirCritCareMed 2020 201 9 e56-e69 DOI
+要来源于多个大型临床研究的事后分析 前瞻性研 10 1164 rccm 202003-0625ST
+, 究数据不多 中国患者的研究数据更少 因此 本 11 ZhouY ZhongNS LiX etal Tiotropiuminearly-stage
+, 。 , chronicobstructivepulmonarydisease J NEnglJMed 指南目前主要参考了 版 的推荐意见
+2021 GOLD 。 2017 377 10 923-935 DOI 10 1056 NEJMoa1700228 由于缺乏足够的研究证据 不少类似问题未能
+, 12 Maleki-YazdiMR SinghD AnzuetoA etal Assessing 在本指南中给出明确的建议或形成推荐意见 为 short-termdeteriorationinmaintenance-naivepatientswith
+此 在指南的最后 添加了 未能满足的需求和展 COPDreceiving umeclidinium vilanterolandtiotropium
+, , “ 望 一节 期盼今后有更多的研究结果 指引未来 apooledanalysisofthreerandomizedtrials J AdvTher
+2017 33 12 2188-2199 DOI 10 1007 s12325-016-0430-6 指南进一步更新和完善
+。 13 ZhengJ XuJF JenkinsM etal Glycopyrrolate formoterol 利益冲突 所有作者均声明不存在利益冲突 fumaratemetereddoseinhalerformaintenance-naivepatients 参 考 文 献 withchronicobstructive pulmonary disease a post-hoc analysisoftherandomizedPINNACLEtrials J RespirRes 中华医学会呼吸病学分会慢性阻塞性肺疾病学组 中国医师 2020 21 1 69 DOI 10 1186 s12931-020-1332-3 协会呼吸医师分会慢阻肺工作委员会 慢性阻塞性肺疾病诊 14 FergusonGT RabeKF MartinezFJ etal Tripletherapy 治指南 年修订版 中华结核和呼吸杂志 withbudesonide glycopyrrolate formoterolfumaratewithco 2021 J 2021 44 suspensiondeliverytechnologyversusdualtherapiesin
+3 170-205 DOI 10 3760 cma j cn112147-20210109- chronicobstructivepulmonarydisease KRONOS adouble- blind parallel-group multicentre phase 3 randomised
+2 WangC XuJ YangL etal Prevalenceandriskfactorsof controlledtrial J LancetRespirMed 2018 6 10 747-758 chronicobstructivepulmonarydiseaseinChina theChina
+DOI 10 1016 S2213-2600 18 30327-8
+PulmonaryHealth CPH study anationalcross-sectional
+15 LipsonDA BarnhartF BrealeyN etal Once-dailysingle- study J Lancet 2018 391 10131 1706-1717 DOI 10 inhalertripleversusdualtherapyinpatientswithCOPD J
+1016 S0140-6736 18 30841-9
+NEnglJMed 2018 378 18 1671-1680 DOI 10 1056
+3 ZhongN WangC Yao W etal Prevalenceofchronic
+NEJMoa1713901 obstructivepulmonarydiseaseinChina alarge population 16 PerezDLL Miravitlles M Golpe R etal A proposed basedsurvey J AmJRespirCritCareMed 2007 176 8 approachtochronicairwaydisease CAD usingtherapeutic
+753-760 DOI 10 1164 rccm 200612-1749OC 慢性阻塞性肺疾病 诊治规范 草案 中华结核和 goalsandtreatabletraits alooktothefuture J IntJChron
+4 COPD J 呼吸杂志 ObstructPulmonDis 2020 15 2091-2100 DOI 10 2147
+1997 20 4 199-203 中华医学会呼吸病学分会慢性阻塞性肺疾病学组 慢性阻塞 COPD S263430 性肺疾病诊治指南 中华结核和呼吸杂志 17 McDonaldVM FingletonJ AgustiA etal Treatabletraits
+J 2002 25 8 anewparadigmfor21stcenturymanagementofchronic
+453-460 DOI 10 3760 j issn 1001-0939 2002 08 003 中华医学会呼吸病学分会慢性阻塞性肺疾病学组 慢性阻塞 airwaydiseases treatabletraitsdownunderinternational 性肺疾病诊治指南 年修订版 中华结核和呼吸杂 workshopreport J EurRespirJ 2019 53 5 DOI 10
+2007 J 志 1183 13993003 02058-2018
+2007 30 1 8-17 DOI 10 3760 j issn 1001-0939 2007 收稿日期
+2021-08-22
+01 004 中华医学会呼吸病学分会慢性阻塞性肺疾病学组 慢性阻塞 fmx_T3RoZXJNaXJyb3Jz

@@ -1,0 +1,918 @@
+国际呼吸杂志 年 月第 卷第 期
+·132· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 指南与共识
+· · 慢性阻塞性肺疾病急性加重诊治中国专家共识 年修订版
+( ) 慢性阻塞性肺疾病急性加重诊治专家组 通信作者:蔡柏蔷, ;阎锡新, _ _
+Email caibq2009@hotmail com Email xi xin yan
+@163 com
+【摘要】 慢性阻塞性肺疾病急性加重 是慢性阻塞性肺疾病患者死亡与疾病进
+(AECOPD) 展的主要诱因 诊治专家组依托近 年来相关文献 第 次更新了共识核心内容 提
+。AECOPD 4 , 4 , 出 新的定义 严重程度分级与分级诊疗方案 细化了抗菌药物经验性选择建议 对支
+AECOPD 、 , , 气管舒张剂及糖皮质激素的使用 呼吸支持与氧疗策略等方面也进行了更新调整
+【关键词】 肺疾病 慢性阻塞性 急性加重 专家共识
+, ; ; 基金项目:河北省省级科技计划资助
+(22377714D)
+DOI 10 3760 cma j cn131368-20221123-01066
+ExpertconsensusontheacuteexacerbationofchronicobstructivepulmonarydiseaseinChina revision in2023
+Expertgrouponmanagementofacuteexacerbationofchronicobstructivepulmonarydisease
+Correspondingauthor CaiBaiqiang Email caibq2009@hotmail com YanXixin Email xixinyan
+@163 com
+【Abstract】
+Acuteexacerbationofchronicobstructivepulmonarydisease AECOPD isthe maincauseofdeathanddiseaseprogressioninpatientswithchronicobstructivepulmonarydisease
+COPD Throughliteraturereviewwithinthepast4years theExpertGroupontheManagement ofAcuteExacerbationofChronicObstructivePulmonaryDiseasehasrevisedandupdatedthecore contentsoftheconsensusforthefourthtime whichhasproposedthenewdefinitionofAECOPD andtheclassificationoftheseverityandcorrespondinggradeddiagnosisandtreatmentregimens In particular theempiricalselectionofantimicrobialagents andtheuseofbronchodilatorsand glucocorticoidshavebeenmorespecific andrespiratorysupportandoxygentherapystrategieshave beenmodifiedaswell
+【Keywords】
+Pulmonarydisease chronicobstructive Acuteexacerbation Expertconsensus
+Fundprogram
+HebeiProvincialScienceandTechnologyProgram 22377714D
+DOI 10 3760 cma j cn131368-20221123-01066 慢性阻塞性肺疾病 简称慢阻肺 是一种异 人 慢阻肺患者每年发生 次急性加重 是
+( ) 。 0 5~3 5 , 质性肺部病变 其特征是慢性呼吸系统症状 呼吸 慢阻肺患者的首位死亡因素 年我国慢阻肺
+, ( 。2013 困难 咳嗽 咳痰 原因与气道异常 支气管炎 总死亡人数为 万 单病种排名第三 占全球慢
+、 、 ), ( 、 91 , , 细支气管炎 和 或 肺泡异常 肺气肿 相关 阻肺死亡总人数的 [4] 其影响因素众多 也
+) ( ) ( ) , 31 1% 。 , 通常表现为持续性
+、 进行性加重的气流阻塞[1]
+慢 与早期防控和规范化治疗不到位密切相关[5]
+阻肺是我国最常见的慢性呼吸系统疾病 患病率 慢性阻塞性肺疾病全球倡议
+, (globalinitiative 高 疾病负担重 年王辰院士牵头的 中国 指
+, 。2018 “ forchronicobstructivelungdisease,GOLD) 肺部健康研究 显示我国 岁以上人群中慢阻肺 出 由于慢阻肺危险因素的持续存在和人口老龄
+” 40 , 发病率达
+, 较钟南山院士 年报道的 化
+, 其经济负担将逐年增加[6]
+, 慢性阻塞性肺疾病
+[3]高出 全国慢阻肺总患病人数约 亿 急性加重
+8 2% 5 5%。 1 (acuteexacerbationofchronicobstructive fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·133· 是该病医疗费用的 评估其严重程度 确定急性加重的原因 病毒 pulmonarydisease,AECOPD) 。(5) [ 主要支出部分 例如 年美国 住院 和 或 细菌感染 环境因素及其他原因
+。 ,2006 AECOPD ( ) 、 ]。
+死亡率为 人均次住院费用为 美元[7] 2 AECOPD的发病原因
+4 3%, 9545 。
+王辰等报道的 住院死亡率仅为 最常见的病因是呼吸道感染
+AECOPD 0 1%, AECOPD 。78% 主要原因与中国患者住院及时 治疗积极 病情相 的 患者有明确的病毒或细菌感染依据
+、 、 AECOPD , 对较轻有关[8] 北京市 例次 患者 其他诱发因素包括吸烟 空气污染 吸入过敏原
+。 315116 AECOPD 、 、 、 年人均次住院费用为 元人民币 外科手术 应用镇静药物等 而气胸 胸腔积液
+2009 19760 ,2017 、 , 、 、 年上升至 元人民币[9] 因 死亡的 充血性心力衰竭 心律不齐 等肺内外并发
+20119 。 AECOPD 、 、PTE 患者末次住院费用显著增加 与生命支持和高端抗 症或合并症也是加重呼吸道症状的常见原因 需加
+, , 菌药物使用有关[10] 因此 早期预防 早 以鉴别 目前研究发现病毒感染 空气污染等因素
+。 ,AECOPD 、 。 、 期诊断和规范治疗是临床上一项重大而艰巨的任务 加重气道炎症 进而诱发细菌感染 是
+。 , , AECOPD
+1 AECOPD的定义 主要发病机制[10,14]
+是慢阻肺自然病程中经常发生的临 2 1 与病毒感染 报告明确指出
+AECOPD AECOPD GOLD 床事件 与患者的健康状况 生活质量下降 劳动 病毒感染是 的主要触发因素[6] 几乎
+, 、 、 AECOPD , 力丧失 肺功能减退 医疗支出增加 死亡风险提 患者合并上呼吸道病毒感染 常见
+、 、 、 50% AECOPD , 高密切相关[11] 慢阻肺治疗的主要目标之一是减 病毒为鼻病毒 呼吸道合胞病毒和流感病毒 而病
+少和预防急性加重 准确 及时诊断 非 毒感染会加重气道与系统性炎症反应 天气寒冷
+。 、 AECOPD 。 、 常重要 但由于慢阻肺的高异质性 目前缺乏 病毒感染 空气污染都是 的重要诱因
+。 , 、 AECOPD , 特定生物标志物 许多并发症 合并症 这些因素在冬季则共同存在 交互影响 因此住院
+AECOPD , 、 、 , 与 本身症状相似 而 又是患 概率也最高[15] 有研究显示在下呼吸道接种鼻病
+AECOPD , AECOPD 。
+者报告的临床事件 因此 年版的 毒后 以流感嗜血杆菌为主的细菌负荷增加 且可
+。 ,2022 Murray& , , 呼吸医学 认 为 要 定 义 并 不 持续数周 认为鼻病毒改变了下呼吸道微生物菌
+Nadel “ AECOPD , 容易 [12] 群 诱发下呼吸道细菌感染[16]
+” 。 , 。
+1 1 定 义 版 提 出 2 2 与 细 菌 感 染 的
+AECOPD 2023 GOLD AECOPD 40% ~60% 新定义 是一种急性事件 慢 患者可以从痰液中分离出细菌 最常见
+AECOPD :AECOPD , AECOPD , 阻肺患者呼吸困难和 或 咳嗽 咳痰症状加重 的 种病原体是流感嗜血杆菌 卡他莫拉菌和肺炎
+( ) 、 , 3 、 症状恶化发生在 内 可能伴有呼吸急促和 链球菌 其次为铜绿假单胞菌 革兰阴性肠杆菌
+14d , , 、 、 或 心动过速 通常是因为呼吸道感染 空气污 金黄色葡萄球菌和副流感嗜血杆菌等 但国内一项
+( ) , 、 。
+染造成局部或全身炎症反应加重 或者因损伤气道 大型多中心研究显示[17] 例 患者中
+, ,884 AECOPD 的其他原因所致[1] 例 痰液培养获得细菌 其中
+。 331 (37 4%) , 78 8%
+1 2 诊断 近来 罗马提议 [13]对 为革兰阴性菌 最常见的是铜绿假单胞菌和肺炎克
+AECOPD “ ” , 的定义和严重程度分级引入了量化指标 雷伯菌 其次为流感嗜血杆菌 为革兰阳性球
+AECOPD , , ;15% 内容比较实用 值得借鉴 建议 诊断应 菌 主要是肺炎链球菌和金黄色葡萄球菌
+, 。 AECOPD , 。
+该包括下列几个方面 急性加重事件可能会危 2 3 与非典型病原体感染 非典型病原
+:(1) AECOPD 及生命 需要进行充分的评估和治疗 对慢阻 体也是 不容忽视的因素 其中肺炎衣原
+, 。(2) AECOPD , 肺本身与伴随疾病症状进行全面临床评估 如肺 体是一个重要病原体 近期一项对 住院
+, 。 AECOPD 炎 心 力 衰 竭 和 肺 血 栓 栓 塞 症 患者研究显示肺炎支原体 肺炎衣原体和嗜肺军团
+、 (pulmonary 、 等 症状评估 通 菌的血清学阳性率分别为 和 thromboembolism,PTE) 。(3) 。 20 69%、29 66% 过视觉模拟量表评价呼吸困难严重程度与咳嗽症状 [18] 其致病性值得进一步探讨
+10 34% , 。
+评分 记录呼吸急促 心动过速等体征 结合痰量 2 4 与环境因素 也可以由
+; 、 , AECOPD AECOPD 和颜色 呼吸窘迫 如使用辅助呼吸肌 综合评 非感染因素引起 如吸烟 大气污染 吸入变应原
+、 ( ) , 、 、 估 实验室检查 如脉搏血氧仪 生化检验 等均可引起气道黏膜水肿 平滑肌痉挛和分泌物增
+。(4) , 、 、 、 降钙 素 原 反 应 蛋 白 加 流行病学调查发现空气污染尤其是空气动力学
+(procalcitonin,PCT)、C 。
+和 或 动脉血气分 直径 和 左右的微粒浓度
+(C-reactiveprotein,CRP) ( ) 10μm 2 5μm (PM10, 析 等 从病生理角度 与 发 病 有 关 而 与
+(arterialbloodgas,ABG) , PM2 5) AECOPD , PM2 5 fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·134· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 关 系 更 密 切[19-20] 阐 明 诱 发 因学诊断[25-27] 如下呼吸道分泌物微生物检测
+AECOPD 。 PM2 5 , 、 的机制 减少污染物暴露有助于降低 二聚体等
+AECOPD , ABG、D- 。
+AECOPD 风险[21-22]
+。 表1 患者的病史特征
+AECOPD 除此之外 尚有一部分 患者发病原
+, AECOPD AECOPD 患者的病史特征 因不明 用 评估呼吸困难严重程度 痰量和脓性痰的性质
+。 mMRC , 总之 呼吸道病毒感染是导致 的常 发热和上呼吸道感染症状 , 如经常冬季咳嗽 、 咳痰 , 伴或不伴气短
+, AECOPD 非慢性阻塞性肺疾病肺部疾病病史 如曾疑似哮喘 见触发因素 下呼吸道细菌感染 空气污染和寒冷 ,
+, 、 评估全身性并发症 药物使用及依从性 如胸痛 下肢水肿 心悸
+、 , 、 、 等因素是 的重要诱因 近年来 嗜酸粒 对支气管舒张剂的需求增加
+AECOPD 。 , 细胞 对 的影响受到 最近使用抗菌药物 / 口服糖皮质激素治疗
+(eosinophil,EOS) AECOPD 居家使用氧气治疗的情况 关注[23]
+。 在家是否使用无创机械通气
+3 诊断、鉴别诊断和严重性评估 过去 年中因 的住院史
+1 AECOPD
+3 1 临床表现 的主要症状是气促加 既往有无入住重症监护病房
+AECOPD 既往有创机械通气治疗记录 重 常伴有喘息 胸闷 咳嗽加剧 痰量增加 痰
+, 、 、 、 、 医疗保健体系情况 液颜色和 或 黏度改变以及发热等 此外 还可 精神疾病史
+( ) 。 , 出现心动过速 全身不适 失眠 嗜睡 疲乏 抑 注 为慢性阻塞性肺疾病急性加重 为改良
+、 、 、 、 、 :AECOPD ;mMRC 郁和精神紊乱等症状 痰量增加及出现脓性痰常提 版英国医学研究委员会呼吸困难量表
+示细菌感染[24] 症状通常持续 3 3 鉴别诊断 首先应除外容易与 混
+。AECOPD 7~10d。 AECOPD 促使疾病进展 有些慢阻肺患者有频繁 淆的其他疾病 如肺炎 充血性心力衰竭 气胸
+AECOPD , , 、 、 、 急性加重倾向 定义为每年有 次及以上的急性加 胸腔积液 和心律失常等 并应评估药物
+( 2 、PTE , 重 健康状态也更差 因此 对于初始就医的 治疗依从性及其效果 血 末端 型利钠肽前体
+), 。 , 。 N B 患者应认真询问病史 表 了解既往
+AECOPD ( 1), (N-terminal pro-B-type natriuretic peptide, 急性加重风险与严重程度 并借助客观检查进一步 水平升高有助于鉴别心力衰竭引起
+, NT-proBNP) 确定
+CT 肺气肿
+、 气道壁增厚及慢性支气 的急性呼吸困难[28]
+。AECOPD 患者的鉴别诊断见 管炎的表现等[6]
+3 2 诊断 目前 的诊断主要依赖于临 3 4 的严重性评估 结合症状 体征
+AECOPD AECOPD 、 、 床表现 即患者呼吸困难 咳嗽和 或 咳痰等主 稳定期肺功能与既往 综合研判
+, 、 ( ) ABG、 AECOPD 诉症状突然恶化 超过日常变异范围 自行调整用 表 结合罗马提案与新版 指南 建议
+, , ( 3)。 GOLD , 药不能改善 且通过临床和 或 实验室检查能排 严重程度分级如下[1,13] 无呼吸衰
+, ( ) AECOPD 。 (1) 除可以引起上述症状加重的其他疾病 如慢阻肺并 竭 呼吸频率 次 不使用辅助呼吸
+, : 20~30 /min; 发症 肺内外合并症等 由于 的异质 肌 精神状态无变化 低氧血症可以通过鼻导管吸
+、 。 AECOPD ; ; 性 目 前 尚 无 生 物 标 志 物 准 确 预 测 或 诊 断 氧或文丘里面罩吸氧 吸入氧浓度
+, [ (fractionof 有些检验有助于研判 及其病 为 而改善
+AECOPD, AECOPD inspirationO2,FiO2) 28%~35%] ; 表2 的鉴别诊断
+AECOPD 疾病 鉴别诊断 心力衰竭 新出现呼吸困难或呼吸困难加剧 心动过速 呼吸急促 端坐呼吸 下肢水肿和胸腔积液 必要时行 水平检测 心电图
+、 、 、 、 ; NT-proBNP 、 检查 超声心动图检查
+、 肺血栓栓塞症 低氧血症与慢性阻塞性肺疾病的严重程度不一致 低血压 深静脉血栓形成 心电图新出现的心房颤动 右束支传导阻滞
+, , , 、 、V1~3 导联 段 波倒置 心脏生物标志物升高 水平升高 以及其他危险因素 必要时行 肺动脉造影 二聚
+/ST T 、 、BNP/NT-proBNP , ; CT 、D- 体以及胸部 检查 肺通气灌注显影 下肢多普勒超声 超声心动图联合检测
+CT 、 、 、 气胸 呼吸音减弱 单侧胸部刺痛 对急性加重治疗无反应 在机械通气情况下病情突然恶化 呼吸困难加重 需要警惕突发气胸的可能
+, , ; , , 性 既往有气胸病史支持气胸可能 线胸片常可诊断 必要时行胸部 检查
+; ;X , CT 肺炎 发热 听诊有啰音或支气管呼吸音 线胸片显示可疑浸润性阴影 白细胞增多 反应蛋白和降钙素原水平增高 必要时行胸部
+, ,X , ,C ; 检查
+CT 心律失常 新出现的心悸和呼吸急促 心电图 心电监测常可诊断
+, 、 急性冠状动脉综合征 呼吸困难加剧 胸痛 新发现的心力衰竭体征 心脏生物标志物升高 心电图 心脏生物标志物监测
+、 、 、 ; 、 注 为慢性阻塞性肺疾病急性加重 为 末端 型利钠肽前体 为 型利钠肽
+:AECOPD ;NT-proBNP N B ;BNP B fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·135· 无增加 急性呼吸衰竭 不危及生命 降钙素前体 在细菌感染时大量分泌 在病毒感染
+PaCO2 。 (2) - : 。 , 呼吸频率 次 使用辅助呼吸肌 精神状 及非特异性炎症中 升高不明显[33-34] 建议结
+>30 /min; ; PCT 。
+态无变化 低氧血症可以通过文丘里面罩吸氧 合 临床及影像表现综合判定 感
+; PCT、 AECOPD 为 而改善 高碳酸血症即 染 患者 明显升高还往往伴有较高
+(FiO2 25%~30%) ; 。AECOPD PCT 较基线升高 或升高至 的急性加重频率 住院频率及病死率[35] 因此
+PaCO2 , 50~60 mmHg 、 。 , 急性呼吸衰竭 危及 对 感染 病情严重程度 预后等都
+(1mmHg=0 133kPa)。(3) - PCT AECOPD 、 、 生命 呼吸频率 次 使用辅助呼吸肌 有一定预测价值[36]
+: >30 /min; ; 。
+精神状态的急性变化 低氧血症不能通过文丘里面 3 5 3 是一种常用炎症标志物 可与
+; CRP CRP , 罩吸氧或 而改善 高碳酸血症即 脓性痰共同用于评估 细菌感染与预
+FiO2>40% ; AECOPD 较基线值升高 或 或存在酸中 后[37-39] 超敏 反应蛋白进一步提高了其敏感性
+PaCO2 , >60mmHg 。 C 。
+毒 患者血清超敏 反应蛋白水平明显高于
+(pH≤7 25)。 AECOPD C 健康 人 群 且 与 严 重 程 度 密 切 相 表3 评估 病史和体征 , AECOPD
+AECOPD : 关[40-41] 以 指导 抗菌药物治疗 病史 体征 。 CRP AECOPD , 可显著减少抗菌药物的应用[29] 稳定期肺功能 降低的严重程度 辅助呼吸肌参与呼吸运动 。
+病情急性加重 : 或 F 新 E 症 V1 状出现的时间 胸腹矛盾运动 3 5 4 是一种提供有关动脉血氧合
+ABG ABG 、 既往急性加重次数或住院病史 进行性急性加重或新出现的中心 肺泡通气 肺部气体交换和酸碱平衡的重要测试
+并发症与合并症 性发绀 有助于 患者呼吸衰竭的诊断 确定 目前稳定期的治疗方案 外周水肿 ABG AECOPD , 氧疗的指征 判断治疗反应 以及评估代谢与循环 既往应用机械通气的资料 血流动力学不稳定 , , 右心衰竭征象 灌注状态 是指导 治疗及其疗效评估的
+, AECOPD 反应迟钝 重要方法 的适应证 呼吸室内空气时脉搏
+。ABG : 注 为慢性阻塞性肺疾病急性加重 为第 秒
+:AECOPD ;FEV1 1 血氧饱和度 有急性意识改变 用力呼气容积 (SpO2)<92%; ; 血流动力学恶化 实施机械通气等[42]
+3 5 辅助检查 患者实验室检查经常被 3 5 5 心脏生物标志物
+AECOPD 用于判断临床严重程度 、 鉴别诊断 、 指导治疗及评 3 5 5 1 和肌钙蛋白 和
+NT-proBNP AECOPD 估预后 左心室心力衰竭在临床上经常并存 患
+。 。AECOPD
+3 5 1 血常规 血红细胞计数及血细胞比容有助 者血浆 浓度可以升高 合并左心室衰
+NT-proBNP , 于了解红细胞增多症或有无出血或贫血
+血白细胞 竭时升高更明显[43-45]
+肌钙蛋白常被用于评估急性 计数通常对了解肺部感染情况有一定帮助 部分 呼吸 困 难 患 者 是 否 有 心 肌 损 伤 的
+。 。36 5% 患者的 中性粒细胞以及其他炎症 患者血浆高敏感性心肌肌钙蛋白水平升
+AECOPD EOS、 AECOPD 细胞数量同时增加 淋巴细胞绝对值降低提示免疫 高 无论肺部疾病的严重程度如何 合
+, 。 ,AECOPD 功能受损或新发某些病毒感染
+EOS 增多提 并心肌损伤都会增加患者死亡风险[46]
+, 当 示糖皮质激素治疗反应性好[6] 心电图异常或呼吸困难比 预期更严重
+AECOPD 文献报道
+, 在除外合并哮喘后
+,20%~40% 的 时
+, 应进行肌钙蛋白检测[47-49]
+慢阻肺患者稳定期以及急性加重期的气道 增 3 5 5 2 二聚体 慢阻肺患者存在 风险
+EOS D- PTE , 多[30] 。 中 国 AECOPD 患 者 外 周 血 EOS 超 过 其 PTE 发生率为 5 9%~16 1% [50-51] 。 不明原因 个 的比例为 [8] 全血 计数与痰 患者如合并 其病死率增加 住院
+300 / μl 17 4% 。 EOS AECOPD PTE, , 液和气道
+EOS 水平有良好的相关性
+, 可作为慢阻 时间延长[52-53]
+AECOPD 患者
+, 肺气道 增多的一种指标[29] 患者 建议监测血浆 二聚体 但 二聚体正常并不能
+EOS 。AECOPD D- 。 D- 增 多 是 吸 入 性 糖 皮 质 激 素 完全排除 此外 二聚体在癌症 严重感
+EOS (inhaled PTE。 ,D- 、 corticosteroids,ICS) 有效的预测指标[31]
+稳定 染等患者以及妊娠期间也可以升高[54]
+期 增多 计数 个 或比例 者 3 5 6 生化检查 急性肾损伤
+EOS ( ≥300 / μl ≥2%) (acutekidney 发生率升高 而以气道嗜酸性炎症增加 也是 的严重并发症 导
+AECOPD , injury,AKI) AECOPD , 为特征的 患者呼吸困难症状通常较轻 致重症 患者病死率增加 是
+AECOPD , AECOPD , AECOPD 故其病死率较低
+, 住院时间较短[32]
+住院死亡的独立危险因素[55]
+AECOPD
+3 5 2 是甲状腺组织中 细胞产生的 患者 发生率为 并发 的
+PCT PCT C AKI 1 9%, AKI AECOPD fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·136· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 患 者 病 死 率 为 远 高 于 无 患 者 格痰液标本 并进行痰涂片 细菌培养及药敏试
+16 6%, AKI , 、
+[56] 同时 并发 的 患者常 验 在肺功能为 级和 级的慢阻
+(4 0%) 。 , AKI AECOPD 。 GOLDⅢ GOLDⅣ 常需要机械通气治疗 且住 时间延长[57] 肺患者中 铜绿假单胞菌为重要致病菌 已较长时
+, ICU 。 , 。
+低钠血症是严重 患者预后不良的因 间使用抗菌药物和反复全身应用糖皮质激素治疗的
+AECOPD 素 住院患者低钠血症发生率为 患者 注意真菌感染的可能性 特别是近期内反复
+。AECOPD 15 8%。 , , 与无低钠血症的 患者相比 其住院时间 住院的 患者
+AECOPD , AECOPD 。
+延长 机械通气的需求更高 病死率增加[58] 对于重度 患者 推测可能为难治性
+, , 。 AECOPD ,
+3 5 7 心电图学评价 患者常见心电图 病原菌 铜绿假单胞菌 或其他革兰阴性耐药菌
+AECOPD ( ) 异常表现包括右心房增大 右心室肥厚 右束支传 有使用抗菌药物或口服糖皮质激素治疗 病程迁
+、 、 ( 、 导阻滞 肢体导联电压低 型 电轴右 延 每年急性加重超过 次
+、 、S1S2S3 、 、 4 、FEV1%pred<30% 偏[59] 合并急性冠状动脉综合征 心力衰竭和心 等危险因素的患者 感染 推荐采用气管内吸取分
+。 、 ) , 律失常比较常见[60] 老年人急性冠状动脉综合征 泌物 机械通气患者 进行细菌检测 或应用经支
+。 ( ) , 的常见症状是呼吸急促 应注意 变化 早期 气管镜保护性毛刷采集标本进行检测[38,67] 至于
+, ST-T , 。
+识别 合并冠状动脉粥样硬化性心脏病 宏基因组高通量测序技术在 病原学检测
+AECOPD 。 AECOPD 新发心房颤动在 患者中很常见 尤其在 中应用经验尚少 前瞻性研究正在实施中[68]
+AECOPD , , 。
+合并高碳酸血症和严重肺气肿患者 快速心房颤动 3 5 10 肺功能测定 慢阻肺稳定期肺功能检查
+。 , 与缺氧 受体激动剂使用有关 可能进一步降低 提示肺功能损害极为严重 因为
+、 β , FEV1<1L 。
+心室射血分数 加重低氧血症[61] 多灶性房性心 患者无法配合 常难以满意地进行肺功
+, 。 AECOPD , 动过速也常见 并与 患者预后不良相 能测定 不推荐常规实施[69]
+, AECOPD , 。
+关 通常情况下 纠正呼吸衰竭是 心律 4 AECOPD的分级治疗和医疗场所的选择
+。 , AECOPD 失常的根本治疗方案 比抗心律失常药物使用更为 4 1 的分级诊疗 的治疗目
+, AECOPD AECOPD 重要 标为减轻急性加重症状 改善并发症 预防再次急
+3 5 8 影像学检查 患者应常规进行胸 性加重的发生 结合 严重程度 早期干
+AECOPD 。 AECOPD 、 部 线检查 以初步鉴别呼吸困难急性加重的肺 预效果和 或 伴随疾病严重程度的不同 可以分
+X , ( ) , 部原因 不推荐对所有 患者常规进行胸 为门急诊治疗 住院治疗或 治疗 推荐分类
+。 AECOPD 、 ICU 。
+部 检查[62] 胸部 指征包括 有 线胸片 方 法 见 表 [29] 级 门 急 诊 治 疗
+CT 。 CT : X 4 。 Ⅰ , :80% 不能明确解释的肺部浸润 可疑肺间质性疾病 复 患者可以在门急诊接受药物治疗 包括
+, , AECOPD , 杂气胸 新发生的严重呼吸衰竭 线胸片可疑支 使用支气管舒张剂 糖皮质激素和口服抗菌药物
+, ,X 、 气管扩张症 肺不张 胸腔积液 心包积液 肺部 等[11] 级 普通病房住院治疗 适用于重症
+、 、 、 、 ;Ⅱ , : 团块影 可疑肺脓肿 纵隔气肿等 约 的 但无生命危险患者 级 治疗
+, 、 。 65% AECOPD, ;Ⅲ ,ICU : 患者胸部 呈现不同程度的肺部浸润 严重 患者出现急性呼吸衰竭或存在需立
+AECOPD CT AECOPD 阴影[63] 其中 病例 线胸片未能显示 胸部 即进入 救治的肺内外并发症或合并症[11,69-70]
+, 1/3 X 。 ICU 。
+还可以显示支气管壁增厚 肺气肿类型与分 具体条件见表
+CT 、 4。
+布 黏液嵌塞和气体陷闭等 展示慢阻肺病理特 4 2 的基层医疗机构诊疗与转诊 由于
+、 , AECOPD 征[64-65] 也是发现肺动脉高压 右下肺动脉残 患者首诊大多在基层医疗机构 所以基
+。CT ( AECOPD , 根征 肺内空洞 闭塞性细支气管炎等表现的重要 层医院医师对 的诊断和治疗负有首诊责
+)、 、 AECOPD 方法 甚至有益于肺曲霉病等特殊感染的早期发现 任 主要包括初步诊断分级和及时处理 一般不推
+, 。 , 。
+对于临床 发生风险较高且 二聚体升高 荐远距离转诊 三甲医院要有标准配置的呼吸
+PTE D- 。
+的 患者 应进行 肺动脉造影 备选 其作用包括实施 诊断和管理 协
+AECOPD , CT 。 ICU。 AECOPD , 方案是同位素通气 灌注闪烁显像 下肢静脉多普 助基层医师评估严重程度 熟悉并应用分级诊疗
+- 、 , , 勒超声和超声心动图检查 后者对心脏结构 肺动 鉴别并处理并发症 同时负责质量控制 复核诊断
+。 、 ; , 脉高压 心功能及 评估意义重大[66] 是可疑 率 治疗方案及双向转诊 基层医疗机构紧急转诊
+、 PTE , 、 。
+患者临床路径规定内容 指征如下[71] 高度怀疑为急性 导致的急
+PTE 。 :(1) PTE
+3 5 9 病原学检查 有脓性或黏液脓性痰的 性加重 基层医疗机构无必需的医疗设备 技术诊
+, 、 患者 应在开始抗菌药物治疗前留取合 治 患者意识状态改变 如出现嗜睡 谵妄或
+AECOPD , 。(2) , 、 fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·137· 表4 患者严重程度评估标准与分级诊疗
+AECOPD 临床评估标准 门急诊治疗 基层医院病房治疗 三甲医院病房治疗 重症监护病房治疗 呼吸衰竭的严重程度 无 稳定 稳定 明显 需要无创通气 明显 需要无创通气或有创通气
+/ , , 值 pH >7 35 7 30~7 35 7 20~7 30 <7 20 评分
+GlasgowComaScale 15 15 10~14 <10 使用辅助呼吸肌 无 无 少许 少许 明显使用
+/ 氧合状态 室内空气 氧疗目标 无 创 通 气 目 标 无 创 有 创 通 气 目 标
+PaO2>60mmHg PaO2>60mmHg PaO2 > / PaO2 > 或 或 或 或
+SpO2>90% SpO2>90% 60mmHg SpO2>90% 60mmHg SpO2>90% 其他疾病 无 无 有 有 有
+/ 右心功能衰竭 无 无 有 无 有 有
+/ / 新发现的心律不齐 无 无 有 无 有 无 有
+/ / / 肾功能不全 无 无 有 无 有 无 有
+/ / / 血流动力学 稳定 稳定 稳定 不稳定 常不稳定
+/ 初始治疗后症状 改善 短暂改善 短暂改善 无改善 无改善
+/ 必要时观察 间隔 观察 连续观察 连续观察
+SpO2 2~4h 动脉血气分析 通常不需要监测 每 小时监测 每 小时监测 连续监测
+8 2~4 注 为慢性阻塞性肺疾病急性加重 为脉搏血氧饱和度
+:AECOPD ;SpO2 ;1mmHg=0 133kPa 昏迷 无法纠正的呼吸衰竭 如 比 舒 适 性 及 耐 受 性 更 佳[73] 患 者 在
+。(3) , SpO2<92%, ,HFNC 。
+或呼吸困难持续不缓解 持续性症状性心律失 期间能够说话 进食 自我感觉较舒适 有
+。(4) HFNC 、 , , 常 药物治疗无法改善 循环血流动力学不稳 更好的依从性 具有改善气体交换和减少呼
+, 。(5) 。HFNC 定 如低血压状态用药后未改善 基层医疗机 吸功 降低呼吸频率 增加肺容量等生理优势[74]
+, 。(6) 、 、 。
+构转诊前应该进行紧急处置 如对于 患 适应证包括 轻 中度呼吸衰竭
+。 AECOPD : - (100mmHg≤ 者 首先抗感染治疗并保持呼吸道通畅 控制性氧 轻度呼吸
+, , PaO2/FiO2<300mmHg,pH≥7 30); 疗与必要的呼吸支持 低血压时应用血管活性药物 窘迫 呼吸频率 次 对常规氧疗或
+; ( >24 /min); NIV 如多巴胺 间羟胺 维持血压稳定 对于高度怀 不能耐受或有禁忌证者 禁忌证包括 心跳呼吸骤
+( 、 ) ; 。 : 疑急性 者 应给予吸氧 暂时制动 如无抗 停 需紧急气管插管有创机械通气 自主呼吸微
+PTE , , , , , 凝禁忌证 可给予低分子量肝素皮下注射 弱 昏迷 重度 型呼吸衰竭
+, 。 , , Ⅰ (PaO2/FiO2<
+5 AECOPD患者基本治疗 中重度呼吸性酸中毒及高碳酸血症
+100mmHg), 近 多年来针对 的特异性药物治 研究表明 组和 组
+20 AECOPD (pH<7 30)。 ,HFNC NIV 30d 疗并没有取得实质性进展[72]
+, 仍然集中在抗菌药
+、 病死率相似[75]
+支气管舒张剂和糖皮质激素等 无创通气与经鼻高 5 3 支气管舒张剂 雾化吸入短效 受体激动
+。 β2 流量湿化氧疗 剂 或短效 受体激动剂 短效抗胆碱能联合制剂
+(high-flownasalcannulaoxygen , β2 - 技术得到推广 是 患者的主要治疗方案 吸入长效支气 therapy,HFNC) 。 AECOPD 。
+5 1 控制性氧疗 氧疗是 的基础治疗 管舒张剂 受体激动剂或抗胆碱能药物或联合
+AECOPD 。 ( β2 无严重并发症的 患者氧疗后易达到满意 制剂 对 效果研究匮乏 一般不推荐
+AECOPD ) AECOPD , 。
+的氧合水平 或 但是建议出院前尽早开始应用长效支气管舒张剂
+(PaO2>60mmHg SpO2>90%)。 , 但 不宜过高 以防 潴留及呼吸性酸中 包括双支气管舒张剂 双支气管舒张剂 新
+FiO2 , CO2 、 +ICS ( 毒 给氧途径包括鼻导管或 面罩 其中 三联
+。 Venturi , )。
+面罩更能精确地调节 氧疗 5 3 1 短效支气管舒张剂雾化溶液 时
+Venturi FiO2。 30min AECOPD 后应复查动脉血气 以满足基本氧合又不引起 单用短效吸入 受体激动剂或联用短效抗胆碱能
+, β2 潴留为目标[70] 药物是常用的治疗方法 通常以吸入用药为佳 由
+CO2 。 , 。
+5 2 是一种通过高流量鼻塞持续 于慢阻肺患者在急性加重期往往存在严重呼吸困
+HFNC HFNC 提供可调控相对恒定 温度 难 运动失调或感觉迟钝 因此以使用压力喷雾器
+FiO2 (21%~100%)、 、 , 和湿度的高流量 吸 较合适 机械通气患者可通过特殊接合器进行吸入
+(31~37℃) (8~80L/min) 。
+入气体的治疗方式 与传统氧疗相比 供 治疗 并调整药量为正常的 倍[76-77] 以抵消
+。 ,HFNC , 2~4 , 氧浓度更精确 加温湿化效果更好 与无创机械通 药物颗粒在呼吸机管道沉淀
+气 相 临床上常用的短效支气管舒张剂雾化溶液如
+(noninvasivemechanicalventilation,NIV) fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·138· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 下[78-80] 吸入用硫酸沙丁胺醇溶液 雾化溶液 糖皮质激素治疗 但需联合吸入短效支
+:(1) 。 AECOPD, 每日可重复 次 异丙托溴铵雾化 气管舒张剂才能扩张支气管[76] 雾化吸入布地奈
+5mg/ml。 4 。(2) 。
+吸入溶液 通常成人每次吸入 德 与泼尼松龙 疗效相当 且不良反应
+。 500μg/2ml。 (3) 8mg 40mg , 吸入用复方异丙托溴铵溶液 雾化溶液 含 少 对空腹血糖影响小 也有报道中度或重度
+。 2 5ml, , 。
+有异丙托溴铵 和硫酸沙丁胺醇 维 患 者 雾 化 吸 入 布 地 奈 德
+0 5mg 3 0mg, AECOPD , 4 mg/d、 持治疗 次[29,81] 次 对前列腺肥大 和静脉应用泼尼松龙 临床疗效无
+2 5ml/ ,3~4 /d。 8mg/d 40mg/d 患者可能导致尿潴留
+, 应注意观察
+差异[84,86]
+AECOPD 患者多为泼尼松龙
+5 3 2 静脉使用甲基黄嘌呤类药物 茶碱或氨茶 疗程 重症患者还可能会联合雾
+( 40mg/d, 5~7d。
+碱 曾经认为茶碱除有支气管扩张作用外 还能 化吸入布地奈德
+) , 3~4mg/d。
+改善呼吸肌功能 增加心排血量 减少肺循环阻 5 5 抗菌药物的应用
+, , 力 兴奋中枢神经系统 并有一定的抗炎作用 目 5 5 1 抗菌药物应用指征 抗菌药物应用指征包
+前由于静脉使用甲基黄嘌呤类药物 茶碱或氨茶 括 呼吸困难加重 痰量增加和痰液变脓性
+( :(1) 、 3 碱 有显著不良反应 报告和我国慢阻肺 种症状同时出现 仅出现其中 种症状 但包
+) ,GOLD ;(2) 2 , 诊治指南 年修订版 已经不建议单独用于 括痰液变脓性 严重的急性加重 需要有创机
+(2021 ) ;(3) , 治疗 [6,70] 械通气或 如果只有 种加重症状 但无痰
+AECOPD 。 NIV。 2 ,
+5 4 糖皮质激素 患者全身应用糖皮质 液变脓性或者只有 种急性加重的症状时 一般不
+AECOPD 1 , 激素可缩短康复时间
+, 改善肺功能
+FEV1) 和 建议应用抗菌药物[87]
+AECOPD 患者应在抗 氧合 降低早期反复住院和治疗失败的风险 缩短 菌药物使用前送检痰或气管吸取物 机械通气患
+, , ( 住院时间 口服糖皮质激素与静脉应用糖皮质激素 者 行微生物培养 无脓性痰液患者不推荐常规痰
+。 ) , 疗效相当 通常外周血 增高的 患 培养 阳性率低且结果常不可靠
+。 EOS AECOPD , 。2017ERS/ATS 者对糖皮质激素的治疗反应更好[6,11] 指南认为 抗菌药物早期使用降低
+。 AECOPD , 住院患者宜在应用支气管舒张剂的 患者治疗失败率 且延迟下次
+AECOPD AECOPD , AECOPD 基础上 加用糖皮质激素治疗 能正常进食的患者 时间 对 门诊患者 尤其是频繁急性加
+, 。 。 AECOPD , 建议口服用药
+推荐剂量与疗程有差异[6,11,82]
+, 推荐使用抗菌药物[11]
+多推荐泼尼松 疗程 表 5 5 2 抗菌药物的应用途径和时间 药物治疗的
+30~40mg/d, 5~7d ( 5)。
+也有报道口服糖皮质激素 疗程效果不亚于 途径 口服或静脉给药 取决于患者的进食能力和
+5d ( ) 而且 缩 短 了 住 院 时 间[83] 西 班 牙 抗菌药物的药代动力学 最好给予口服治疗 呼吸
+14d, 。 2021 , 。
+指南则推荐 中度 患者口服 困难改善和脓痰减少提示治疗有效 抗菌药物的推
+AECOPD : AECOPD 。
+0 5mg·kg
+-1 连续应用 荐治疗疗程为
+, 严重感染
+、 合并肺炎
+、 支 重症患者 患者建议静脉给药[84] 气管扩张症等适当延长抗菌药物疗程至
+5d, 14d。ICU 。 10~14d。
+糖皮质激素个体化治疗可以减少 治疗失 5 5 3 初始抗菌治疗的建议 患者通常
+AECOPD AECOPD 败的风险 优于固定剂量疗法[85] 可分成 组 组 无铜绿假单胞菌感染危险因
+, 。 2 。A : 临床上也可雾化吸入布地奈德混悬液替代口服 素 组 有铜绿假单胞菌感染危险因素 后者包
+;B : 。
+表5 应用糖皮质激素治疗时推荐剂量和疗程
+AECOPD 指南 指南 报告或共识 推荐糖皮质激素剂量和疗程
+( 、 ) 报告 推荐应用泼尼松 治疗
+2022GOLD 40mg/d, 5d 管理指南 门诊患者 建议短期 口服糖皮质激素
+2017ERS/ATSAECOPD AECOPD , (≤14d) 住院患者 如胃肠道功能正常 建议口服糖皮质激素
+AECOPD , , 慢性阻塞性肺疾病诊治指南 年修订版 可考虑口服糖皮质激素 甲泼尼龙 连续应用
+(2021 ) , 40mg/d, 5d 中国专家共识 版 推荐应用泼尼松 治疗
+AECOPD (2022 ) 30~40mg/d, 5~7d 日本呼吸学会 口服糖皮质激素 治疗
+30~40mg/d, 7~10d 澳大利亚和新西兰胸科学会 口服糖皮质激素 治疗 应用糖皮质激素超过 停用时需要逐渐减量
+30~50mg/d, 5d( 14d, ) 西班牙 指南 中度急性加重患者口服糖皮质激素 泼尼松 连续应用 重症患者连续
+2021AECOPD , 0 5mg·kg -1·d-1, 5d; 应用 非常严重的急性加重患者建议静脉滴注
+14d; 注 为慢性阻塞性肺疾病急性加重 为慢性阻塞性肺疾病全球倡议 为欧洲呼吸学会 为美国胸科学会
+:AECOPD ;GOLD ;ERS ;ATS fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·139· 括 近期住院史 经常 次 年 或近 包括 寻找治疗无效的非感染因素 重新
+:(1) 。(2) (>4 / ) :(1) ;(2) 期 近 个月内 抗菌药物应用史 气流阻塞 评价可能的病原体 更换抗菌药物 使之能覆
+( 3 ) 。(3) ;(3) , 严重 稳定期 应用口服 盖铜绿假单胞菌 耐药肺炎链球菌和非发酵菌 或
+( FEV1%pred<30%)。 (4) 、 , 糖皮质激素 近 周服用泼尼松 [66] 根据微生物学检测结果对新的抗菌药物治疗方案进
+( 2 >10mg/d) 。
+初始经验性抗感染药物的选择推荐参考 行调整[66] 对于合并肺炎或支气管扩张症的
+AECOPD 。
+西班牙 诊断和治疗指南中抗菌药物 患者 临床上发现合并医院获得性肺炎
+2021AECOPD AECOPD , 推荐
+:(1) 对于无铜绿假单胞菌感染危 或者呼吸机相关性肺炎可以结合影像学
+、 痰液性状 险因素的患者 主要依据 严重程度 当 与细菌学检查调整抗菌药物的应用 发
+, AECOPD 、 ;AECOPD 地耐药状况 费用负担和依从性综合决定 可选用 展为医院获得性肺炎或呼吸机相关性肺炎时抗菌药
+、 , 阿莫西林 克拉维酸 左氧氟沙星或莫西沙星 物的应用 建议参照 慢性阻塞性肺疾病急性加重
+/ 、 。(2) , “ 对于有铜绿假单胞菌等革兰阴性菌感染危险因素的 抗感染治疗中国专家共识 [38]和 中国成人医院获
+” “ 患者 可选用环丙沙星或左氧氟沙星足够剂量口 得性肺炎与呼吸机相关性肺炎诊断和治疗指南
+, 服 重症患者选择环丙沙星和 或 有抗铜绿假单 年版 [88]选择抗菌药物
+。 ( ) (2018 )” 。
+胞菌活性的 内酰胺类抗菌药物 联合氨基糖苷类 5 6 经验性抗病毒治疗的问题 年 颁 β , 2011 ERS 抗菌药物静脉滴注 我国 住院患者静脉 布的 成人下呼吸道感染的诊治指南 概述 指
+。 AECOPD “ ( )” 使用抗菌药物非常普遍 经验性抗菌药物选择级别 出 不推荐 患者进行经验性抗流感病毒
+, : AECOPD 偏高 影响因素复杂 值得关注 治疗 包括鼻病毒 仅仅在出现流感症状 发热
+, , 。 , 。 ( 、
+5 5 4 初始抗菌治疗的疗效 抗菌治疗既要关注 肌肉酸痛 全身乏力和呼吸道感染 时间 并
+、 ) <2d 患者的短期疗效 如迅速改善患者症状 改善肺功 且正处于流感暴发时期的 高危流感患者
+, , AECOPD 能 缩短康复时间 又要尽量减少慢阻肺患者未来 方可尝试使用[66,89-90] 如神经氨酸酶抑制剂等
+, ; , 。
+急性加重的风险 减少 的频度 延长 5 7 其他治疗措施 在出入量和血电解质监测下
+, AECOPD , 次发作的间期 将下呼吸道细菌负荷降低到最低 适当补充液体和电解质 注意维持液体和电解质平
+2 , ; 水平 长期应用广谱抗菌药物和糖皮质激素易引起 衡 注意营养治疗 对不能进食者需经胃肠补充要
+。 ; , 深部真菌感染 应密切观察真菌感染的临床征象并 素饮食或给予静脉高营养 注意痰液引流 积极排
+, ; , 采取有效诊断措施 痰治疗 如刺激咳嗽 叩击胸部 体位引流等方
+。 ( 、 、 患者可能会对初始经验 法 识别并治疗伴随疾病 冠状动脉粥样硬化性
+10%~20% AECOPD ); ( 治疗反应不佳 治疗失败的原因可能与以下因素有 心脏病 糖尿病 高血压等并发症 及并发症 休
+。 、 、 ) ( 关 初始经验治疗未能覆盖致病微生物 如铜 克 弥漫性血管内凝血和上消化道出血等 [29]
+:(1) , 、 ) 。
+绿假单胞菌 金黄色葡萄球菌 包括耐甲氧西林金 6 机械通气
+、 ( 黄色葡萄球菌 不动杆菌和其他非发酵菌 患者机械通气目的 纠正严重
+)、 。 (2) AECOPD : (1) 长期使用糖皮质激素的患者诱发真菌感染 高 的低氧血症 改善重要脏器的氧供应 治疗急
+。(3) , ;(2) 度耐药菌感染 包括耐药肺炎链球菌 机械通 性呼吸性酸中毒 纠正危及生命的急性高碳酸血
+, 。(4) , 气患者并发院内感染 非感染因素 如 症 缓解呼吸窘迫 纠正呼吸肌的疲劳
+。(5) , PTE、 ;(3) ;(4) ; 心力衰竭等影响治疗效果 通常应采取的处理措施 降低全身或心肌的氧耗量[42,91]
+。 (5) 。
+表6 西班牙 诊断和治疗指南中抗菌药物推荐使用[84]
+2021AECOPD 急性加重的严重程度 微生物 抗菌药物的选择 轻度急性加重 流感嗜血杆菌 肺炎链球菌 卡他莫拉菌 阿莫西林 克拉维酸 左氧氟沙星 莫西沙星
+A. 、 、 / 、 、 中度急性加重 同 组上述病原菌 青霉素耐药肺炎链球 阿莫西林 克拉维酸 头孢托仑 左氧氟沙星 莫西
+B. A + / 、 、 、 菌 肠杆菌 沙星
+、 严重 非常严重的急性加重 无假单胞菌属感染风险 同 组上述病原菌 青霉素耐药肺炎链球 阿莫西林 克拉维酸 头孢托仑 左氧氟沙星 莫西
+C. - , A + / 、 、 、 菌 肠杆菌 沙星
+、 严重 非常严重的急性加重 伴有假单胞菌属感染风险 同 组上述病原菌 假单胞菌属感染 具有抗假单胞菌活性的 内酰胺类抗菌药物 具有
+D. - , B + β a、 抗假单胞菌活性的喹诺酮 b 注 为慢性阻塞性肺疾病急性加重 哌拉西林 他唑巴坦 头孢他啶 头孢吡肟 美罗培南 头孢洛扎 他唑巴坦 头孢他啶
+:AECOPD ;a - 、 、 、 、 - 、 - 阿维巴坦 环丙沙星 每 小时 次 或左氧氟沙星 每 小时 次
+;b 500~750mg( 12 1 ), 500mg( 12 1 ) fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·140· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2
+6 1 适应证和禁忌证 开始 逐渐上调压力水平 以尽量保
+NIV ERS/ATSAECOPD 0 098kPa) , , 管理指南强烈推荐 住院患者出现急性呼 证患者每一次吸气动作都能触发呼吸机送气 吸气
+AECOPD ; 吸衰竭或者慢性呼吸衰竭急性加重时 作为 相压力从 开始 待患者耐受后再逐
+,NIV 8~12cmH2O , 呼吸衰竭首选呼吸支持策略 能降 渐上调 直至达到满意的通气水平 或患者可能耐
+AECOPD 。NIV , , 低患者气管插管率
+, 治疗并发症
+, 缩短住 受的最高通气支持水平
+20~25cmH2O)
+[92-94]
+院时间及入住 时间[11] 的适应证和相对 6 1 3 治疗 时的监测 开始
+ICU 。NIV NIV AECOPD NIV 禁忌证见表
+[6,11]
+1~2h 是评估的最重要时期
+, 应根据患者
+6 1 1 无创呼吸机与患者的连接 连接的舒适性 的临床状态和 进行评估 监测内容见表
+、 ABG , 8。
+密封性和稳定性对疗效和患者的耐受性影响很大 对 治疗有反应的临床体征包括患者意识改善
+, NIV 、 面罩的合理选择是决定 成败的关键 因此 呼吸频率下降 辅助呼吸肌使用减少和呼吸功减
+NIV 。 , 、 除应准备好不同大小的鼻罩和口鼻面罩供患者试 少 应通过 动态评估 值 与
+。 ABG pH 、PaCO2 用 还应注意固定带适宜的松紧度 尽量减少漏气 治疗成功的标志是酸中毒和高碳酸血症的
+, , PaO2。
+及避免面部皮肤破溃
+面罩应该适合患者的鼻子
+/ 改善[94-96]
+脸部的形态[29] 可以使用鼻 口鼻 全脸和头盔 6 2 有创通气指征 近年来 有创通气越来越多
+。 、 、 , 面罩 的作为 呼吸衰竭无创通气的补救措施
+。 AECOPD 。
+6 1 2 通气模式的选择与参数调节 常用 通 需要注意患者经 初始治疗失败而接受有创机
+NIV NIV 气模式包括 持续气道正压 压力 容量控制通气 械通气治疗 共患疾病致残率 病死率增加 住院
+: 、 / 、 , 、 , 比例辅助通气 压力支持通气 时间延长 极重度慢阻肺患者使用有创机械通气的
+、 (pressuresupport 。
+呼气末正压 其中以双水平 影响因素包括突发事件的可逆性 患者自身意愿以 ventilation,PSV)+ , 、 正压通气模式最为常用 参数调节采取适应性调节 及是否具备重症监护设施 主要风险包括呼吸机相
+方式 呼气相压力从 关性肺炎 尤其是多重耐药菌感染 气压伤 气
+: 2~4cmH2O (1cmH2O= ( )、 、 表7 的适应证和相对禁忌证
+AECOPDNIV 的适应证 至少符合以下 个条件 的相对禁忌证
+NIV ( 1 ) NIV 呼吸性酸中毒 动脉血 和 或 或 呼吸停止或呼吸明显抑制
+[ pH≤7 35 ( )PaCO2>6kPa 心血管系统不稳定 低血压 心律失常 心肌梗死
+45mmHg] ( 、 、 ) 严重呼吸困难合并临床症状 提示呼吸肌疲劳 呼吸功增加 严重的血流动力学不稳定 低血压对液体治疗和血管升压药无反应 收缩压
+, ; , ( , < 例如应用辅助呼吸肌呼吸 出现胸腹矛盾运动 或者肋间隙
+, , 90mmHg) 肌群收缩 危及生命的心律失常 虽然持续氧疗 但仍然有低氧血症 精神状态改变 不能合作
+, , 易误吸者 分泌物黏稠或大量 在 面罩不能舒适地使用时
+NIV 近期面部或胃食管手术 颅面部外伤 固定的鼻咽部异常 烧伤 注 为慢性阻塞性肺疾病急性加重 为无创机械通气
+:AECOPD ;NIV ;1mmHg=0 133kPa 表8 治疗 时的监测内容
+NIV AECOPD 项目 监测内容 一般生命体征 一般状态 神志改变等
+、 呼吸系统 呼吸困难程度 呼吸频率 胸腹活动度 辅助呼吸肌活动 呼吸音 人机协调性等
+、 、 、 、 、 循环系统 心率 心律和血压等
+、 通气参数 潮气量 压力 频率 吸气时间 漏气量等
+、 、 、 、 血气和血氧饱和度 值 等
+SpO2、pH 、PaCO2、PaO2 痰液引流 必须密切关注患者排痰能力 依据病情及痰量 定时去除面罩 进行痰液引流 鼓励咳痰
+。 , , , 不良反应 胃肠胀气 误吸 面罩压迫 口鼻咽干燥 鼻面部皮肤压伤 排痰障碍 不耐受 恐惧 幽闭症 气压伤等
+、 、 、 、 、 、 、 ( )、 注 为无创机械通气 为慢性阻塞性肺疾病急性加重 为脉搏血氧饱和度
+:NIV ;AECOPD ;SpO2 fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·141· 管切 开 和 呼 吸 机 依 赖 的 风 险[6] 对 于 某 些 平的外源性呼气末正压
+。 (extrinsicpositiveend- 患者 早期 的干预明显减少了有创 降低吸气触发功
+AECOPD , NIV expiratorypressure,PEEPe), 通气的使用 但对于有 禁忌证或使用 失 耗 改善人机的协调性 有创通气时核心参数设置
+, NIV NIV , 。
+败的严重呼吸衰竭患者 一旦出现严重的呼吸形 包括 潮气量或气道压力 目标潮气量达到
+, : (1) 。
+式 意识 血流动力学等改变 应及早插管改用有 即可 或使平台压不超过
+、 、 , 7~9ml/kg , 30cmH2O 创通气 并发呼吸衰竭时有创通气指征 和 或 气道峰压不超过 以避免
+。AECOPD ( ) 35~40cmH2O, 见表 9 [6] 。 DPH 的进一步加重和气压伤的发生 ; 同时要配合 一定的通气频率以保证基本的分钟通气量 使 表9 患者有创通气指征 ,
+AECOPD 逐渐恢复到缓解期水平 以避免 下 患者有创通气指征 PaCO2 , PaCO2
+AECOPD 降过快而导致的超射性碱中毒的发生 通气频 不能耐受 或 治疗失败 或不适合 。(2)
+NIV NIV ( NIV) 率 需与潮气量配合以保证基本的分钟通气量 同 呼吸或心脏骤停
+。 , 精神状态受损 严重的精神障碍需要镇静剂控制 时注意过高频率可能导致 加重 一般
+, DPH , 10~ 严重误吸或持续呕吐 次 即可 吸气流速 通常选择较高的 长期不能排出呼吸道的分泌物 15 /min 。 (3) 。
+吸气流速 以实现吸呼比达到 严重的血流动力学不稳定 , 对液体疗法和血管活性药物无反应 (60~100L/min), 严重的室性心律失常 或 延长呼气时间 同时满足
+1∶2 1∶3, , AECOPD 威胁生命的低氧血症 不能耐受
+, NIV 患者较强的通气需求 降低呼吸功耗 改善气体交
+, , 注 :AECOPD 为慢性阻塞性肺疾病急性加重 ;NIV 为无创机 换 常用的流速波形主要是递减波 偶 械通气
+。AECOPD , 尔用方波和正弦波 加用适当水平的
+。(4)PEEPe。
+6 2 1 通气模式的选择 常用的通气模式包括辅 可以降低 患者的气道与肺泡之间
+PEEPe AECOPD 助控制通气 同步间歇指令通气 的压差 控制通气时 一般不超过 的
+、 (synchronized 。 PEEPe PEEPi 和 否则会加重 如果无法测定 intermittent mandatory ventilation,SIMV) 80%, DPH。 PEEPi, 也可试用一些新型通气模式 如比例辅助通 可设置 为
+PSV, , PEEPe 4~6cmH2O。(5)FiO2。AECOPD 气等 其中 和 已有较多的实践 通常只需要低水平的 就可以维持基本的氧
+。 SIMV+PSV PSV FiO2 经验 目前临床最为常用 比例辅助通气尚处于探 合 若需要更高水平的 来维持患者基本的氧
+, 。 。 FiO2 索阶段 显示了一定的应用前景 表 合 提示存在某些合并症和 或 并发症 如肺
+, ( 10)。 , ( ) ,
+6 2 2 通气参数的调节 主要病生理改 炎 肺不张 气胸和心功能不全等[91]
+AECOPD 、 、PTE、 。
+变是气流阻塞进一步加重 导致肺泡有效通气量进 有创通气过程中 应评估 的药物治
+, , AECOPD 一 步 减 低 而 动 态 肺 过 度 充 气 疗反应以及有创通气呼吸支持的效果 评估患者自
+。 (dynamic , 和内源性呼气 主呼吸能力和排痰状况 同时尽可能保持患者自主 pulmonaryhyperinflation,DPH) 。
+末正压 呼吸存在 缩短机械控制通气时间 从而避免因呼
+(intrinsicpositiveend-expiratorypressure, , , 是 最重要的呼吸力学指标 为 吸肌损伤导致的呼吸机依赖 减少撤机困难
+PEEPi) AECOPD 。 , 。
+缓解其不利影响 可采取限制潮气量和呼吸频率 并发肺部感染得以控制 脓性痰液
+, 、 AECOPD , 增加吸气流速等措施以促进呼气 同时给予合适水 转为白色且痰量明显下降 肺部啰音减少 临床情
+, 、 、 表10 并发呼吸衰竭时的有创通气治疗
+AECOPD 项目 具体内容 与患者的连接 气管插管或气管切开 通气方式 辅助控制通气 同步间歇指令通气 压力支持通气
+; ; 最初治疗目标 气体交换得到改善 呼吸肌得到休息
+, 呼吸参数 潮气量 通气频率 次 吸呼比 吸气流速
+7~9ml/kg, 10~15 /min, 1∶2/1∶3, 60~100L/min 吸入氧浓度能使
+SpO2>90% 最小的外源性呼气末正压 吸气末平台压
+, <30cmH2O 如有必要 可采用允许性高碳酸血症的策略
+, 主要缺点 气管插管和气管切开的并发症 肺泡过度充气的危险 气压伤
+、 妨碍患者摄取足够的营养 妨碍患者活动
+, 注 为慢性阻塞性肺疾病急性加重 为脉搏血氧饱和度
+:AECOPD ;SpO2 ;1cmH2O=0 098kPa fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·142· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 况表明呼吸衰竭获得初步纠正后 如果 7 2 2 诊断方法 螺旋 和肺动脉造影是
+, FiO2< (1) CT 血 气 接 近 正 常 目前诊断慢阻肺并发 的主要手段 血浆
+40%, ,pH >7 35,PaCO2 < PTE ;(2) 通常可以考虑拔管 切换成为无创通 二聚体阴性有助于排除低危患者的急性肺动脉栓
+50mmHg, , D- 气呼吸支持 有创 无创序贯通气策略有助于早日 塞 故 二聚体不升高是除外 的有用指标之
+。 - , D- PTE 拔管 减少呼吸机相关性肺炎的发生[97-99] 一 核素通气 血流灌注扫描对 并
+, 。 ; (3) / AECOPD
+7 AECOPD并发症的处理 发 的诊断价值有限 如果发现深静脉血
+PTE ;(4) 病情严重的 患者常常有多种并发 栓形成 即使不做肺血管造影 亦应抗凝治疗
+AECOPD , , 。
+症 加强对并发症的早期诊断和治疗可以改善这些 7 2 3 预防策略 对卧床 红细胞增多症或脱水
+, 、 患者的预后 相关并发症会导致住院频 的 患者 无论是否有血栓栓塞性疾病
+。AECOPD AECOPD , 次 医疗费用和病死率增加 增加治疗难度[102] 史 均需考虑使用肝素或低分子量肝素抗凝治疗
+、 , 。 , 。
+7 1 并发心力衰竭和心律失常 7 2 4 治疗手段 治疗手段参见 肺血栓栓塞症
+AECOPD “ 并发右心衰竭时 有效地控制呼吸道感 诊治与预防指南 [103]和 急性肺血栓栓塞症诊断
+AECOPD , ” “ 染 应用支气管舒张剂 改善缺氧和高碳酸血症 治疗中国专家共识 [104]
+, , , ” 。
+适当应用利尿剂 常可控制右心衰竭 通常无需使 7 3 合并肺动脉高压和右心功能不全
+, , AECOPD 用强心剂 患者出现双下肢对称性水肿 肺动脉瓣
+。 AECOPD 、
+7 1 1 利尿剂 利尿剂适用于顽固性右心衰竭 听诊区第二心音亢进 第三心音 收缩期三尖瓣杂
+、 、 、 明显水肿及合并急性左心衰竭的 患者 音等体征支持肺动脉高压的推断 而心电图可见右
+AECOPD 。 。
+一般选用缓慢或中速利尿剂 以避免痰液变黏稠与 心室增大 肥厚 电轴右偏的图形 胸部 显示
+, 、 、 , CT 低钾血症 加重呼吸抑制[71] 右下肺动脉干增粗 肺动脉 主动脉直径比 的
+, 。 、 / >1
+7 1 2 强心剂 并发右心衰竭并不是应 征 象 血 升 高 有 助 于
+AECOPD , BNP/NT-proBNP , 用强心剂的指征 除非 患者并发左心室 合并肺动脉高压的诊断 受肺气肿影响
+, AECOPD AECOPD 。 , 功能障碍 但需减量使用并严密观察 主要原因是 的慢阻肺患者能够通过检测三尖瓣反流峰值流
+, 。 38% 低氧血症患者应用洋地黄易于中毒 而且对右心功 速估测肺动脉收缩压 超声心动图对晚期慢阻肺肺
+能衰竭效果不佳 动脉压评估可靠性进一步降低[66] 临床路径要求
+7 1 3 心律失常的治疗 对于 患者心 可疑肺源性心脏病患者应进行超声心动图检测
+AECOPD 。
+律失常 主要是识别和治疗引起心律失常的原因 相关肺动脉高压目前暂无特异性治
+, : AECOPD 低氧血症 低钾血症 低镁血症 呼吸性酸中毒或 疗方法[105-107] 肺动脉高压指南不推荐血管扩张剂
+、 、 、 。
+碱中毒及肺源性心脏病本身 积极纠正上述诱因 靶向药物治疗慢阻肺合并肺动脉高压 主要是该类
+心律失常即可消失 药物会抑制低氧引起的肺血管收缩 从而损害气体
+7 2 并发 慢阻肺是 的重要 交换 使通气 灌注比例失调恶化 进一步加重低
+AECOPD PTE PTE , / , 危险因素之一 在住院治疗的 患者中尤 氧血症 加剧临床症状 年欧洲指南明确指
+, AECOPD , 。2022 为突出[100] 患者并发 的发病率为 出 肺部疾病合并肺动脉高压最佳治疗仍然是治疗
+。AECOPD PTE : 未经治疗的 患者病死率约为 基础肺部疾病[107]
+5 9%~16 1%。 PTE 。
+并发 的诊断和治疗都比较困 8 AECOPD姑息治疗和临终关怀
+30%。AECOPD PTE 难 可疑患者需同时处理 和 [101-102] 年颁布的 首次提出姑息治疗应用
+, AECOPD PTE 。 2013 GOLD
+7 2 1 常见诱因 低氧血症导致继发性红细 于晚期重症慢阻肺患者[69] 人一生中超过 的
+(1) 。 25% 胞增多 使血液黏稠度增加 血小板功能异常 医疗费用花费在最后一年当中 主诊医师应该与患
+, 、 ; , 患者并发肺源性心脏病时常伴有右 者 家属充分沟通 共同制定兼具治疗方法与临终
+(2)AECOPD 、 , 室壁栓子形成 患者的心肺储备功 关怀的照护方案 既关切患者疾病痛苦 又能降低
+;(3)AECOPD , , 能差 体力活动受限 长期卧床 深静脉血栓发病 不必要的医疗消耗 姑息治疗不是放弃医疗 合理
+, , , 。 , 率增加等 因为 的症状和体征均非特异性 的姑息治疗方案能提高晚期患者生活质量 减少症
+。 PTE , 、 呼吸困难和低氧血症又常可由 本身引 状甚至可以延长部分患者的生存期[108] 对支气管舒
+AECOPD 。
+起 患者并发 诊断困难 呼吸困难 张剂治疗无效且在休息时即有呼吸困难 住院和急
+,AECOPD PTE 。 、 加重伴低血氧 且高流量吸氧后 不能升至 诊就诊次数增加的晚期 患者 应该对其提
+, PaO2 AECOPD , 以上常提示 可能 供家庭养护治疗[69,108]
+60mmHg PTE 。 。
+fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·143·
+9 AECOPD的出院和管理 9 3 再次急性加重 文献报道 过去发
+AECOPD ,
+9 1 患者的出院标准 患者 生 次及 次以上急性加重的慢阻肺患者 将来可
+AECOPD AECOPD 2 2 , 的出院标准如下 主诊医师认为患者适合家庭 能约有 的风险再次发生急性加重 故认为 急
+:(1) 3/4 。 , 照护 患者完全明白出院后使用药物与正确用 性加重病史是未来发生急性加重的最佳预测
+;(2) 法 如能够独立使用 或者在家人协助下正确使用 因素[109]
+吸入支气管舒张剂 如果以前没有卧床 需能 9 4 的预防 通常是可以预
+;(3) , AECOPD AECOPD 在室内行走 能够进食 且呼吸困难程度不影 防的 戒烟 流感疫苗接种和肺炎球菌疫苗接种
+;(4) , 。 、 、 响睡眠 临床症状与 稳定 或以 冬季保暖 正确用药等都很关键 其中正确吸入支
+;(5) ABG 12~24h 、 。
+上 随访和家庭护理计划安排妥当 如随访基 气管舒张剂 吸入糖皮质激素对改善呼吸困难症状
+;(6) ( 、 层社区医师
+、 家庭医疗等
+、 减少急性加重有益[110]
+N- 乙酰半 患者出院时 应该已明确制定了有 胱氨酸 羧甲司坦等具有抗氧化作用的药物 可以
+AECOPD , 、 , 效的长期家庭维持治疗方案 包括长期家庭氧疗 减少 发生率 慢阻肺患者免疫调节剂治
+, 、 AECOPD 。
+家庭无创呼吸机使用必要性与方法 对药物吸入技 疗可降低严重程度及急性加重频率 表
+。 ( 11)。
+术进行再次培训 安排出院 周后随访 提供 患者出院后尽早进行肺康复 能显著改
+, 4~8 , AECOPD , 并发症的研判 紧急处理和随访计划[69] 善出院后 个月时的运动能力和健康状态
+、 。 3 。2015
+9 2 患者出院后随访 患者出院后随访内容包括 年 和加拿大胸科学会联合发布了
+: ATS AECOPD 评价患者对家庭日常生活环境的适应能力 检测肺 预防指南[110]
+功能 如 对患者的药物吸入技术进行再 9 4 1 疫苗 和加拿大胸科学会推荐每年接
+( FEV1); ATS 次评价以及评估患者对治疗方案的理解程度 并对 种流感疫苗以预防 [111] 大部分指南推荐
+。 AECOPD 。
+是否需要长期氧疗和 或 家庭雾化治疗进行再评 慢阻肺患者应用流感疫苗 其次是肺炎球菌疫
+( ) , 价
+; 考查患者体力活动和日常活动的能力
+, 可进行 苗[24]
+。20 世纪 年代我国开始研发气管炎菌苗用 改良版英国医学研究委员会呼吸困难量表或慢阻肺 于 预防 至今国内外不同细菌提取物作
+AECOPD , 评估测试的问卷调查 以及了解患者并发症的情 为免疫制剂已经广泛用于包括慢阻肺在内的慢性感
+如果基层医疗机构医师能够进行家庭医疗
+, 染预防[112]
+患者可早日出院 制定治疗计划 增加 9 4 2 复合制剂 十几年来
+AECOPD 。 , ICS+LABA ,ICS+ 合理的干预 缩短急性加重的康复时间 对于急性 复合制剂用于中至重度稳定期慢阻肺患者
+, 。 LABA , 加重过程中存在低氧血症的患者
+、 出院后 显示能够减少
+AECOPD 的次数[109]
+可能是考虑 个月均应检测 和 或 如患者仍存 到长期吸入激素不良反应与双支气管舒张剂的优
+3 ABG ( )SpO2。
+在低氧血症 则需要长期氧疗[6,69] 如吸氧仍然不 势 年版 没有推荐 复合
+, 。 ,2023 GOLD ICS+LABA 能缓解呼吸困难症状 且影响睡眠 吃饭 则应考 制剂用于慢阻肺 任何类型[1]
+, 、 , A/B/E 。
+虑家庭 9 4 3 吸入长效支气管舒张剂 以及
+NIV。 LAMA 表11 减少 发生频率和住院次数的预防措施
+AECOPD 药物预防 非药物预防 疫苗 流感疫苗和肺炎球菌疫苗接种 戒烟
+: 复合制剂 氟替卡松 沙美特罗 布地奈德 福莫特罗 控制污染
+ICS+LABA : + ; + 吸入长效支气管舒张剂 家庭氧疗 茚达特罗 沙美特罗 福莫特罗 奥达特罗 支持
+LABA: , , , NIV 噻托溴铵 芜地溴胺 格隆溴铵 阿地溴胺 肺康复
+LAMA: , , , 吸入 复合制剂 噻托溴铵 奥达特罗 芜地溴胺 维兰特罗 阿地溴胺 福莫特罗 格隆溴胺 茚达特罗 肺减容术
+LABA/LAMA : + , + , + , + 三联治疗
+:ICS+LABA+LAMA 磷酸二酯酶 抑制剂 罗氟司特
+4 : 茶碱 黏液溶解剂 氨溴索 厄多司坦 羧甲司坦
+: 、 、 抗氧化剂药物 乙酰半胱氨酸
+:N- 免疫调节剂 注 为慢性阻塞性肺疾病急性加重 为吸入性糖皮质激素 为长效 受体激动剂 为长效抗胆碱能制剂
+:AECOPD ;ICS ;LABA β2 ;LAMA ; 为无创机械通气
+NIV fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·144· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 对于预防 有明确的作用 急性加 防 改善患者生活质量和临床症状[118]
+LABA AECOPD 。 AECOPD, , 重期间的呼吸困难是由于呼出气流受限的急性加剧 但 报告明确指出 持续预防性应用抗菌药
+GOLD :“ 和气体陷闭所致 推荐应用速效支气管舒张剂 当 物 对 无 效 目 前 尚 不 推 荐 这 种
+, 。 AECOPD , 患者病情稳定时 恢复长效支气管舒张剂吸入 改 治疗 [1,6]
+, , ” 。
+善气流受限 减少 发生率[113] 总之 是慢阻肺患者咳嗽 咳痰
+, AECOPD 。 ,AECOPD 、 、
+9 4 3 1 与安慰剂相比较 噻托溴铵长 呼吸困难等症状急性加重或短期内进一步恶化 伴
+LAMA , , 期治疗可降低 发生率达 新型 随气道和全身炎症加剧等一系列病生理异常的临床
+AECOPD 22%。
+包括格隆溴铵和阿地溴胺 格隆溴铵可降 过程 具有高度异质性 其诱因复杂 多为呼吸道
+LAMA , , 。 , 低慢阻肺患者 的中度到重度的急性加重[113] 病毒感染触发 引起和 或 加重下呼吸道细菌感
+34% 。 , ( )
+9 4 3 2 同样能够预防急性加重 染 加重气流阻塞 的发生与肺功能加
+LABA LABA , , 。AECOPD 但是其降低 的效应略逊于 速下降 生活质量减低及病死率增加有关 我国慢
+AECOPD LAMA。 、 。
+主要是沙美特罗和福莫特罗 能够降低中 阻肺临床管理与新型药物研发进展相对缓慢[119]
+LABA ( ) 。
+等严重程度的 慢阻肺规范化管理是 预防的关键措施
+AECOPD。 AECOPD ,
+9 4 4 吸入长效支气管舒张剂复合制剂 而 合理治疗是改善慢阻肺预后的核心目
+(LABA+ AECOPD 和 复合制剂是一种在同 标[120] 慢阻肺临床与生物学分型 及其
+LAMA) LABA LAMA 。 、AECOPD 一吸入装置中含有 种长效支气管舒张剂的药物 严重程度判断工具 不同诱因致病机制研究进展值
+2 , 、 与其单一成分相比较 能增加支气管扩张效应 一 得期待[121-122]
+项随机对照研究表明 对于严重和非常严重的慢阻 慢性阻塞性肺疾病急性加重诊治专家组成员 按姓氏汉语拼音
+, ( 肺患者 与吸入格隆溴铵单一制剂相比 应用格隆 排序 )
+, , 白春学 复旦大学附属中山医院 溴铵 和茚达特罗 复合制剂能 ( )
+(50μg) (110μg) 蔡柏蔷 中国医学科学院北京协和医院 显著减少慢阻肺患者中度和严重程度的急性加重达 ( ) 蔡绍曦 南方医科大学南方医院
+12% [114] 。 如果与应用氟替卡松 + 沙美特罗复合制 曹 彬 ( ( 中日友好医院 ) ) 剂相比较 格隆溴铵和茚达特罗复合制剂能显著减 崔丽英 内蒙古医科大学附属医院
+, ( ) 少慢阻肺患者中度和严重程度的急性加重达 高占成 北京大学人民医院
+( ) 顾宇彤 复旦大学附属中山医院
+31% [115] 。 ( )
+9 4 5 三联治疗 一项有关慢阻肺患者应用吸入 黄绍光 ( 上海交通大学医学院附属瑞金医院 ) 康 健 中国医科大学附属第一医院 制剂的对照研究表明 与单一噻托溴铵吸入治疗相 ( )
+, 李圣青 复旦大学附属华山医院 比 三联治疗 噻托溴铵 氟替卡松 沙美特罗 ( )
+, ( + + ) 林英翔 首都医科大学附属北京朝阳医院 虽然未能显著减少急性加重的次数 却使因 ( )
+, 刘荣玉 安徽医科大学第一附属医院
+( ) 需要住院的患者减少了 [72] 同一装 柳广南 广西医科大学第一附属医院
+AECOPD 47% 。 ( ) 置中三联复合吸入制剂 布地奈德 格隆溴铵 福 柳 涛 中国医学科学院北京协和医院
+( + + ( ) 莫特罗 相比双长效支气管舒张剂 格隆溴铵 福 施 毅 南京军区总医院
+) ( + ( ) 莫特罗
+) 吸入气雾剂降低全因死亡风险[116]
+。2023 宋元林
+( 复旦大学附属中山医院 上海市呼吸病研究所
+) 孙铁英 北京医院 版 建议只有每年 次或以上中等程度急性 ( )
+GOLD 2 孙永昌 北京大学第三医院 加重 临床 型 而且外周血 个 ( ) 的患者
+), 制剂[1]
+EOS>300 / μl 王 王 长 京 征 岚
+( 重 中 庆 国 医 医 科 学 大 科 学 学 第 院 二 北 附 京 属 协 医 和 院 医
+9 4 6 磷酸二酯酶 抑制剂 例慢阻肺患者 文富强 四川大学华西医院
+4 3000 ( ) 参与的临床研究表明 与安慰剂相比较 罗氟司特 肖 伟 山东大学齐鲁医院
+, , ( ) 降低了
+AECOPD 发生率[72]
+( 中国人民解放军总医院
+9 4 7 黏液溶解剂和抗氧化剂药物 临床研究表 阎锡新 ( 河北医科大学第二医院 河北省呼吸危重症重点实验室 ) 杨 汀 中日友好医院 明 例中重度慢阻肺患者应用 乙酰半胱氨 ( )
+,1006 N- 姚婉贞 北京大学第三医院 酸治疗 年 治疗组患者每年发生 次急性加 ( )
+1 , 1 16 余 勤 兰州大学第一医院 重 而安慰剂组发生 次急性加重 表明 乙 ( )
+, 1 49 , N- 张 弘 ( 中国医学科学院北京协和医院 ) 酰半胱氨酸能减少
+AECOPD 发生率[117]
+。 张 静 ( 复旦大学附属中山医院 上海市呼吸病研究所 )
+9 4 8 其他 有报道大环内酯类抗菌药物能够预 郑劲平 广州医科大学附属第一医院 广州呼吸疾病研究所
+( ) fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·145· 执笔者 按姓氏汉语拼音排序
+( ) RespiratorySociety AmericanThoracicSocietyguideline 蔡柏蔷 阎锡新
+、 J EurRespirJ 2017 49 3 1600791 DOI 10 1183 编写秘书 按姓氏汉语拼音排序
+( ) 13993003 00791-2016 李婧雯 河北医科大学第二医院
+( ) 12 HanM LazarusSC COPD Diagnosisandmanagement 魏娇娜 河北医科大学第二医院
+( ) M BroaddusVC ErnstJD KingTE etal Murrayand 利益冲突 所有作者声明无利益冲突
+Nadel's Textbook of Respiratory Medicine 7th ed
+Philadelphia Elsevier 2022 870 参 考 文 献
+13 CelliBR FabbriLM AaronSD etal Anupdateddefinition andseverityclassificationofchronicobstructivepulmonary
+1 Globalinitiativeforchronicobstructivelungdisease Global diseaseexacerbations TheRomeproposal J AmJRespir strategyforthediagnosis management andpreventionof
+CritCareMed 2021 204 11 1251-1258 DOI 10 1164 chronicobstructivepulmonarydisease 2023report EB rccm 202108-1819PP
+OL http goldcopd org 2023-gold-report-2
+14 Mackay AJ HurstJR COPD exacerbations causes
+2 WangC XuJ YangL etal Prevalenceandriskfactorsof prevention andtreatment J ImmunolAllergyClinNorth chronicobstructivepulmonarydiseaseinChina theChina
+Am 2013 33 1 95-115 DOI 10 1016 j iac 2012 10
+PulmonaryHealth CPH study Anationalcross-sectional study J Lancet 2018 391 10131 1706-1717 DOI 10
+15 Wedzicha JA Singh R Mackay AJ Acute COPD
+1016 S0140-6736 18 30841-9 exacerbations J ClinChestMed 2014 35 1 157-163
+3 ZhongN WangC Yao W etal Prevalenceofchronic
+DOI 10 1016 j ccm 2013 11 001 obstructivepulmonarydiseaseinChina Alarge population 16 MolyneauxPL MalliaP CoxMJ etal Outgrowthofthe basedsurvey J AmJRespirCritCareMed 2007 176 8 bacterialairwaymicrobiomeafterrhinovirusexacerbationof
+753-760 DOI 10 1164 rccm 200612-1749OC chronicobstructivepulmonarydisease J AmJRespirCrit
+4 YinP WangH VosT etal Asubnationalanalysisof
+CareMed 2013 188 10 1224-1231 DOI 10 1164 rccm mortalityandprevalenceofCOPDinChinafrom1990to
+201302-0341OC
+2013 Findingsfromtheglobalburdenofdiseasestudy2013
+17 YeF HeLX CaiBQ etal Spectrumandantimicrobial
+J Chest 2016 150 6 1269-1280 DOI 10 1016 j chest resistanceofcommonpathogenicbacteriaisolatedfrom
+2016 08 1474 蔡柏蔷 我国慢性阻塞性肺疾病诊治现状及存在的问题 patientswithacuteexacerbationofchronicobstructive 中华医学杂志 pulmonarydiseaseinmainlandofChina J ChinMedJ
+J 2017 97 40 3124-3127 DOI 10
+Engl 2013 126 12 2207-2214
+3760 cma j issn 0376-2491 2017 40 002
+18 FengC XuM KangJ etal Atypicalpathogendistribution
+6 Globalinitiativeforchronicobstructivelungdisease Global inChinesehospitalizedAECOPDpatients A multicenter strategyforthediagnosis managementandpreventionof cross-sectionalstudy J IntJChronObstructPulmonDis chronicobstructivepulmonarydisease 2022report EB
+2021 16 1699-1708 DOI 10 2147 COPD S300779
+OL http goldcopd org 2022-gold-reports
+7 PereraPN Armstrong EP SherrillDL etal Acute
+19 QuF LiuF ZhangH etal Thehospitalizationattributable burden ofacute exacerbations ofchronic obstructive exacerbationsofCOPDinthe UnitedStates Inpatient burdenandpredictorsofcostsandmortality J COPD pulmonary disease due to ambient air pollution in
+2012 9 2 131-141 DOI 10 3109 15412555 2011 Shijiazhuang China J EnvironSciPollutResInt 2019 26
+650239 30 30866-30875 DOI 10 1007 s11356-019-06244-1
+8 LiangC MaoX NiuH etal Characteristics management 20 QuF LiuF ZhangH etal Comparisonofairpollutant- andin-hospitalclinicaloutcomesamonginpatientswith related hospitalization burden from AECOPD in acuteexacerbationofchronicobstructivepulmonarydisease Shijiazhuang China between heating and non-heating inChina ResultsfromthephaseⅠdataofACUREstudy season J EnvironSciPollutResInt 2019 26 30 31225 J IntJChronObstructPulmonDis 2021 16 451-465 31233 DOI 10 1007 s11356-019-06242-3
+DOI 10 2147 COPD S281957 21 LiMH FanLC MaoB etal Short-termexposureto
+9 LiangL ShangY XieW etal Trendsinhospitalization ambientfineparticulatematterincreaseshospitalizations expendituresforacuteexacerbationsofCOPDinBeijing andmortalityinCOPD Asystematicreviewandmeta- from2009to2017 J IntJChronObstructPulmonDis analysis J Chest 2016 149 2 447-458 DOI 10 1378
+2020 15 1165-1175 DOI 10 2147 COPD S243595 chest 15-0513
+10 CelliBR MacNeeW ATS ERSTaskForce Standardsfor 22 NiL ChuangCC ZuoL Fineparticulatematterinacute thediagnosisandtreatmentofpatientswithCOPD A exacerbationofCOPD J FrontPhysiol 2015 6 294 DOI summaryoftheATS ERSpositionpaper J EurRespirJ 10 3389 fphys 2015 00294
+2004 23 6 932-946 DOI 10 1183 09031936 04 23 BafadhelM McKennaS TerryS etal Acuteexacerbations
+00014304 ofchronicobstructivepulmonarydisease Identificationof
+11 Co-Chair WJAE Miravitlles M Hurst JR et al biologicclustersandtheirbiomarkers J AmJRespirCrit
+Management of COPD exacerbations A European CareMed 2011 184 6 662-671 DOI 10 1164 rccm fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·146· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2
+201104-0597OC 20210201-00090 慢性阻塞性肺疾病急性加重抗菌治疗论坛专家组 慢性阻 徐玮涵 王浩彦 反应蛋白与慢性阻塞性肺疾病 国际
+24 “ 37 C J 塞性肺疾病诊治指南 中急性加重抗菌治疗的地位 中 呼吸杂志
+” J 2012 32 16 1263-1267 DOI 10 3760 cma j 华结核和呼吸杂志
+2013 36 9 712-714 DOI 10 3760 issn 1673-436X 2012 016 016 慢性阻塞性肺疾病急性加重抗感染治疗中国专家共识编写 cma j issn 1001-0939 2013 09 024 38 组 慢性阻塞性肺疾病急性加重抗感染治疗中国专家共识
+25 KeeneJD Jacobson S Kechris K etal Biomarkers 国际呼吸杂志 predictive of exacerbations in the SPIROMICS and J 2019 39 17 1281-1296 DOI 10
+COPDGenecohorts J AmJRespirCritCareMed 2017 3760 cma j issn 1673-436X 2019 17 001
+195 4 473-481 DOI 10 1164 rccm 201607-1330OC 39 Thomsen M Ingebrigtsen TS Marott JL et al
+26 Koutsokera A Stolz D Loukides S etal Systemic Inflammatorybiomarkersandexacerbationsinchronic biomarkersinexacerbationsofCOPD Theevolvingclinical obstructivepulmonarydisease J JAMA 2013 309 22 challenge J Chest 2012 141 2 396-405 DOI 10 1378 2353-2361 DOI 10 1001 jama 2013 5732 chest 11-0495 40 BrightlingCE Biomarkersthatpredictandguidetherapyfor
+27 GuerraB GaveikaiteV BianchiC etal Predictionmodels exacerbationsofchronicobstructivepulmonarydisease J forexacerbationsinpatientswithCOPD J EurRespir AnnAmThoracSoc 2013 10Suppl S214-219 DOI 10
+Rev 2017 26 143 160061 DOI 10 1183 16000617 0061- 1513 AnnalsATS 201302-023AW
+2016 41 HurstJR DonaldsonGC PereraWR etal Useofplasma
+28 Bertoletti L Quenet S Mismetti P et al Clinical biomarkers at exacerbation of chronic obstructive presentationandoutcomeofvenousthromboembolismin pulmonarydisease J AmJRespirCritCareMed 2006
+COPD J EurRespirJ 2012 39 4 862-868 DOI 10 174 8 867-874 DOI 10 1164 rccm 200604-506OC
+1183 09031936 00058811 42 DavidsonAC BanhamS ElliottM etal BTS ICSguideline
+29 DoˇganNÖ VarolY KöktürkN etal 2021guidelinefor forthe ventilatory managementofacute hypercapnic the management of COPD exacerbations Emergency respiratoryfailureinadults J Thorax 2016 71Suppl2
+Medicine Associationof Turkey EMAT Turkish ii1-35 DOI 10 1136 thoraxjnl-2015-208209
+ThoracicSociety TTS ClinicalPracticeGuidelineTask 43 PavasiniR TavazziG BiscagliaS etal Aminoterminalpro
+Force J TurkJEmergMed 2021 21 4 137-176 DOI brainnatriureticpeptidepredictsall-cause mortalityin
+10 4103 2452-2473 329630 patients with chronic obstructive pulmonary disease
+30 MathioudakisAG JanssensW SivapalanP etal Acute Systematicreviewandmeta-analysis J ChronRespirDis exacerbationsofchronicobstructivepulmonarydisease In 2017 14 2 117-126 DOI 10 1177 1479972316674393 searchofdiagnosticbiomarkersandtreatabletraits J 44 GrolimundE Kutz A Marlowe RJ etal Long-term
+Thorax 2020 75 6 520-527 DOI 10 1136 thoraxjnl- prognosisinCOPDexacerbation roleofbiomarkers clinical
+2019-214484 variablesandexacerbationtype J COPD 2015 12 3
+31 ChengSL Bloodeosinophilsandinhaledcorticosteroidsin 295-305 DOI 10 3109 15412555 2014 949002 patientswithCOPD Systematicreviewandmeta-analysis 45 GuoX NieH ChenQ etal TheroleofplasmaN-terminal
+J IntJChronObstructPulmonDis 2018 13 2775-2784 brainnatriureticpro-peptideindiagnosingelderlypatients
+DOI 10 2147 COPD S175017 withacuteexacerbationofCOPDconcurrentwithleftheart
+32 ViniolC VogelmeierCF ExacerbationsofCOPD J Eur failure J IntJChronObstructPulmonDis 2018 13 2931 RespirRev 2018 27 147 170103 DOI 10 1183 2940 DOI 10 2147 COPD S164671
+16000617 0103-2017 46 LaribiS PembertonCJ KirwanL etal Mortalityandacute 中国医药教育协会感染疾病专业委员会 感染相关生物标
+33 exacerbationofCOPD Apilotstudyontheinfluenceof 志物临床意义解读专家共识 中华结核和呼吸杂志
+J myocardialinjury J EurRespirJ 2017 49 6 1700096
+2017 40 4 243-257 DOI 10 3760 cma j issn 1001- DOI 10 1183 13993003 00096-2017
+0939 2017 04 002 47 Wang M Lin EP Huang LC et al Mortality of
+34 SchuetzP BretscherC BernasconiL etal Overviewof cardiovasculareventsinpatientswithCOPDandpreceding procalcitoninassaysandprocalcitonin-guidedprotocolsfor hospitalizationforacuteexacerbation J Chest 2020 158 themanagementofpatientswithinfectionsandsepsis J 3 973-985 DOI 10 1016 j chest 2020 02 046
+ExpertRevMolDiagn 2017 17 6 593-601 DOI 10 48 AdamsonPD AndersonJA Brook RD etal Cardiac
+1080 14737159 2017 1324299 troponinIandcardiovascularriskinpatientswithchronic 降钙素原急诊临床应用专家共识组 降钙素原 急诊
+35 PCT obstructivepulmonarydisease J JAmCollCardiol 2018 临床应用的专家共识 中华急诊医学杂志
+J 2012 21 9 72 10 1126-1137 DOI 10 1016 j jacc 2018 06 051
+944-951 DOI 10 3760 cma j issn 1671-0282 2012 09 49 ElmenawiKA AnilV GosalH etal Theimportanceof
+005 measuringtroponininchronicobstructivepulmonarydisease 吴新宇 宋丹丹 赵洪文 血清降钙素原指导 患者
+36 AECOPD exacerbations Asystematicreview J Cureus 2021 13 抗菌治疗疗效及预后的 分析 国际呼吸杂志 meta J 8 e17451 DOI 10 7759 cureus 17451
+2022 42 4 250-261 DOI 10 3760 cma j cn131368- 50 CouturaudF BertolettiL PastreJ etal Prevalenceof fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·147· pulmonary embolism among patients with COPD follow-upofacutehospitalisedexacerbationofCOPD A hospitalizedwithacutelyworseningrespiratorysymptoms Europe-wideconsensus J IntJChronObstructPulmon
+J JAMA 2021 325 1 59-68 DOI 10 1001 jama 2020 Dis 2021 16 321-332 DOI 10 2147 COPD S287705
+23567 63 ChengT WanH ChengQ etal Computedtomography
+51 AlevaFE VoetsL SimonsSO etal Prevalenceand manifestationofacuteexacerbationofchronicobstructive localizationofpulmonaryembolisminunexplainedacute pulmonarydisease Apilotstudy J ExpTherMed 2016 exacerbationsofCOPD Asystematicreviewandmeta- 11 2 519-529 DOI 10 3892 etm 2015 2930 analysis J Chest 2017 151 3 544-554 DOI 10 1016 j 64 Hackx M Ghaye B Coche E etal Severe COPD chest 2016 07 034 exacerbation CTfeatures J COPD 2015 12 1 38-45
+52 FruchterO YiglaM KramerMR D-dimerasaprognostic DOI 10 3109 15412555 2014 903916 biomarkerformortalityinchronicobstructivepulmonary 65 LabakiWW MartinezCH MartinezFJ etal Theroleof diseaseexacerbation J AmJMedSci 2015 349 1 29- chest computed tomography in the evaluation and
+35 DOI 10 1097 MAJ 0000000000000332 managementofthe patient with chronic obstructive
+53 HuG WuY ZhouY etal PrognosticroleofD-dimerfor pulmonarydisease J AmJRespirCritCareMed 2017 in-hospitaland1-yearmortalityinexacerbationsofCOPD 196 11 1372-1379 DOI 10 1164 rccm 201703-0451PP
+J IntJChronObstructPulmonDis 2016 11 2729-2736 66 MedrekSK Sharafkhaneh A Spiegelman AM etal
+DOI 10 2147 COPD S112882 AdmissionforCOPDexacerbationisassociatedwiththe
+54 KonstantinidesSV MeyerG BecattiniC etal 2019ESC clinicaldiagnosisofpulmonaryhypertension Resultsfroma
+Guidelinesforthediagnosisand managementofacute retrospectivelongitudinalstudyofaveteranpopulation J pulmonaryembolismdevelopedincollaborationwiththe COPD 2017 14 5 484-489 DOI 10 1080 15412555
+EuropeanRespiratorySociety ERS J EurHeartJ 2017 1336209
+2020 41 4 543-603 DOI 10 1093 eurheartj ehz405 67 WoodheadM BlasiF EwigS etal Guidelinesforthe
+55 FabbianF DeGiorgiA ManfrediniF etal Impactofrenal managementofadultlowerrespiratorytractinfections-- dysfunctiononin-hospitalmortalityofpatientswithsevere summary J ClinMicrobiolInfect 2011 17Suppl6 1-24 chronicobstructive pulmonary disease A single-center DOI 10 1111 j 1469-0691 2011 03602 x
+Italianstudy J IntUrolNephrol 2016 48 7 1121-1127 68 DengL YanJ XuH etal Predictionofexacerbation
+DOI 10 1007 s11255-016-1272-5 frequencyofAECOPDbasedonnext-generationsequencing
+56 BarakatMF McDonaldHI CollierTJ etal Acutekidney anditsrelationship withimbalanceoflung and gut injuryinstableCOPDandatexacerbation J IntJChron microbiota Aprotocolofaprospectivecohortstudy J
+ObstructPulmonDis 2015 10 2067-2077 DOI 10 2147 BMJOpen 2021 11 9 e047202 DOI 10 1136 bmjopen COPD S88759 2020-047202
+57 WanX ChenD TanY etal Incidence riskfactors and 69 VestboJ HurdSS AgustíAG etal Globalstrategyforthe prognosticimplicationsofacutekidneyinjuryinpatients diagnosis management and prevention of chronic withacuteexacerbationofCOPD J IntJChronObstruct obstructivepulmonarydisease GOLDexecutivesummary
+PulmonDis 2020 15 1085-1092 DOI 10 2147 COPD J AmJRespirCritCareMed 2013 187 4 347-365
+S238343 DOI 10 1164 rccm 201204-0596PP 中华医学会呼吸病学分会慢性阻塞性肺疾病学组 中国医
+58 ChalelaR González-GarcíaJG ChillarónJJ etal Impactof 70 师协会呼吸医师分会慢性阻塞性肺疾病工作委员会 慢性 hyponatremiaonmortalityandmorbidityinpatientswith 阻塞性肺疾病诊治指南 年修订版 中华结核和呼
+COPDexacerbations J RespirMed 2016 117 237-242 2021 J 吸杂志
+DOI 10 1016 j rmed 2016 05 003 2021 44 3 170-205 DOI 10 3760 cma j
+59 Goudis CA Konstantinidis AK Ntalas IV et al cn112147-20210109-00031 中华医学会 中华医学会杂志社 中华医学会全科医学分
+Electrocardiographicabnormalitiesandcardiacarrhythmias 71 会 等 慢性肺源性心脏病基层诊疗指南 年 中华 inchronicobstructivepulmonarydisease J IntJCardiol 2018 J 全科医师杂志
+2015 199 264-273 DOI 10 1016 j ijcard 2015 06 096 2018 17 12 959-965 DOI 10 3760 cma
+60 Chen W Thomas J Sadatsafavi M et al Risk of j issn 1671-7368 2018 12 002 cardiovascular comorbidity in patients with chronic 72 AaronSD Managementandpreventionofexacerbationsof obstructivepulmonarydisease Asystematicreviewand COPD J BMJ 2014 349 g5237 DOI 10 1136 bmj meta-analysis J LancetRespirMed 2015 3 8 631-639 g5237
+DOI 10 1016 S2213-2600 15 00241-6 73 MauriT TurriniC EroniaN etal Physiologiceffectsof
+61 BhattSP NandaS KintzerJS Arrhythmiasastriggerfor high-flow nasalcannulainacutehypoxemicrespiratory acute exacerbations ofchronic obstructive pulmonary failure J AmJRespirCritCareMed 2017 195 9 1207- disease J RespirMed 2012 106 8 1134-1138 DOI 10 1215 DOI 10 1164 rccm 201605-0916OC
+1016 j rmed 2012 04 007 74 OczkowskiS ErganB BosL etal ERSclinicalpractice
+62 Ramakrishnan S Janssens W Burgel PR et al guidelines High-flownasalcannulainacuterespiratory
+Standardisationofclinicalassessment managementand failure J EurRespirJ 2022 59 4 2101574 DOI 10 fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+·148· 2023 2 43 2 IntJRespir,February2023,Vol.43,No.2
+1183 13993003 01574-2021 pulmonarydisease J AmJRespirCritCareMed 2013
+75 ThilleAW YoshidaT Highpressureversushighflow 188 9 1052-1057 DOI 10 1164 rccm 201302-0289PP 中华医学会呼吸病学分会感染学组 中国成人医院获得性
+Whatshouldwetargetinacuterespiratoryfailure J Am 88 肺炎与呼吸机相关性肺炎诊断和治疗指南 年版
+JRespirCritCareMed 2020 201 3 265-266 DOI 10 2018 J 中华结核和呼吸杂志
+1164 rccm 201911-2196ED 2018 41 4 255-280 DOI 10 3760 俞森洋 慢性阻塞性肺病和哮喘的雾化吸入疗法 中国
+76 J cma j issn 1001-0939 2018 04 006 药物应用与监测
+2006 3 4 28-31 DOI 10 3969 j issn 89 MalliaP FootittJ SoteroR etal Rhinovirusinfection
+1672-8157 2006 04 009 inducesdegradationofantimicrobialpeptidesandsecondary 成人慢性气道疾病雾化吸入治疗专家组 成人慢性气道疾
+77 bacterialinfectioninchronicobstructivepulmonarydisease 病雾化吸入治疗专家共识 中国呼吸与危重监护杂志
+J J AmJRespirCritCareMed 2012 186 11 1117-1124
+2012 11 2 105-110 DOI 10 3969 j issn 1671-6205 DOI 10 1164 rccm 201205-0806OC 陈闽江 柳涛 蔡柏蔷 解读 年成人下呼吸道感染的诊
+2012 02 001 90 2011 治指南 概述 国际呼吸杂志
+78 McCroryDC BrownCD Inhaledshort-actingbeta2-agonists J 2012 32 16 1201-1206 versusipratropium foracuteexacerbationsofchronic DOI 10 3760 cma j issn 1673-436X 2012 16 001 中华医学会重症医学分会 慢性阻塞性肺疾病急性加重患 obstructivepulmonarydisease J CochraneDatabaseSyst 91 者机械通气指南 中华急诊医学杂志
+Rev 2001 2001 2 CD002984 DOI 10 1002 14651858 2007 J 2007 16
+CD002984 4 350-357 DOI 10 3760 j issn 1671-0282 2007 04
+79 NairS ThomasE Pearson SB etal A randomized 003 秦朝辉 陈荣昌 钟南山 慢性阻塞性肺疾病内源性呼气末 controlledtrialtoassesstheoptimaldoseandeffectof 92 正压的生理学效应及临床对策 中国呼吸与危重监护杂 nebulizedalbuterolinacuteexacerbationsofCOPD J J 志
+Chest 2005 128 1 48-54 DOI 10 1378 chest 128 1 48 2004 3 2 126-128 DOI 10 3969 j issn 1671-6205
+80 BardsleyG PilcherJ McKinstryS etal Oxygenversusair- 2004 02 028 罗群 陈荣昌 影响慢性阻塞性肺疾病急性加重期患者无创 drivennebulisersforexacerbationsofchronicobstructive 93 正压通气治疗依从性的原因分析 广东医学 pulmonarydisease Arandomisedcontrolledtrial J BMC J 2012 33
+Pulm Med 2018 18 1 157 DOI 10 1186 s12890-018- 9 1310-1312 DOI 10 3969 j issn 1001-9448 2012 09
+0720-7 048 蔡柏蔷 慢性阻塞性肺疾病急性加重的治疗 中华全科
+81 J 94 RochwergB BrochardL ElliottMW etal OfficialERS 医师杂志
+2014 13 3 169-172 DOI 10 3760 cma j issn ATSclinicalpracticeguidelines noninvasiveventilationfor
+1671-7368 2014 03 004 acuterespiratoryfailure J EurRespirJ 2017 50 2
+82 DoblerCC MorrowAS BeuschelB etal Pharmacologic 1602426 DOI 10 1183 13993003 02426-2016 therapies in patients with exacerbation of chronic 95 ErganB NasiłowskiJ WinckJC Howshouldwemonitor obstructivepulmonarydisease Asystematicreview with patients with acute respiratory failure treated with meta-analysis J AnnInternMed 2020 172 6 413-422 noninvasiveventilation J EurRespirRev 2018 27
+DOI 10 7326 M19-3007 148 170101 DOI 10 1183 16000617 0101-2017
+83 KoFW ChanKP HuiDS etal Acuteexacerbationof 96 CarlucciA PisaniL CerianaP etal Patient-ventilator
+COPD J Respirology 2016 21 7 1152-1165 DOI 10 asynchronies maytherespiratorymechanicsplayarole
+1111 resp 12780 J CritCare 2013 17 2 R54 DOI 10 1186 cc12580
+84 Soler-CataluñaJJ PiñeraP TriguerosJA etal Spanish 97 BritishThoracicSocietyStandardsofCareCommittee Non COPDguidelines GesEPOC 2021updatediagnosisand invasiveventilationinacuterespiratoryfailure J Thorax treatmentofCOPD exacerbationsyndrome J Arch 2002 57 3 192-211 DOI 10 1136 thorax 57 3 192 王辰 商鸣宇 黄克武 有创与无创序贯性机械通气治疗慢
+Bronconeumol 2022 58 2 159-170 DOI 10 1016 j 98 性阻塞性肺疾病所致严重呼吸衰竭的研究 中华结核和 arbres 2021 05 011 J 呼吸杂志
+85 LiL ZhaoN MaX etal Personalizedvariablevsfixed- 2000 23 4 212 DOI 10 3760 j issn 1001- dosesystemiccorticosteroidtherapyinhospitalizedpatients 0939 2000 04 008 中华医学会呼吸病学分会呼吸生理与重症监护学组 中华 with acute exacerbations of COPD A prospective 99 « 结核和呼吸杂志 编辑委员会 无创正压通气临床应用专家 multicenter randomized open-labelclinicaltrial J Chest » 共识 中华结核和呼吸杂志
+2021 160 5 1660-1669 DOI 10 1016 j chest 2021 05 J 2009 32 2 86-98 DOI
+024 10 3760 cma j issn 1001-0939 2009 02 003
+86 YilmazelUcarE ArazO MeralM etal Twodifferent 100 HanW WangM XieY etal Prevalenceofpulmonary dosagesofnebulizedsteroidversusparenteralsteroidinthe embolismanddeepvenousthromboembolisminpatients managementofCOPDexacerbations Arandomizedcontrol withacuteexacerbationofchronicobstructivepulmonary trial J MedSciMonit 2014 20 513-520 DOI 10 12659 disease Asystematicreviewandmeta-analysis J Front
+MSM 890210 CardiovascMed 2022 9 732855 DOI 10 3389 fcvm
+87 MiravitllesM AnzuetoA Antibioticsforacuteandchronic 2022 732855 respiratoryinfectioninpatientswithchronicobstructive 101 RizkallahJ ManS Sin DD Prevalenceofpulmonary fmx_T3RoZXJNaXJyb3Jz 国际呼吸杂志 年 月第 卷第 期
+2023 2 43 2 IntJRespir,February2023,Vol.43,No.2 ·149· embolisminacuteexacerbationsofCOPD Asystematic COPD TheGLOW2study J EurRespirJ 2012 40 5 reviewandmetaanalysis J Chest 2009 135 3 786-793 1106-1114 DOI 10 1183 09031936 00040712
+DOI 10 1378 chest 08-1516 114 WedzichaJA DecramerM FickerJH etal Analysisof 李绪言 王辰 杨媛华 慢性阻塞性肺疾病急性加重期并静
+102 chronicobstructivepulmonarydiseaseexacerbationswith 脉血栓栓塞症的研究进展 中国临床医生
+J 2008 36 7 the dual bronchodilator QVA149 compared with
+26-28 DOI 10 3969 j issn 1008-1089 2008 07 008 glycopyrroniumandtiotropium SPARK Arandomised 中华医学会呼吸病学分会肺栓塞与肺血管病学组 中国医
+103 double-blind parallel-groupstudy J LancetRespirMed 师协会呼吸医师分会肺栓塞与肺血管病工作委员会 全国
+2013 1 3 199-209 DOI 10 1016 S2213-2600 13 70052-3 肺栓塞与肺血管病防治协作组 肺血栓栓塞症诊治与预防
+115 ZhongN WangC ZhouX etal LANTERN Arandomized 指南 中华医学杂志
+J 2018 98 14 1060-1087 DOI 10 studyofQVA149versussalmeterol fluticasonecombination
+3760 cma j issn 0376-2491 2018 14 007 inpatientswithCOPD J IntJChronObstructPulmon 中华医学会心血管病学分会肺血管病学组 中国医师协会
+104 Dis 2015 10 1015-1026 DOI 10 2147 COPD S84436 心血管内科医师分会 急性肺血栓栓塞症诊断治疗中国专
+116 MartinezFJ RabeKF FergusonGT etal Reducedall- 家共识 中华内科杂志
+J 2010 49 1 74-81 DOI 10 cause mortalityin the ETHOS trialof budesonide
+3760 cma j issn 0578-1426 2010 01 026 glycopyrrolate formoterol for chronic obstructive
+105 NathanSD BarberaJA Gaine SP etal Pulmonary pulmonary disease A randomized double-blind hypertensioninchroniclungdiseaseandhypoxia J Eur multicenter parallel-groupstudy J AmJRespirCritCare
+RespirJ 2019 53 1 1801914 DOI 10 1183 13993003 Med 2021 203 5 553-564 DOI 10 1164 rccm 202006 01914-2018 2618OC 中华医学会呼吸病学分会肺栓塞与肺血管病学组 中国医
+106 117 ZhengJP Wen FQ BaiCX etal Twicedaily N- 师协会呼吸医师分会肺栓塞与肺血管病工作委员会 全国 acetylcysteine 600 mg for exacerbations of chronic 肺栓塞与肺血管病防治协作组 等 中国肺动脉高压诊断与 obstructive pulmonary disease PANTHEON A 治疗指南 版 中华医学杂志
+2021 J 2021 101 1 11- randomised double-blindplacebo-controlledtrial J Lancet
+51 DOI 10 3760 cma j cn112137-20201008-02778 RespirMed 2014 2 3 187-194 DOI 10 1016 S2213-2600
+107 HumbertM KovacsG HoeperMM etal 2022ESC ERS 13 70286-8 guidelinesforthediagnosisandtreatmentofpulmonary 118 LlorC MoragasA HernándezS etal Efficacyofantibiotic hypertension J EurRespirJ 2022 2200879 DOI 10 therapyforacuteexacerbationsofmildtomoderatechronic
+1183 13993003 00879-2022 obstructivepulmonarydisease J AmJRespirCritCare
+108 BrulotteCA LangES Acuteexacerbationsofchronic Med 2012 186 8 716-723 DOI 10 1164 rccm 201206- obstructivepulmonarydiseaseintheemergencydepartment 0996OC
+J EmergMedClinNorthAm 2012 30 2 223-247 vii 119 CrisafulliE BarbetaE IelpoA etal Managementofsevere
+DOI 10 1016 j emc 2011 10 005 acuteexacerbationsofCOPD Anupdatednarrativereview
+109 MüllerováH ShuklaA HawkinsA etal Riskfactorsfor J MultidiscipRespirMed 2018 13 36 DOI 10 1186 acuteexacerbationsofCOPDinaprimarycarepopulation s40248-018-0149-0
+Aretrospectiveobservationalcohortstudy J BMJOpen 120 RitchieAI WedzichaJA Definition causes pathogenesis
+2014 4 12 e006171 DOI 10 1136 bmjopen-2014- andconsequencesofchronicobstructivepulmonarydisease
+006171 exacerbations J ClinChestMed 2020 41 3 421-438
+110 HanMK MartinezFJ Pharmacotherapeuticapproachesto DOI 10 1016 j ccm 2020 06 007 preventing acute exacerbations of chronic obstructive 121 YinY XuJ CaiS etal Developmentandvalidationofa pulmonarydisease J ProcAmThoracSoc 2011 8 4 multivariablepredictionmodeltoidentifyacuteexacerbation
+356-362 DOI 10 1513 pats 201102-016RM ofCOPDanditsseverityforCOPDmanagementinChina
+111 CrinerGJ BourbeauJ DiekemperRL etal Preventionof DETECTstudy A multicenter observational cross- acuteexacerbationsofCOPD AmericanCollegeofChest sectionalstudy J IntJChronObstructPulmonDis 2022
+PhysiciansandCanadianThoracicSocietyGuideline J 17 2093-2106 DOI 10 2147 COPD S363935
+Chest 2015 147 4 894-942 DOI 10 1378 chest 14- 122 JonesPW WangC ChenP etal Thedevelopmentofa
+1676 COPDExacerbationRecognitionTool CERT tohelp 慢性阻塞性肺疾病免疫调节治疗专家共识 撰写组 慢性
+112 《 》 patientsrecognizewhentoseekmedicaladvice J IntJ 阻塞性肺疾病免疫调节治疗专家共识 中国全科医学
+J ChronObstructPulmonDis 2022 17 213-222 DOI 10
+2022 25 24 2947-2959 DOI 10 12114 j issn 1007-9572 2147 COPD S337644 收稿日期
+2022 0384 2022-11-23 本文编辑 薛芳
+113 KerwinE HébertJ GallagherN etal Efficacyandsafety ofNVA237versusplaceboandtiotropiuminpatientswith fmx_T3RoZXJNaXJyb3Jz

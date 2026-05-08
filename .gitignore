@@ -1,0 +1,18 @@
+# 忽略个人本地配置（每个人路径不同，不上传）
+config.py
+
+# 忽略输出结果（运行时自动生成，不用共享）
+output/
+result/
+*.xlsx
+*.png
+*.jpg
+*.csv
+
+# Python 和 PyCharm 缓存
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.venv/
+venv/

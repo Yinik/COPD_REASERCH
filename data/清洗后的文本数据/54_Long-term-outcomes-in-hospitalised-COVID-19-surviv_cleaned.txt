@@ -1,0 +1,59 @@
+Comment
+We declare no competing interests. 5 Bush A. Differing effects of mepolizumab across the life course.
+Lancet Respir Med 2023; 11: 123–25.
+*Emmanouil Paraskakis, Andrew Bush
+6 Jackson DJ, Bacharier LB, Gergen PJ, et al. Mepolizumab for urban children eparaska@uoc.gr with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet
+Paediatric Respiratory Unit, Paediatric Department, University Hospital of 2022; 400: 502–11.
+Heraklion, University of Crete, 70013 Heraklion, Greece (EP); Department of 7 Pavord ID, Korn S, Howarth P, et al. Mepolizumab for severe eosinophilic
+Paediatric Respiratory Medicine, Imperial College and Royal Brompton Hospital, asthma (DREAM): a multicentre, double-blind, placebo-controlled trial.
+London, UK (AB) Lancet 2012; 380: 651–59.
+1 Wechsler ME, Ford LB, Maspero JF, et al. Long-term safety and efficacy of 8 Fitzpatrick AM, Higgins M, Holguin F, Brown LAS, Teague WG. The molecular dupilumab in patients with moderate-to-severe asthma (TRAVERSE): phenotype of severe asthma in children. J Allergy Clin Immunol 2010; an open-label extension study. Lancet Respir Med 2022; 10: 11–25. 125: 851–857.e18.
+2 Fiocchi AG, Phipatanakul W, Zeiger RS, et al. Dupilumab leads to better- 9 Wisniewski JA, Muehling LM, Eccles JD, et al. TH1 signatures are present in controlled asthma & quality of life in children: the VOYAGE study. Eur Respir J the lower airways of children with severe asthma, regardless of allergic
+2023; published online Sept 21. https://doi.org/10.1183/ status. J Allergy Clin Immunol 2018; 141: 2048–2060.e13.
+13993003.00558-2023. 10 Gauthier M, Kale SL, Oriss TB, et al. CCL5 is a potential bridge between type
+3 Bacharier LB, Maspero JF, Katelaris CH, et al. Dupilumab in children with 1 and type 2 inflammation in asthma. J Allergy Clin Immunol 2023; uncontrolled moderate-to-severe asthma. N Engl J Med 2021; 385: 2230–40. 152: 94–106.e12.
+4 Bacharier LB, Maspero JF, Katelaris CH, et al. Assessment of long-term safety and efficacy of dupilumab in children with asthma (Liberty Asthma
+EXCURSION): an open-label extension study. Lancet Respir Med 2023; published online Nov 10. https://doi.org/10.1016/S2213-2600(23)00303-X.
+Long-term outcomes in hospitalised COVID-19 survivors and future research priorities
+Published Online
+November 21, 2023 https://doi.org/10.1016/
+S2213-2600(23)00410-1
+See Articles page 55 www.thelancet.com/respiratory Vol 12 January 2024 7 yrarbiL otohP ecneicS/sretaW yraG/segamI nokI
+Many survivors of COVID-19 experience ongoing China. The study included 1359 patients: 728 (54%) symptoms months after an infection. A systematic men and 631 (46%) women. In this prospective single- review of 194 global studies reported that 45% of centre study, 728 (54%) of 1358 participants reported at survivors, irrespective of hospitalisation status, still least one sequelae symptom (mostly mild or moderate) had at least one unresolved symptom at 4 months.1 at 3 years, with a marked decrease in fatigue or muscle
+Concerningly, data from a multicentre follow-up of weakness from 2 years. The most common symptoms patients with COVID-19 admitted to hospital show that, were sleep difficulties, fatigue or muscle weakness, and compared with controls without COVID-19, survivors are hair loss. Women were more likely than men to have more likely to have lung, brain, and kidney abnormalities at 5 months.2
+However, more than 3 years have passed since the pandemic outbreak and patients, clinicians, and scientists are increasingly concerned with the long- term sequelae in those hospitalised with COVID-19.
+What health problems can survivors expect several years later? Until now, the longest follow-up of hospitalised
+COVID-19 survivors was 2 years. A longitudinal cohort study of 1119 patients from Wuhan, China, reported that although there were improvements in physical and mental health over time, the burden of persistent symptoms was still high—650 (55%) of
+1190 participants reported at least one unresolved symptom at 2 years.3
+In a linked study, Hui Zhang and colleagues4 report the first 3-year follow-up data of health outcomes in
+COVID-19 survivors discharged from hospital in Wuhan,
+Comment at least one symptom at 3 years, but age and disease The overall message from Zhang and colleagues is that severity were not significant predictors. although almost half of hospitalised COVID-19 survivors
+Zhang and colleagues categorised survivors into showed a degree of long-lasting symptoms 3 years later, long COVID or non-long COVID groups on the basis symptoms were mild to moderate and, reassuringly, of the presence of at least one persistent symptom at lung function returned to normal. However, caution is
+2 years. A small proportion (<5%) of people with long warranted, as these data are only from a single centre in
+COVID reported (after the omicron [B.1.1.529] wave) an ethnically homogenous population, with few critically problems with mobility, personal care, or usual daily ill survivors, and the sample size for lung function activities at 3 years, and lung function (measured in a outcomes was small.
+subgroup) returned to levels similar to those of matched It will be a missed opportunity if longitudinal cohorts community controls. globally are not provided with sufficient infrastructure to
+Further analyses examined the effect of reinfection continue studying the epidemiology of COVID-19 in the during the omicron wave, with a greater proportion coming decades,7 particularly for younger populations in the long COVID group being reinfected (573 [76%] who provide an additional prospect of studying effects of 753 vs 409 [67%] of 606 in the non-long COVID on developmental outcomes and chronic disease group). 3 months after self-reported omicron infection, development. In the short term, outstanding research
+126 (62%) of 204 participants with long COVID reported priorities include the need to improve consistency of at least one newly occurring or worse symptom, which classifications of long COVID between analyses, the was significantly higher than in the community controls, inclusion of comparator groups (aligned with research whereas the non-long COVID group did not differ from questions), the use of large sample sizes for sufficient controls. statistical power, particularly when effects might
+A limitation of long COVID research to date has be small, and stratification of findings by potential been the lack of comparator populations.5 A notable explanatory factors (including socioeconomic status, strength of this study is the inclusion of a community ethnicity, COVID-19 variants, and vaccination status).8 control group (both uninfected and infected), matched KK and AR are supported by the National Institute for Health Research (NIHR) by age, sex, and chronic pulmonary disease status. Applied Research Collaboration East Midlands (and the NIHR Leicester Biomedical
+Research Centre. KK is chair and AR a secretariat of the UK National Long Covid
+Unfortunately, although various outcomes were Research Working Group. KK was chair of the Ethnicity Subgroup of the UK measured in uninfected controls, sequelae symptoms Scientific Advisory Group for Emergencies (SAGE) and is a member of SAGE.
+were not. Further work is required to define what an *Ash Routen, Kamlesh Khunti appropriate comparator group is—should studies be ar516@le.ac.uk constrained only to test controls without COVID-19 or Leicester Real World Evidence Unit (KK), Diabetes Research Centre (AR),
+University of Leicester, Leicester LE5 4PW, UK include those infected by SARS-CoV-2 but unvaccinated?
+1 O’Mahoney LL, Routen A, Gillies C, et al. The prevalence and long-term
+The answer is likely to depend on the chosen research health effects of Long Covid among hospitalised and non-hospitalised populations: a systematic review and meta-analysis. EClinicalMedicine 2023; question.
+55: 55.
+A difficulty when studying long-term health of 2 Baillie JK, Lone NI, Jones S, et al. Multiorgan MRI findings after hospitalisation with COVID-19 in the UK (C-MORE): a prospective,
+COVID-19 survivors is the complexity of multiple multicentre, observational cohort study. Lancet Respir Med 2023; variants of SARS-CoV-2, each with different severities 11: 1003–19.
+3 Huang L, Li X, Gu X, et al. Health outcomes in people 2 years after surviving in acute infection and potential for different sequalae hospitalisation with COVID-19: a longitudinal cohort study. Lancet Respir Med
+2022; 10: 863–76.
+symptom trajectories, and the effect of multiple
+4 Zhang H, Huang C, Gu X, et al. 3-year outcomes of discharged survivors of vaccination across large proportions of populations COVID-19 following the SARS-CoV-2 omicron (B.1.1.529) wave in 2022 in
+China: a longitudinal cohort study. Lancet Respir Med 2023; published online over time. Zhang and colleagues should be commended Nov 21. https://doi.org/10.1016/S2213-2600(23)00387-9.
+for attempting to discern the effect of the omicron 5 Amin-Chowdhury Z, Ladhani SN. Causation or confounding: why controls are critical for characterizing long COVID. Nat Med 2021; 27: 1129–30.
+wave on COVID-19 survivors and the burden of
+6 Our World in Data. Biweekly change in confirmed COVID-19 cases. https:// subsequent reinfection. These data further emphasise ourworldindata.org/grapher/biweekly-growth-covid-cases?time=latest
+(accessed Nov 15, 2023).
+the importance of vaccination to reduce the risk of 7 Lisa McCorkell MJP. Long COVID research risks losing momentum—we need a moonshot. Nat Med 2023; 622: 457–60.
+infection, as there has been an increase in COVID-19
+8 O’Mahoney L, Khunti K. Long covid: risk factors, outcomes, and future cases in many countries.6 directions for research. BMJ Med 2022; 1: e000257.
+8 www.thelancet.com/respiratory Vol 12 January 2024
