@@ -1,0 +1,19 @@
+# 忽略个人本地配置
+config.py
+
+# 忽略数据和输出（大文件，不上传）
+data/
+output/
+result/
+*.pdf
+*.csv
+*.xlsx
+*.png
+*.jpg
+
+# PyCharm 和 Python 缓存
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
