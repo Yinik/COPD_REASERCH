@@ -1,13 +1,18 @@
 # 忽略个人本地配置（每个人路径不同，不上传）
 config.py
 
-# 忽略输出结果（运行时自动生成，不用共享）
+# 忽略数据和输出（大文件/自动生成，不上传）
+# 注意：这里合并了 data/ 和 output/，确保涵盖所有输出目录
+data/
 output/
 result/
+
+# 忽略各类数据文件
+*.pdf
+*.csv
 *.xlsx
 *.png
 *.jpg
-*.csv
 
 # Python 和 PyCharm 缓存
 __pycache__/
