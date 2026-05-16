@@ -1,0 +1,272 @@
+Articles
+Twice daily N-acetylcysteine 600 mg for exacerbations of chronic obstructive pulmonary disease (PANTHEON): a randomised, double-blind placebo-controlled trial
+Jin-Ping Zheng, Fu-Qiang Wen, Chun-Xue Bai, Huan-Ying Wan, Jian Kang, Ping Chen, Wan-Zhen Yao, Li-Jun Ma, Xia Li, Luca Raiteri,
+Marco Sardina, Yi Gao, Bai-Song Wang, Nan-Shan Zhong, on behalf of the PANTHEON study group
+Summary
+B ackground Increased oxidative stress and infl ammation has a role in the pathogenesis of chronic obstructive Lancet Respir Med 2014; pulmonary disease (COPD). Drugs with antioxidant and anti-infl ammatory properties, such as N-acetylcysteine, 2: 187–94 might provide a useful therapeutic approach for COPD. We aimed to assess whether N-acetylcysteine could reduce Published Online the rate of exacerbations in patients with COPD. January 30, 2014 http://dx.doi.org/10.1016/
+S2213-2600(13)70286-8
+Methods In our prospective, randomised, double-blind, placebo-controlled, parallel-group study, we enrolled patients
+This online publication aged 40–80 years with moderate-to-severe COPD (post-bronchodilator forced expiratory volume in 1 s [FEV 1 ]/forced has been corrected.
+vital capacity <0·7 and FEV of 30–70% of predicted) at 34 hospitals in China. We stratifi ed patients according to use The corrected version fi rst of inhaled corticosteroids (regular use or not) at baseline and randomly allocated them to receive N-acetylcysteine appeared at thelancet.com/ respiratory on April 7, 2014
+(one 600 mg tablet, twice daily) or matched placebo for 1 year. The primary endpoint was the annual exacerbation rate
+See Comment page 166 in patients who received at least one dose of study drug and had at least one assessment visit after randomisation.
+This study is registered with the Chinese Clinical Trials Registry, ChiCTR-TRC-09000460. State Key Laboratory of
+Respiratory Disease, National
+Clinical Research Center for
+Findings Between June 25, 2009, and Dec 29, 2010, we screened 1297 patients, of whom 1006 were eligible for Respiratory Disease, randomisation (504 to N-acetylcysteine and 502 to placebo). After 1 year, we noted 497 acute exacerbations in Guangzhou Institute of
+Respiratory Disease, First
+482 patients in the N-acetylcysteine group who received at least one dose and had at least one assessment visit
+Affi liated Hospital of
+(1·16 exacerbations per patient-year) and 641 acute exacerbations in 482 patients in the placebo group
+Guangzhou Medical University,
+(1·49 exacerbations per patient-year; risk ratio 0·78, 95% CI 0·67–0·90; p=0·0011). N-acetylcysteine was well Guangzhou, China tolerated: 146 (29%) of 495 patients who received at least one dose of N-acetylcysteine had adverse events (48 serious), (Prof J-P Zheng MD, Y Gao MD,
+Prof N-S Zhong MD); West as did 130 (26%) of 495 patients who received at least one dose of placebo (46 serious). The most common serious
+China Hospital, Sichuan adverse event was acute exacerbation of COPD, occurring in 32 (6%) of 495 patients in the N-acetylcysteine group and
+University, Chengdu, China
+36 (7%) of 495 patients in the placebo group. (Prof F-Q Wen MD); Zhongshan
+Hospital, Fudan University,
+Shanghai, China
+Interpretation Our fi ndings show that in Chinese patients with moderate-to-severe COPD, long-term use of
+(Prof C-X Bai MD); Rui Jin
+N-acetylcysteine 600 mg twice daily can prevent exacerbations, especially in disease of moderate severity. Future Hospital, Shanghai Jiao Tong studies are needed to explore effi cacy in patients with mild COPD (GOLD I). University School of Medicine,
+Shanghai, China
+(Prof H-Y Wan MD); First
+Funding Hainan Zambon Pharmaceutical.
+Affi liated Hospital of China
+Medical University, Shenyang,
+Introduction N-acetylcysteine is a well-known, eff ective mucolytic China (Prof J Kang MD);
+COPD is characterised by persistent airfl ow limitation drug that reduces sputum viscosity and elasticity, Shenyang PLA General
+Hospital, Shenyang, China and frequent recurrent acute exacerbations that improves mucociliary clearance and modulates the
+(Prof P Chen MD); Peking contribute to disease severity in individual patients.1 infl ammatory response.5,6 Furthermore, N-acetylcysteine University Third Hospital,
+COPD with acute exacerbations results in a faster has both direct and indirect antioxidant properties, which Beijing, China decline in lung function,2 impairment of health status,3 have been extensively assessed in in-vitro and in-vivo (Prof W-Z Yao MD); Henan
+Provincial People’s Hospital, reduction in exercise tolerance, and high economic studies,7–9 and might be important for the long-term
+Zhengzhou, China burden,4 leading to substantial rates of hospital management of patients with COPD. (Prof L-J Ma MD); Hainan admission, readmission and mortality. Therefore, Previous studies showed that treatment with Zambon Pharmaceutical, eff ective prevention and treatment of exacerbations has N-acetylcysteine (400–1200 mg per day) reduced rates of Beijing, China (X Li MS);
+Innovation & Medical Sciences been strongly recommended by the Global Initiative for acute COPD exacerbations10 and hospital readmissions.11
+Department, Zambon, Bresso,
+Chronic Obstructive Lung Disease (GOLD).1 Nevertheless, these studies were not recognised as strong Milan, Italy (L Raiteri MD,
+Many factors are involved in the pathophysiology of evidence because of limitations in their design, such as M Sardina MD); and MedKey
+COPD, such as mucus hypersecretion, oxidative stress, small sample sizes, absence of double-blinding and Med-Tec Development,
+Shanghai, China and infl ammation of the airways and lungs.1 Thus, drugs placebo controls, or a short study duration. Moreover,
+(B-S Wang PhD) that have antioxidative and anti-infl ammatory properties, inconsistent results have been reported. In the and mucolytic activity, might be eff ective for treatment BRONCUS study,12 523 patients with moderate-to-severe of COPD. COPD were treated with N-acetylcysteine (600 mg www.thelancet.com/respiratory Vol 2 March 2014 187
+Articles
+Correspondence to: per day) for 3 years; compared with placebo, active around 4:6 from investigators’ experience of clinical
+Prof Nan-Shan Zhong, State Key treatment did not signifi cantly reduce the exacerbation practice in China. At 34 academic hospital-based
+Laboratory of Respiratory Disease, rate, apart from in patients not concomitantly treated pulmonary clinics in China, we enrolled patients with a
+National Clinical Research Center with inhaled corticosteroids.12 Schermer and colleagues13 clinical diagnosis of moderate-to-severe COPD (defi ned by for Respiratory Disease,
+Guangzhou Institute of reported that exacerbation rates did not reduce GOLD classifi cation), post-bronchodilator forced
+Respiratory Disease, First Affi liated signifi cantly in a trial of 286 patients with COPD or expiratory volume in 1 s (FEV)/forced vital capacity (FVC)
+Hospital of Guangzhou Medical chronic bronchitis who were treated with twice daily of less than 0·7, and FEV 30 1 –70% of predicted. Eligible
+University, 151 Yanjiang Road, 1 inhaled fl uticasone propionate 500 μg, once daily oral patients were aged 40–80 years, with a history of at least
+Guangzhou 510120, China nanshan@vip.163.com N-acetylcysteine 600 mg, or placebo for 3 years. For these two exacerbations within the previous 2 years and reasons, N-acetylcysteine is not widely used in patients clinically stable for at least 4 weeks before enrolment. Key with COPD. exclusion criteria were a diagnosis of bronchial asthma,
+Because a dose-eff ect association of N-acetylcysteine requirement for long-term oxygen therapy (≥12 h per day) has been shown,11,14 we postulated that an increased dose or pulmonary rehabilitation, and poor reliability or of N-acetylcysteine might achieve improved outcomes. compliance. The study was approved by local ethics
+We aimed to assess whether long-term treatment with committees. All patients provided written informed high-dose N-acetylcysteine could reduce COPD consent.
+exacerbation rates, and whether the benefi ts of treatment would be apparent with and without concomitant Randomisation and masking treatment with inhaled corticosteroids. After a 2 week run-in period, eligible patients were allocated in a 1:1 ratio to either N-acetylcysteine (one
+Methods 600 mg tablet twice daily) or placebo (one tablet twice
+Study design and participants daily) for 1 year in addition to existing individual therapy
+Details of our study’s rationale, design, and analysis plan according to GOLD guidelines. After randomisation, have been published elsewhere.15 In our multicentre, clinical visits occurred at 1, 3, 6, 9, and 12 months. No prospective, randomised, double-blind, placebo- follow-up study was planned.
+controlled, parallel-group trial (the Placebo-controlled An independent statistician (MedKey Med-Tec study on effi cAcy and safety of N-acetylcysTeine High Development, Shanghai, China) randomly allocated dose in Exacerbations of chronic Obstructive pulmoNary patients to receive N-acetylcysteine or placebo according to disease [PANTHEON] study), all participants were a predetermined computer-generated sequence, with stratifi ed by previous use of inhaled corticosteroid at stratifi ed block randomisation and block sizes of 8. At each baseline, which was defi ned as regular use of centre, the enrolled participants were allocated to the
+500–2000 μg per day of beclomethasone or equivalent in N-acetylcysteine group or the placebo group in order of the previous 3 months. The proportion of users to non- their assigned numbers.
+See Online for appendix users of inhaled corticosteroids was predetermined as N-acetylcysteine and placebo tablets were manufactured and provided by Hainan Zambon Pharmaceutical
+(Haikou, China). The placebo was identical in composition, shape, colour, and size, but did not contain
+1297 screened any active ingredients. N-acetylcysteine or placebo tablets
+291 ineligible were packaged identically. Supplies of tablets for every patient were identifi ed with a four-digit number. A sealed
+1006 randomly allocated envelope that contained the randomisation code for any given patient was kept by the investigator but not opened during the study, apart from in cases of a serious life 504 randomly allocated twice daily 502 randomly allocated placebo threatening adverse event. Opening of any envelope,
+N-acetylcysteine whether intentional or accidental, had to be recorded on the case report form, and the patient had to be withdrawn from the study. The patients, investigators, and
+124 discontinued 119 discontinued
+48 lost to follow-up 56 lost to follow-up statisticians in charge of the analysis were masked to the
+32 adverse events 24 adverse events treatment-group allocations during the study.
+23 withdrew consent 21 lack of efficacy
+17 lack of efficacy 15 withdrew consent
+2 migrated 2 migrated Outcomes
+2 poor compliance 1 poor compliance
+The primary endpoint was exacerbation rate in 1 year. We defi ned exacerbation and types according to Anthonisen
+380 completed study treatment 383 completed study treatment and colleagues;16 briefl y, exacerbation was defi ned as at least a 2 day persistence of two (type II moderate) or all three (type III, severe) major symptoms (worsening
+Figure 1: Trial profi le
+Details about ineligibility for randomisation are shown in the appendix. dyspnoea, increase in sputum purulence or volume), or
+188 www.thelancet.com/respiratory Vol 2 March 2014
+Articles of any onemajor symptom plus at least one minor in the placebo yearly rate, a Wilcoxon-Mann-Whitney symptom (type I, mild) (upper airway infection, rank-sum test at a 5% two-sided signifi cance level would unexplained fever, and increased wheezing). The provide 95% power. We estimated that 1250 patients exacerbation was assessed from patients’ diary card would need to be enrolled.
+report17 or documented hospital visits due to respiratory The primary effi cacy analysis population included patients disorders, and confi rmed by investigators based on who received at least one dose of study drug and had at least
+Anthonisen’s criteria.16 Secondary endpoints included one visit assessment after randomisation. We used negative time-to-fi rst exacerbation and time-to-recurrent exacer- binomial regression to analyse the annual exacerbation rate.
+bation, number of patients with exacerbations requiring Apart from inhaled corticosteroid status, additional covariate systemic corticosteroids or antibiotics, or use of short- candidates included GOLD severity, smoking status, age, sex, acting β-agonist as rescue drug. We measured quality of body-mass index, and concomitant drug use. We calculated life (QoL) at each study visit with a validated Chinese risk ratio (RR) and 95% CIs for N-acetylcysteine versus version of the St George’s Respiratory Questionnaire placebo. We analysed time to fi rst exacerbation and time to
+(SGRQ), and did post-bronchodilator spirometry at recurrent exacerbation with the Cox proportional hazard baseline, 6 months, and 12 months. We measured FEV, model. We constructed Kaplan-Meier curves of the probability
+FVC, and forced expiratory volume in 6 s (FEV). We also of exacerbation-free status.
+recorded incidence of adverse events (including We did predefi ned exploratory analyses on exacer- laboratory abnormalities). bations requiring treatment of systemic cortico steroids or antibiotics. We did post-hoc analysis on exacerbation
+Statistical analysis rates stratifi ed by months on treatment (3 months,
+We determined sample size on the basis of the primary 6 months, and 9 months). We analysed SGRQ total score outcome. Referring to the PEACE study,18 we assumed and domain changes from baseline by a mixed model for that to detect a reduction of at least 20% in the yearly repeated measures, whereas we analysed spirometric exacerbation rate, with a standard deviation of about 85% changes from baseline with ANCOVA. We applied
+Fisher’s exact tests to the analysis of number and frequency of patients with systemic corticosteroids or
+N-acetylcysteine Placebo group
+1200 mg group (n=502)
+(n=504)
+N-acetylcysteine Placebo group
+Sex 1200 mg group (n=502)
+Male 415 (82%) 409 (81%) (n=504)
+Female 89 (18%) 93 (19%) Baseline spirometry
+Age, years 66·15 (8·72) 66·38 (8·80) Post-bronchodilator FEV, L 1·22 (0·37) 1·20 (0·38)
+BMI, kg/m² 23·10 (3·74) 22·82 (3·54) Predicted post-bronchodilator FEV, % 49·08% (11·88) 48·81% (11·72)
+BMI status Post-bronchodilator FVC, L 2·47 (0·62) 2·47 (0·67)
+Underweight (<18·5 kg/m²) 51 (10%) 54 (11%) Post-bronchodilator FEV/FVC, % 50·03% (9·98) 49·01% (9·84)
+Normal weight (18·5–<24 kg/m²) 251 (50%) 265 (53%) SGRQ score
+Overweight (≥24 kg/m²) 202 (40%) 183 (36%) Total 39·98 (19·01) 41·53 (19·55)
+Smoking status Symptom 43·31 (21·33) 44·45 (22·60)
+Current smoker 95 (19%) 84 (17%) Activity 50·72 (20·85) 52·11 (21·39)
+Ex-smoker 285 (57%) 303 (60%) Impact 32·73 (22·24) 34·45 (22·36)
+Non-smoker 124 (25%) 115 (23%) COPD drug use before enrolment
+Smoking history, packs per year ICS alone 22 (4%) 21 (4%)
+Current smoker 35·75 (24·67) 34·20 (25·86) LABA 11 (2%) 13 (3%)
+Ex-smoker 38·05 (23·14) 36·88 (25·26) ICS and LABA 236 (47%) 243 (48%)
+GOLD stage SABA 54 (11%) 60 (12%)
+II 230 (46%) 230 (46%) SAMA 77 (15%) 81 (16%)
+III 268 (53%) 263 (52%) LAMA 48 (10%) 50 (10%)
+IV 6 (1%) 9 (2%) Theophylline 135 (27%) 134 (27%)
+Use of inhaled corticosteroids
+Data are mean (SD) or n (%). Concomitant ICS included both regular use and
+No 282 (56%) 280 (56%) irregular use of ICS. FEV=forced expiratory volume in 1 s. FVC=forced vital capacity.
+Yes 222 (44%) 222 (44%) SGRQ=St George’s Resp 1 iratory Questionnaire. COPD=chronic obstructive pulmonary
+Exacerbations in previous 2 years 3·47 (2·01) 3·53 (1·95) disease. ICS=inhaled corticosteroids. LABA=long-acting β-agonist. SABA=short- acting β-agonist. SAMA=short acting muscarinic antagonist. LAMA=long acting
+Data are n (%) or mean (SD). BMI=body-mass index. GOLD=Global Initiative for muscarinic antagonist.
+Chronic Obstructive Lung Disease.
+Table 2: Baseline lung function, health status, and concomitant COPD
+Table 1: Baseline characteristics drug use www.thelancet.com/respiratory Vol 2 March 2014 189
+Articles antibiotics, and use of short-acting β-agonists as rescue group and 641 acute exacerbations in 482 patients in the drug, between treatment groups. placebo group, corresponding to 1·16 exacerbations per
+We assessed incidence of adverse events in a safety patient-year with N-acetylcysteine versus 1·49 with analysis set of all patients who received at least one dose placebo (R R 0·78, 95% CI 0·67–0·90; p=0·0011). Mean of study drug. We coded adverse events with the Medical duration of exacerbation was 14·8 days (SD 13·9) in the
+Dictionary for Regulatory Activities (MedDRA). All N-acetylcysteine group compared with 19·2 days (21·1) in hypothesis tests were two-sided, and p<0·05 was defi ned the placebo group (p=0·003). Previous inhaled as signifi cant. No interim analysis was planned. corticosteroid use was the only covariate that signifi cantly
+MedKey (Shanghai) Med-Tec Development (Shanghai, aff ected the rate of COPD exacerbations (p<0·0001), but
+China) an independent contract research organisation we noted no signifi cant interaction between treatment took responsibility for data collection, quality assurance, eff ect and inhaled corticosteroid use (p=0·27) or smoking and statistical analysis. SAS (version 9.2) was used for all status (p=0·35), or between GOLD severity and inhaled statistical analyses. corticosteroid concomitant use (p=0·34).
+This trial was registered in the Chinese Clinical Trials N-acetylcysteine treatment was more eff ective in
+Registry, ChiCTR-TRC-09000460. patients with GOLD II (moderate) disease than in patients with GOLD III (severe) disease (p=0·0077;
+Role of the funding source fi gure 2).
+This study was sponsored by Hainan Zambon The yearly exacerbation rate in patients with Anthonisen
+Pharmaceutical. The funding source had no role in the type II acute COPD exacerbations was lower in the study design, data collection, analysis, or interpretation. N-acetylcysteine group than it was in the placebo group
+Preparation of the report was done in collaboration with (RR 0·73, 95% CI 0·55–0·96, p=0·0231; appendix).
+the sponsor. The corresponding author had full access to However, this diff erence was not noted in patients with all of the data in the study and had fi nal responsibility for mild exacerbations (Anthonisen type I; RR 0·70, 95% CI the decision to submit the fi ndings for publication. 0·48–1·01, p=0·0550), or severe exacerbations (Anthonisen type III; 0·83, 0·68–1·01, p=0·0650).
+Results Time to fi rst exacerbation did not diff er between
+Between June 25, 2009, and Dec 29, 2010, we screened treatment groups, but time to second exacerbation and
+1297 patients, of whom 1006 were eligible for time to third exacerbation was shorter in the control randomisation (fi gure 1). Reasons for screening failure group than the N-acetylcysteine group (fi gure 3).
+were much the same between groups (appendix). N-acetylcysteine treatment prolonged the time to fi rst
+Baseline characteristics and lung function parameters exacerbation in patients with GOLD II (moderate) COPD did not diff er between completers and patients who did (p=0·0126), but not in patients with GOLD III (severe) not complete treatment, apart from baseline FVC, which COPD (p=0·76). With regard to the duration of treatment, was slightly higher in completers (appendix). diff erences in exacerbation rates between the two groups
+Mean treatment duration was 319·0 days (SD 102·3) in were signifi cant as early as 6 months (RR 0·83, 95% CI the N-acetylcysteine group and 319·1 days (105·2) in the 0·70–0·99, p=0·0375 at 6 months and 0·81, 0·69–0·95, placebo groups. Baseline characteristics did not diff er in p=0·0105 at 9 months).
+the two treatment groups (tables 1, 2). Mean predicted In patients with acute COPD exacerbations requiring post-bronchodilator FEV was about 49% of predicted at treatment with systemic corticosteroids or antibiotics, baseline. Disease severity was classifi ed as GOLD II the yearly exacerbation rate was lower in the
+(moderate) in about half the patients and mainly GOLD III N-acetylcysteine group than it was in the placebo group
+(severe) in the rest of the patients. 756 (75%) of 1006 patients (RR 0·83, 95% CI 0·69–0·99, p=0·0427). 33 patients in had previously received treatment for COPD. the N-acetylcysteine group and 36 patients in the control
+After 1 year of treatment, we noted 497 acute group were admitted to hospital (RR 0·92, 95% CI exacerbations in 482 patients in the N-acetylcysteine 0·58–1·45; p=0·80).
+114 (24%) of 482 patients in the N-acetylcysteine group
+Exacerbations Exacerbation rate Risk ratio (95% CI; p value) and 137 (28%) of 482 patients in the control group were treated with rescue medication (RR 0·83, 95% CI 0·67–
+NAC Placebo NAC Placebo
+1·03; p=0·11); however, we noted a diff erence for patients
+GOLD III (severe) 324 343 1·38 1·51 0·93 (0·76–1·13; p=0·46) with GOLD II (moderate) disease severity: 57 (26%) of
+GOLD II (moderate) 173 298 0·89 1·48 0·61 (0·48–0·77; p<0·0001)
+221 patients allocated placebo required rescue treatment
+Overall 497 641 1·16 1·49 0·78 (0·67–0·90; p=0·0011) compared with 37 (17%) of 218 patients allocated
+N-acetylcysteine (RR 0·66, 95% CI 0·46–0·95; p=0·0272).
+0·4 0·6 0·8 1·0 1·2
+Patients treated with N-acetylcysteine had greater
+Favours NAC Favours placebo changes from baseline in SGRQ symptom domains after
+Figure 2: Forest plot of exacerbations in all patients, and stratifi ed by GOLD moderate and GOLD severe disease 1 year than did controls (–8·87 units vs –4·79 units;
+NAC=N-acetylcysteine 600 mg twice daily. GOLD=Global Initiative for Chronic Obstructive Lung Disease. mixed model diff erence –3·37 units, 95% CI –6·64 to
+190 www.thelancet.com/respiratory Vol 2 March 2014
+Articles
+–0·11, p=0·0430). SGRQ total scores or other domains did not diff er between groups (appendix).
+Change from baseline in pre-bronchodilator and post- bronchodilator FEV, FVC, and FEV did not diff er
+1 6 between the groups (appendix). 0·8
+146 (29%) of 495 patients who received at least one dose of N-acetylcysteine had adverse events, as did 130 (26%)
+0·6 of 495 patients who received at least one dose of placebo
+(table 3). 44 patients (9%) had adverse events regarded by the investigators as possibly related to study products, as 0·4 did 34 (7%) patients who received placebo (p=0·29).
+48 (10%) patients who received N-acetylcysteine and
+46 (9%) patients who received placebo had serious adverse events. Five patients died during the study, p=0·18 including four patients in the N-acetylcysteine group
+(two from acute exacerbations of COPD, one from Number at risk coronary artery disease, and one from pneumonia) and N-acetylcysteine 482 412 318 240 193 130
+Placebo 482 393 301 214 176 122 one patient in the placebo group (sudden death, reason unknown); no deaths were regarded by investigators as related to the study products. No notable laboratory abnormalities were reported.
+D iscussion
+In our study, treatment of Chinese patients with twice daily
+N-acetylcysteine 600 mg was associated with a reduction in acute exacerbations of COPD compared with placebo. This fi nding was in line with the long-term PEACE study (of carbocisteine 1500 mg per day)18 and the large TORCH19 and UPLIFT20 trials, which studied populations with much the same baseline characteristics as in our study (appendix).
+The exacerbation rate in the placebo group of this study p=0·0015 was 1·49 per patient-year, which was consistent with previous 1 year COPD trials (eg, 1·35 per patient-year in the
+Number at risk
+PEACE study18 and 1·70 per patient-year in a study21 of
+N-acetylcysteine 482 472 420 362 314 230 theophylline use). Our primary fi nding diff ered from that Placebo 482 463 412 334 290 216 of BRONCUS,12 in which no diff erence was noted between
+N-acetylcysteine 600 mg per day and placebo for the prevention of COPD with acute exacerbations, with the exception of in the group of patients without concomitant inhaled corticosteroid treatment (panel).
+To allow assessment of the eff ect of inhaled cortico- steroid use, we stratifi ed enrolled patients before randomisation on the basis of concomitant regular use of these drugs. The proportion of previously treated patients to previously untreated patients was thus about
+1:1 in the present study, which is a more equal distribution than that of the BRONCUS study (7:3), and provided a more accurate analysis of the eff ectiveness of
+N-acetylcysteine in patients already on a treatment that p=0·0083 decreases exacerbations. By contrast with the BRONCUS study, we noted no interaction between treatment eff ect Days
+Number at risk and inhaled corticosteroid use, suggesting the treatment
+N-acetylcysteine 482 473 443 410 363 272 eff ect was independent of inhaled corticosteroid use. Placebo 482 471 440 391 354 254
+Consequently, we did not do subgroup analyses of
+Figure 3: Time to exacerbation events in patients receiving N-acetylcysteine or placebo treated and untreated groups.
+Numbers show remaining patients at randomisation and during treatment of 30 days, 90 days, 180 days,
+Several explanations might explain our diff erent results 270 days, and 360 days. (A) Time to fi rst exacerbation. (B) Time to second exacerbation. (C) Time to third from the BRONCUS study. First, the dose of exacerbation.
+www.thelancet.com/respiratory Vol 2 March 2014 191 eerf noitabrecaxe fo ytilibaborP
+0·2 eerf noitabrecaxe dnoces fo ytilibaborP
+0 30 90 180 270 360 eerf noitabrecaxe driht fo ytilibaborP
+NAC 1200 mg
+Placebo
+0 30 90 180 270 360
+0 30 90 180 270 360
+Articles greater reductions in the rates of exacerbations with early
+N-acetylcysteine Placebo treatment in less advanced GOLD severities. Early
+1200 mg group group
+(n=495) (n=495) intervention in COPD might help to provide better control of symptoms, reduce disease progression, and
+Adverse events (reported by >1% of patients) improve outcomes.
+Upper respiratory tract infection 42 (8%) 40 (8%)
+For the secondary endpoints of our study, time to fi rst
+Lower respiratory tract infection 10 (2%) 6 (1%) exacerbation did not diff er between groups, but time to
+Gastrointestinal pain 9 (2%) 7 (1%) recurrent exacerbations was longer with N-acetylcysteine
+Epigastric discomfort 6 (1%) 10 (2%) than placebo, which is consistent with the PEACE study.25
+Pruritus 6 (1%) 1 (<1%)
+Reduction of exacerbations without aff ecting time to fi rst
+Dizziness 4 (1%) 9 (2%) event is an interesting issue to be addressed. We postulate
+Diarrhoea 5 (1%) 3 (1%) that because recurrent exacerbations occurred mostly in
+Respiratory tract infection 5 (1%) 0 those with a history of exacerbations, the prevention of
+Serious adverse events (≥2 events overall)* exacerbations by antioxidants is mainly focused on these
+Chronic obstructive pulmonary disease 32 (6%) 36 (7%) recurrent exacerbations. This benefi t is probably due to
+Coronary artery disease 3 (1%) 0 the antioxidant characteristics, which act slowly and
+Cerebral infarction 2 (<1%) 0 progressively. As shown in the ECLIPSE study, the risk of
+Lower respiratory tract infection 1 (<1%) 2 (<1%) exacerbation increased 5·72 times in individuals having
+Upper respiratory tract infection 2 (<1%) 1 (<1%) previous exacerbations more than twice a year.26 This
+Osteoarthropathy 2 (<1%) 0 fi nding suggests that the focus should not be solely on the overall exacerbation rate, but also the recurrent
+*All serious adverse events are listed in the appendix.
+exacerbation rate, which might be more clinically
+Table 3: Adverse events relevant.
+In the PANTHEON and PEACE studies, prevention of
+N-acetylcysteine we chose (1200 mg per day) was double exacerbations was eff ective from 6 months onwards, that used in BRONCUS (600 mg per day). A notable suggesting that the preventive eff ects of N-acetylcysteine dose-eff ect association with N-acetylcysteine has been treatment are slow but progressive, and that long-term, reported,11,14 and therefore a dose increase might be regular treatment is necessary.
+expected to provide amplifi ed treatment eff ects. Second, In the PANTHEON, PEACE,18 and SFC27 studies, both we enrolled more patients in our study than were smokers and non-smokers with COPD were eligible for enrolled in BRONCUS, which might have provided enrolment. These populations represent the reality of greater statistical power to detect diff erences between the COPD in China and probably the rest of the world. In a study groups. In BRONCUS, the sample size of nationwide Chinese survey,28 COPD in non-smokers
+523 patients was estimated on the basis of the primary accounted for 38·6% of the total COPD population.
+endpoint (decline in FEV), whereas in PANTHEON Despite smoking being the most important risk factor to study it was calculated by the reduction of yearly induce COPD, other risk factors such as exposure to exacerbation rate, as in the PEACE study. Our fi nding of biomass smoke and recurrent respiratory infections in a reduced rate of exacerbations is in agreement with the childhood cannot be ignored. Therefore, patients with long-term HIACE study,22 which was done with the same COPD unrelated to smoking were enrolled in these dose of N-acetylcysteine in 120 Chinese patients (93% studies, which is diff erent from some other large COPD male, mean age 71 years) with stable moderate-to-severe trials such as TRISTAN,29 TORCH, and UPLIFT.
+COPD. In that study,22 use of N-acetylcysteine was Responses to treatment between smoking and non- associated with a reduction in exacerbation frequency smoking COPD might diff er. Our previous SFC study compared with placebo (0·96 per patient-year for (salmeterol 50 μg and fl uticasone propionate 500 μg)
+N-acetylcysteine vs 1·71 per patient-year for placebo; showed that the change of pre-dose FEV from baseline p=0·019). was larger in non-smokers than in ex-smokers and
+Another key fi nding from our study is that we noted a current smokers.27 Thomsen and colleagues30 also noted greater preventive eff ect of exacerbations in patients with that never smokers with COPD had diff erent moderate disease (GOLD II) than in severe disease characteristics and milder disease than did current and
+(GOLD III), suggesting that N-acetylcysteine might have former smokers. In the present study, we did not note an a more important role in the early stages of COPD. Our interaction between treatment eff ects and smoking prespecifi ed analysis of treatment eff ects by GOLD status.
+severity suggested a diff erent result from the fi ndings of Mean SGRQ symptom scores were reduced in the the PEACE study,18 in which no treatment interaction was N-acetylcysteine group compared with placebo, but did noted between GOLD stage and treatment. However, our not diff er in total score and other domains, which might fi nding is in agreement with the TORCH23 and UPLIFT24 be attributable to the lower SGRQ total score in the studies, which although assessed diff erent drugs, noted present study than was noted in some clinical trials of
+192 www.thelancet.com/respiratory Vol 2 March 2014
+Articles
+Chinese patients with COPD, such as BUD/FORM31 and
+Panel: Research in context
+SFC,27 but was consistent with PEACE study18 (appendix).
+The low SGRQ was probably attributable to the low Systematic review severity of COPD spirometric impairment. We searched Medline for articles published in any language with the search terms
+We showed no change in spirometry results between “N-acetylcysteine”, “chronic obstructive pulmonary disease”, “chronic bronchitis”, and
+N-acetylcysteine and placebo treatment in the present “randomised trial” to identify publications reporting the treatment eff ects of study, which was consistent with other antioxidant N-acetylcysteine on patients with chronic obstructive pulmonary disease (COPD) or therapy in COPD such as PEACE18 and HIACE22 studies. chronic bronchitis. Our last search was done on Nov 26, 2013. We identifi ed 25 articles
+We postulate that because antioxidants are not reporting randomised control trials. However, only four trials were studied for 1 year or bronchodilators, it is not appropriated to assess their more and only three trials enrolled more than 100 participants. In the BRONCUS study,12 treatment eff ect in terms of FEV 1 . 523 patients with COPD were treated with N-acetylcysteine or placebo for 3 years; the
+Although symptoms, breathlessness in particular, exacerbation rate with treatment did not reduce signifi cantly compared with placebo, were the main reason that patients sought medical help, apart from in patients without concomitant inhaled corticosteroid treatment. In they were not developed to the point that they Schermer and colleagues’ study,13 286 patients with COPD or chronic bronchitis were substantially aff ected daily life in most patients with treated with inhaled fl uticasone propionate, oral N-acetylcysteine, or placebo for 3 years.
+moderately severe COPD. As a result, the percentages of No benefi ts were noted for any treatment in terms of exacerbation reduction, quality of rescue medication used in the present study were low. life, and yearly decline in forced expiratory volume in 1 s. The doses of N-acetylcysteine
+Nevertheless, a greater benefi t in terms of less shown in these two studies were 600 mg per day. Nevertheless, in the HIACE study22 in requirement for rescue therapy was noted in GOLD II which 120 patients with COPD were treated with N-acetylcysteine 600 mg twice daily or
+(moderate) patients in the N-acetylcysteine group than placebo, small airways function improved signifi cantly and exacerbation frequency in the placebo group. Improved symptom relief in decreased signifi cantly in the N-acetylcysteine group compared with placebo.
+patients with stable, moderate-to-severe COPD receiving
+Interpretation
+N-acetylcysteine 600 mg twice daily might be attributed to reduced air trapping32 and increased small airway Our fi ndings suggest that the strategy of antioxidant therapy, such as high dose function.22 N-acetylcysteine, is important for the reduction of COPD exacerbation and symptom
+The overall safety profi le in our study was consistent relief. Treatment with antioxidants requires long-term and regular administration. Early with the established safety profi le of N-acetylcysteine intervention might be essential to prevent the progress of COPD in terms of COPD
+600 mg per day. exacerbation. Future studies are needed for patients with mild COPD (GOLD I).
+Our study and the PEACE study support the strategy of long-term antioxidant therapy with N-acetylcysteine enrolment. After discussion by the study steering for the prevention of COPD exacerbations in Chinese committee, the revised sample size was regarded as patients. We postulate that this fi nding is an anti-oxidant acceptable to detect a diff erence in the primary endpoint.
+class eff ect because of their antioxidant and anti- Another potential limitation was that assessment of infl ammatory eff ects.7–9 Both N-acetylcysteine and exacerbations was partly based on recall of events by carbocisteine are antioxidant drugs. However, patients. Exacerbation might have been defi ned more carbocisteine is characterised by the presence of a precisely as treatment of patients with systemic bound sulfhydrylic group that is blocked in a diff erent corticosteroids or antibiotics. However, this defi nition way from N-acetylcysteine. N-acetylcysteine contains a could increase the risk of underdiagnosis because some free thiol group that acts as a direct scavenger of reactive patients did not receive antibiotics or systemic oxygen species and an indirect antioxidant by provision corticosteroids because of economic, transportation, or of cysteine (a direct precursor in the synthesis of other reasons. This study was done in Chinese patients intracellular glutathione). Other factors, such as only. Patients with mild COPD (GOLD I), might also reduction of bacterial adherence to ciliated epithelial benefi t from treatment with N-acetylcysteine and this cells and inhibition of respiratory syncytial virus group is worth investigating in future trials. A infection33 might also be used to explain the better than pharmacoeconomics analysis could also have been placebo treatment eff ects. Most COPD medications are incorporated in this study.
+administered by inhalation, whereas oral agents such as
+Contributors
+N-acetylcysteine might be more convenient and J-PZ, F-QW, Ch-XB, H-YW, JK, PC, W-ZY, L-JM, YG, and N-SZ were acceptable for patients. involved in the study design, recruitment of patients, and data collection.
+N-SZ, J-PZ, XL, LR, and MS were responsible for writing the
+To our knowledge, PANTHEON is the largest, manuscript. B-SW was responsible for the statistical analysis.
+evidence-based study done with N-acetylcysteine to date,
+Confl icts of interest and is the fi rst study to compare the treatment diff erence
+Funding, medication, and payment for travel and hotels to attend the between patients with moderate and severe COPD investigator’s meeting for this study were supplied from Hainan treated with N-acetylcysteine. However, our study had Zambon Pharmaceutical. XL is employed by Hainan Zambon some limitations. The sample size was intended to be Pharmaceutical. LR and MS are employed by Zambon SpA. B-SW is an employee of MedKey (Shanghai) Med-Tec Development. All other
+1250, but enrolment was stopped when 1006 patients authors declare that they have no confl icts of interest.
+were randomised because of slower than expected www.thelancet.com/respiratory Vol 2 March 2014 193
+Articles
+Acknowledgments 16 Anthonisen NR, Manfreda J, Warren CPW, Hershfi eld ES,
+We thank A Aletti, A Piccolboni, I Salerio, T Santagada (all Zambon SpA) Harding GK, Nelson NA. Antibiotic therapy in exacerbations of and Lei Wu (Hainan Zambon Pharmaceutical) for helpful advice, and chronic obstructive pulmonary disease. Ann Intern Med 1987;
+Lisa Buttle (Health Publishing & Services Srl, funded by Zambon SpA) 106: 196–204.
+for editorial assistance. The trial steering committee, quality control 17 Burge S, Wedzicha JA. COPD exacerbations: defi nitions and committee for spirometry, contract research organisation, participating classifi cations. Eur Respir J 2003; 21 (suppl 41): 46–53.
+sites, and investigators are shown in the appendix. 18 Zheng JP, Kang J, Huang SG, et al. Eff ect of carbocisteine on acute exacerbation of chronic obstructive pulmonary disease (PEACE

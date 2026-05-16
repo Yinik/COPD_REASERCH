@@ -1,0 +1,357 @@
+Articles
+3-year outcomes of discharged survivors of COVID-19 following the SARS-CoV-2 omicron (B.1.1.529) wave in 2022 in China: a longitudinal cohort study
+Hui Zhang*, Chaolin Huang*, Xiaoying Gu*, Yeming Wang*, Xia Li, Min Liu, Qiongya Wang, Jiuyang Xu, Yimin Wang, Huaping Dai,
+Dingyu Zhang†, Bin Cao†
+Summary
+Background There is a paucity of data on the natural trajectory of outcomes in survivors of COVID-19 beyond Lancet Respir Med 2024;
+2 years after symptom onset, and no evidence exists on the effect of re-infection in people with long COVID 12: 55–66 symptoms. We aimed to investigate the 3-year health outcomes of COVID-19 survivors and the effect of omicron Published Online re-infection. November 21, 2023 https://doi.org/10.1016/
+S2213-2600(23)00387-9
+Methods In this single-centre, longitudinal cohort study, we recruited participants with confirmed COVID-19 who
+See Comment page 7 were discharged from the Jin Yin-tan hospital in Wuhan, China, between Jan 7 and May 29, 2020. Participants
+*Contributed equally completed three follow-up visits at 6 months (June 16 to Sept 13, 2020), 1 year (Dec 16, 2020, to Feb 7, 2021), and
+†Contributed equally
+2 years (Nov 16, 2021, to Jan 10, 2022) since symptom onset (reported previously). At 1-year follow-up, community
+Department of Pulmonary and controls without a history of SARS-CoV-2 infection were recruited from two communities in Wuhan and at 2 years
+Critical Care Medicine, Center were matched (1:1) with survivors of COVID-19 who underwent pulmonary function tests. We did a 3-year follow-up of Respiratory Medicine, China- from Feb 23, 2023, to April 20, 2023, after the omicron (B.1.1.529) wave in winter, 2022. All eligible survivors of Japan Friendship hospital,
+COVID-19 and community controls matched at 2-year follow-up were invited to the outpatient clinic at the hospital to Capital Medical University,
+Beijing, China (H Zhang MD, complete several face-to-face questionnaires, a 6-min walking test (6MWT), and laboratory tests. A subgroup of
+Prof H Dai MD, Prof B Cao MD); survivors of COVID-19 identified by stratified sampling on the basis of disease severity scale score during National Center for Respiratory hospitalisation and community controls underwent pulmonary function tests. Survivors of COVID-19 who received Medicine, State Key Laboratory high-resolution CT and showed abnormal lung images at 2-year follow-up were invited for another assessment. We of Respiratory Health and
+Multimorbidity, National identified participants with and without long COVID at 2 years. The primary outcomes were sequelae symptoms,
+Clinical Research Center for omicron infection, lung function, and chest imaging at the 3-year follow-up. Respiratory Diseases, Institute of Respiratory Medicine,
+Findings Of 1359 COVID-19 survivors who completed 2-year and 3-year follow-up, 728 (54%) had at least one sequelae Chinese Academy of Medical
+Sciences, Department of symptom at 3 years after symptom onset and before omicron infection, mainly mild to moderate severity. During the
+Pulmonary and Critical Care omicron wave, participants with long COVID at 2 years had a significantly higher proportion of re-infection Medicine, Center of Respiratory
+(573 [76%] of 753 vs 409 [67%] of 606 without long COVID; p=0·0004), pneumonia (27 [5%] of 568 vs seven [2%] of 403; Medicine, China-Japan
+Friendship Hospital, Beijing, p=0·012). 3 months after omicron infection, 126 (62%) of 204 survivors with long COVID at 2 years had newly
+China (H Zhang, YeM Wang MD, occurring or worse symptoms, which was significantly higher than the proportion in the non-long COVID group
+J Xu MD, YiM Wang MD,
+(85 [41%] of 205; p<0·0001) and community controls (81 [40%] of 205; p<0·0001), and not significantly different Prof H Dai, Prof B Cao); Wuhan between COVID-19 survivors without long COVID and matched community controls (85 [41%] of 205 vs 81 [39%] of 206; Jinyintan Hospital, Tongji
+Medical College of Huazhong p=0·66). Re-infection was a risk factor for dyspnoea (odds ratio 1·36 [95% CI 1·04 to 1·77]; p=0·023), anxiety or
+University of Science and depression (OR 1·65 [1·24 to 2·20]; p=0·0007), EuroQol visual analogue scale score (β –4·51 [–6·08 to –2·95]; Technology, Wuhan, Hubei p<0·0001), but not for reduced daily activity (0·72 [0·38 to 1·37]; p=0·32) at 3 years. Lung function of survivors at Province, China (C Huang MD,
+3 years was similar to that of matched community controls. We found irregular line, traction bronchiectasis, Q Wang MD, D Zhang MD);
+Wuhan Research Center for subpleural lines and ground glass opacity at 3 years, but the volume ratio of lung lesion to total lung was only
+Communicable Disease
+0·2–0·3%. Diagnosis and Treatment,
+Chinese Academy of Medical
+Interpretation Most long COVID symptoms at 3 years were mild to moderate, with lung function recovering to levels Sciences, Wuhan, Hubei
+Province, China (C Huang, of matched controls. Survivors with long COVID had a higher proportion of participants with re-infection and newly
+Q Wang, D Zhang); National occurring or worse symptoms 3 months after omicron infection than those without long COVID. Re-infection had Center for Respiratory increased symptom occurrence but not increased reduced daily activity. Although the organ function of survivors of Medicine; State Key Laboratory
+COVID-19 recovered over time, those with severe long COVID symptoms, abnormal organ function, or limited of Respiratory Health and
+Multimorbidity; National mobility require urgent attention in future clinical practice and research.
+Clinical Research Center for
+Respiratory Diseases; Institute
+Funding Chinese Academy of Medical Sciences Innovation Fund for Medical Sciences, National Natural Science of Respiratory Medicine,
+Foundation of China. Chinese Academy of Medical
+Sciences; Department of
+Clinical Research and Data
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+www.thelancet.com/respiratory Vol 12 January 2024 55
+Articles
+Management, Center of
+Respiratory Medicine, China- Research in context
+Japan Friendship Hospital,
+Beijing, China (X Gu PhD); Evidence before this study associated with dyspnoea, EuroQol visual analogue scale
+Hubei Provincial Clinical We searched for articles in PubMed between March 16, 2022, and (EQ-VAS) score, and anxiety or depression symptoms, but not
+Research Center for Infectious Aug 5, 2023, using the terms (COVID-19 OR SARS-CoV-2 OR with reduced daily activity at 3 years. Lung function of
+Diseases, Wuhan Research
+Coronavirus disease 2019 OR 2019-nCoV) AND (follow up OR COVID-19 survivors returned to levels similar to those of
+Center for Communicable
+Disease Diagnosis and discharge* OR long term OR long covid OR post-acute COVID-19 matched community controls at 3 years, and changes in lung
+Treatment, Chinese Academy syndrome OR lung function* OR pulmonary function*), without function were similar in survivors with and without long COVID of Medical Sciences, Wuhan, language restrictions. After screening, we found 16 studies on the and community controls. We found irregular lines, traction
+Hubei Province, China health condition of survivors of COVID-19 up to 2 years after bronchiectasis, subpleural lines, and ground glass opacity at
+(X Li MD); Department of
+Radiology, China-Japan symptom onset. Most studies only focused on symptoms or one 3 years, but the volume ratio of lung lesion to total lung was
+Friendship Hospital, Beijing, specific organ function. No study comprehensively assessed long- only 0·2–0·3%.
+China (M Liu MD); Department term health outcomes of survivors of COVID-19 3 years after of Pulmonary and Critical Care Implications of all the available evidence hospital discharge, and the effect of re-infection in this group.
+Medicine, Wuhan Jinyintan Although some COVID-19 survivors discharged from hospital
+Hospital, Tongji Medical
+Added value of this study had long COVID at 3 years, lung function recovered to similar
+College of Huazhong University of Science and Technology, To our knowledge, this study is the first to investigate the levels to those of matched community controls. Survivors with
+Wuhan, Hubei Province, China health outcomes of hospitalised COVID-19 survivors at 3 years. long COVID had higher proportions of re-infection, pneumonia,
+(YiM Wang); Hubei Clinical 728 (54%) of 1358 participants reported at least one sequelae and sequelae symptoms 3 months after omicron infection than
+Research Center for Infectious symptom, mostly mild to moderate. Participants with long those without long COVID. Re-infection was associated with
+Diseases, Wuhan, Hubei
+Province, China (D Zhang); COVID at 2 years had higher proportions of re-infection and dyspnoea, anxiety or depression symptoms, and reduced
+Tsinghua University-Peking pneumonia compared with participants without long COVID. EQ-VAS score in COVID-19 survivors, but not with reduced daily
+University Joint Center for Life Newly occurring or worse symptoms 3 months after omicron activity. The findings of this study have important implications
+Sciences, Beijing, China infection were more prevalent in those with long COVID than in for the management of patients with long COVID, giving us
+(Prof B Cao) those without long COVID and community controls (survivors more confidence to face this health challenge. These findings
+Correspondence to:
+Prof Bin Cao, National Center for without long COVID had a similar prevalence of newly occurring also need to be further verified in future studies on long COVID
+Respiratory Medicine; State Key or worse symptoms as community controls). Re-infection was with larger sample sizes.
+Laboratory of Respiratory Health and Multimorbidity; National
+Clinical Research Center for
+Respiratory Diseases; Institute of Introduction consequences of infection in these individuals remain
+Respiratory Medicine, Chinese Since the beginning of the COVID-19 pandemic, more unknown. In the winter of 2022, China experienced a
+Academy of Medical Sciences; than 771 million confirmed cases and nearly wave of omicron (B.1.1.529) infections,14 and the
+Department of Pulmonary and
+Critical Care Medicine, Center of 7 million deaths have been reported worldwide. Growing dominant subvariants were BF.7 and BA.5.2 in Wuhan.15,16
+Respiratory Medicine, China- evidence shows that many people infected have persistent However, the effect of re-infection on pre-existing long
+Japan Friendship Hospital, somatic symptoms or organ dysfunction several weeks or COVID symptoms and health-related outcomes of
+Beijing 100029, China months after infection, known as long COVID. The COVID-19 survivors has not been studied. We aimed to caobin_ben@163.com definition of long COVID varies, the main difference investigate the 3-year health outcomes of COVID-19
+For worldwide COVID-19 data see https://covid19.who.int being the duration of post-acute sequelae symptom after survivors and the effect of re-infection in this patient
+COVID-19 infection, ranging from 4 to 12 weeks.1–3 population.
+36 million people across the European region might have developed long COVID during the first 3 years of the Methods pandemic,4 with the number estimated to be Study design and participants
+65 million worldwide at 90 days after infection.5 Compared We did a longitudinal cohort study including COVID-19 with survivors of COVID-19 without long COVID, those survivors aged 18 years or older who were discharged with long COVID were at increased risk of varying from Jin Yin-tan hospital in Wuhan, China, between adverse outcomes, such as diabetes, cardiovascular Jan 7 and May 29, 2020. The inclusion and exclusion disease, neurological diseases, and kidney disease. These criteria of this cohort have been described previously
+See Online for appendix outcomes might reduce individuals’ quality of life and (appendix pp 4–5).17 We did three face-to-face follow-up limit daily activity, resulting in higher unemployment interviews at 6 months (June 16 to Sept 13, 2020), 1 year rates in those with long COVID than those without long (Dec 16, 2020, to Feb 7, 2021), and 2 years (Nov 16, 2021,
+COVID (12·3% vs 8·7%).6–13 to Jan 10, 2022) since symptom onset, and the details of
+Long COVID has become one of the foremost these three follow-up timepoints have been reported challenges currently confronting global health-care previously.13,17,18 At 1-year follow-up, community controls systems. Comprehensive assessments of physical health, were recruited from two communities in Wuhan. These psychological conditions, and organ function of communities were located in districts representing
+COVID-19 survivors have only been done within a 2-year higher and lower levels of economic development.18 We timeframe after the onset of symptoms. The longer-term included 3383 community members older than 20 years
+56 www.thelancet.com/respiratory Vol 12 January 2024
+Articles and without a history of SARS-CoV-2 infection
+(ie, community controls). The detailed recruitment process is described in the appendix (pp 5–7). At 2-year follow-up, we matched community controls (1:1) by age, sex, and chronic pulmonary disease status with Discharge 2-year follow-up 3-year follow-up
+COVID-19 survivors who underwent pulmonary function tests at each visit. At the 3-year follow-up after the omicron (B.1.1.529) wave in winter, 2022, we invited
+COVID-19 survivors who met the inclusion and exclusion Pre-Omicron Omicron wave 3 months after wave (T1) omicron wave (T2) criteria of this cohort (appendix pp 4–5) and matched community controls to the hospital outpatient clinic for in-person interviews with trained researchers for physical examinations and routine blood tests. We did pulmonary function tests in the matched COVID-19 survivors and community controls and high-resolution CT in survivors with abnormal CT features at 2 years. The survey content for all participants in this follow-up is provided in the appendix (pp 8–9).
+This study was approved by the research ethics committee of Jin Yin-tan Hospital (KY-2020-78.09).
+Written and oral informed consent was obtained from the control group and COVID-19 survivors who participated in face-to-face interviews, and from
+COVID-19 survivors who participated in telephone surveys, separately.
+Questionnaires on symptoms and quality of life
+COVID-19 cohort
+Participants were invited to the hospital for a series of questionnaires at 3-year follow-up: an omicron-infection questionnaire, symptom questionnaire, health-care use and work-status questionnaire, modified British Medical
+Research Council (mMRC) dyspnoea scale, EQ-5D-5L,
+EuroQol visual analogue scale (EQ-VAS), Generalized
+Anxiety Disorder 7-item scale (GAD-7), Patient Health
+Questionnaire 9 (PHQ-9), and the Post-Traumatic Stress
+Disorder Checklist–civilian version (PCL-C; figure 1A).
+To confirm demographic information and self-reported comorbidity data collected at baseline, we designed a standard questionnaire administered to obtain information face-to-face by trained staff at 1-year and
+2-year follow-up visits. The vaccination status was also recorded.
+The omicron-infection questionnaire aimed to survey the symptoms and severity during the acute phase. We used the symptom questionnaire to assess the presence and severity of sequelae symptoms. We assessed the severity of sequelae symptoms using an ordinal 5-point
+Likert scale,19 except for the visual analogue scale for joint
+Figure 1: Study design
+(A) Timepoints of questionnaire survey, 6MWT, pulmonary function tests, and high-resolution CT for COVID-19 survivors and community controls. (B) Trial profile. 6MWT=6 min walking test. Omicron=B.1.529. *A subgroup COVID-19 survivors at 6-month follow-up (described previously) and matched community controls were invited to undergo pulmonary function tests. †COVID-19 survivors with abnormal CT at 2-year follow-up who received high-resolution CT imaging at 3-year follow-up.
+www.thelancet.com/respiratory Vol 12 January 2024 57 ealeuqeS smotpmys
+-norcimO detaler motpmys
+Re-infected survivors
+COVID-19 survivors Non-re- infected survivors
+Omicron- infected
+Community controls controls
+Uninfected survivors ealeuqeS smotpmys dna
+LoQRH htlaeh latnem stnemssessa dna
+TWM6 stset doolb yranomluP noitcnuf
+*stset -hgiH noituloser
+(cid:31) (cid:31) (cid:31) (cid:31) (cid:31) (cid:31) (cid:31)
+(cid:31) (cid:31) (cid:31) (cid:31) (cid:31)
+(cid:31) (cid:31) (cid:31) (cid:31) (cid:31)
+(cid:31) (cid:31) (cid:31)
+2469 patients with COVID-19 screened
+263 patients excluded
+45 died before 2-year follow-up
+218 difficulty in attending follow-up
+65 living in nursing or welfare home
+97 immobile or osteoarticular disease
+56 dementia or psychotic disorder
+2206 eligible for evaluation at 2-year follow-up
+1294 evaluated at hospital
+372 evaluated by telephone survey
+540 lost to follow-up
+20 died between 2-year and 3-year follow-up
+2186 eligible for evaluation at 3-year follow-up
+1110 evaluated at hospital
+435 evaluated by telephone survey
+641 lost to follow-up
+1362 completed 2-year and 3-year follow-up visits
+3 without long COVID information at 2-year follow-up
+1359 with 2-year long COVID information included in the analysis
+1048 always evaluated at hospital at 3 years
+311 evaluated by telephone survey at 3 years
+Articles pain,20 with a higher score representing greater severity the 6-month follow-up visit18 and were invited for the
+(appendix p 10). The severity of joint pain was categorised same tests at the 3-year follow-up visit.
+as mild (1–3), moderate (4–6), or severe (7–10) according Participants with CT abnormalities at 2-year follow-up to a visual analogue scale. When assessing changes in underwent high-resolution CT again at 3 years.13 The symptom severity, every 2 points of the visual analogue original CT scans were assessed by experienced scale of joint pain are converted into a level, with a total pulmonologists and radiologists for abnormal CT of five levels for consistency with other symptoms. After features, including ground glass opacity, irregular lines, omicron infection, an increase in symptom severity by subpleural lines, interlobular septal thickening, reticular more than one level is defined as worse, a decrease by pattern, consolidation, and traction bronchiectasis. A more than one level is defined as improved, and no validated artificial intelligence software (chest CT image change is defined as stable. The details for the processing software [YT-CT-Lung, version 1.0], Yitu classification of change in symptom severity before and Network Technology, China) calculated the degree of after omicron infection are shown in the appendix (p 14). anatomical involvement of the five lobes and summed a
+We used the health-care use and work-status CT score on the basis of the volume ratio of lesions in the questionnaire to assess the condition in the period before five lung lobes, with a higher score representing more omicron infection. We used the EQ-5D-5L questionnaire lung involvement (appendix pp 10–11).
+and EQ-VAS to assess health-related quality of life
+(HRQoL) and the mMRC dyspnoea scale to assess Outcomes dyspnoea. We used the other three psychiatric The primary outcomes were sequelae symptoms, questionnaires to assess survivors’ mental health, omicron infection, lung function, and chest imaging at including the GAD-7 for anxiety symptom assessment, 3-year follow-up. Secondary outcomes were dyspnoea, the PHQ-9 for depression symptom assessment, and the HRQoL (evaluated by EQ-VAS score), exercise capacity,
+PCL-C for post-traumatic stress disoder symptom mental health assessments (anxiety, depression, and assessment. Details of these questionnaires and post-traumatic stress disorder symptoms), and health- definitions of outcomes are given in the care use and work status at 3 years. The definitions and appendix (pp 10–14). COVID-19 survivors who could not assessment tools for primary and secondary outcomes attend an in-person interview were invited to complete are listed in the appendix (pp 10–14).
+all questionnaires by telephone interview.
+Statistical analysis
+Community controls Demographic and clinical characteristics and long-term
+The community controls had no history of SARS-CoV-2 health consequences of COVID-19 survivors and infection before the omicron wave in winter, 2022. matched community controls were presented as
+Community controls who received pulmonary function medians (IQRs) for continuous variables and as n (%) for tests at the 2-year follow-up were invited to the hospital categorical variables. We categorised COVID-19 survivors for a face-to-face interview at 3-year follow-up into either long COVID or non-long COVID groups
+(appendix pp 8–9). Additionally, community controls according to the presence of at least one sequelae who reported omicron infection completed the omicron- symptom at 2-year follow-up. For the comparison of infection questionnaire, symptom questionnaire, and demographic and clinical characteristics at baseline and health-care use and work-status questionnaire. Other clinical characteristics of omicron infection between long questionnaires were consistent with those used for COVID and non-long COVID groups, we used the χ² test, survivors of COVID-19, and definitions of outcomes were Fisher’s exact test, or Mann-Whitney U test as given in the appendix (pp 13–14). appropriate. We did similar tests for the comparison of newly occurring or worse symptoms after omicron
+Functional examination and high-resolution CT infection and pulmonary function between COVID-19
+All participants, including COVID-19 survivors and survivors with long COVID at 2 years and matched community controls, were invited to perform a 6-min controls, and also between non-long COVID survivors walk test (6MWT). We used stratified disproportional and matched controls. For the comparison of symptoms, random sampling according to the highest seven- HRQoL, exercise capacity, health-care use after discharge, category scale score during hospital stay (severity scale)— and work status between the 2-year and 3-year follow-up
+(3) admitted to hospital but not requiring supplemental visits, we used the Wilcoxon signed-rank test or McNemar oxygen; (4) admitted to hospital but requiring test as appropriate.
+supplemental oxygen; (5) admitted to hospital requiring We used multivariable adjusted logistic regression high-flow nasal cannula, non-invasive mechanical models in prespecified analyses to explore the association ventilation, or both; (6) admitted to hospital requiring between independent variables such as age, sex, education, extracorporeal membrane oxygenation, invasive cigarette smoking, comorbidity, disease severity, mechanical ventilation, or both; and (7) death—to select corticosteroid use, re-infection with SARS-CoV-2, and patients who would undergo pulmonary function tests at vaccination status with dyspnoea, anxiety or depression
+58 www.thelancet.com/respiratory Vol 12 January 2024
+Articles
+(assessed by GAD-7 and PHQ-9); reduced daily activity; diffusion impairment; and long COVID before omicron infection. We used generalised linear regression models to
+Total (n=1359) Long COVID at Non-long COVID p value assess the association of these exposure variables with
+2 years (n=753) at 2 years (n=606)
+EQ-VAS score at 3-year follow-up. For the association of
+Age at discharge, years 57·0 (48·0–65·0) 57·0 (48·0–65·0) 57·0 (46·0–65·0) 0·39 disease severity and vaccination status with dyspnoea,
+Sex ·· ·· ·· 0·0004 anxiety or depression, reduced daily activity, EQ-VAS score,
+Male 728 (54%) 371 (49%) 357 (59%) ·· diffusion impairment, and long COVID before omicron
+Female 631 (46%) 382 (51%) 249 (41%) ·· infection, we included age, sex, cigarette smoking (never BMI, kg/m² 23·9 (21·8–26·0) 23·9 (21·9–26·2) 24·0 (21·8–26·0) 0·90 smoker vs current or former smoker), education (higher education or higher vs high school or lower), comorbidity, Education level ·· ·· ·· 0·49 disease severity scale score during hospital stay College or higher 397/1251 (32%) 220/711 (31%) 177/540 (33%) ··
+(3 vs 4 vs 5–6), corticosteroid use, and vaccination status in High school or lower 854/1251 (68%) 491/711 (69%) 363/540 (67%) ·· the models. We analysed the effect of re-infection on these Cigarette smoking ·· ·· ·· 0·75 outcomes except for long COVID before omicron infection Never-smoker 1123/1332 (84%) 624/740 (84%) 499/592 (84%) ·· with the previously mentioned independent variables. For Current smoker 96/1332 (7%) 56/740 (8%) 40/592 (7%) ·· the association of sex and corticosteroid use with these Former smoker 113/1332 (9%) 60/740 (8%) 53/592 (9%) ·· outcomes, we included all the independent variables in the Comorbidity model. When exploring associations of education with Hypertension 454/1351 (34%) 245/749 (33%) 209/602 (35%) 0·44 these outcomes, we included the independent variables Diabetes (type 1 or type 2) 183/1350 (14%) 99/749 (13%) 84/601 (14%) 0·69 except for comorbidity; for the association of smoking with Coronary heart diseases 117/1350 (9%) 73/749 (10%) 44/601 (7%) 0·12 these outcomes, we included the independent variables Cerebrovascular diseases 64/1350 (5%) 41/750 (5%) 23/600 (4%) 0·16 except for comorbidity and disease severity (because of Chronic kidney disease 48/1352 (4%) 29/750 (4%) 19/602 (3%) 0·48 potential mediation). Only sex, smoking, education, and Malignancy 38/1351 (3%) 22/750 (3%) 16/601 (3%) 0·76 vaccination status were included for the association Chronic obstructive 21/1351 (2%) 14/750 (2%) 7/601 (1%) 0·30 between age and these outcomes because of the potential pulmonary disease mediation of other factors. For the association of Highest seven-category scale ·· ·· ·· 0·46 score during hospital stay comorbidity with these outcomes, we included the
+3: admitted to hospital and 347/1351 (26%) 189/750 (25%) 158/601 (26%) ·· independent variables except for disease severity and re- not requiring supplemental infection status. All significance tests were two-sided, and oxygen a p<0·05 was considered significant, unless stated 4: admitted to hospital and 903/1351 (67%) 506/750 (67%) 397/601 (66%) ·· otherwise. Missing data were not imputed. All statistical requiring supplemental analyses were done with SAS (version 9.4). oxygen
+5: admitted to hospital and 92/1351 (7%) 48/750 (6%) 44/601 (7%) ·· requiring HFNC or non-IMV,
+Role of the funding source or both
+The funder of the study had no role in study design, data
+6: admitted to hospital and 9/1351 (1%) 7/750 (1%) 2/601 (0%) ·· collection, data analysis, data interpretation, or writing of requiring ECMO or IMV, or the report. both
+Length of hospital stay, days 14·0 (10·0–20·0) 14·0 (10·0–21·0) 14·0 (10·0–19·0) 0·14
+Results ICU admission 56/1351 (4%) 28/750 (4%) 28/601 (5%) 0·40
+After excluding 20 participants who died between the Length of ICU stay, days 18·0 (7·0–37·0) 18·5 (11·5–41·5) 10·5 (7·0–23·0) 0·11
+2-year and 3-year follow-up period (five died from Corticosteroid use 320/1336 (24%) 188/745 (25%) 132/591 (22%) 0·22 reinfection with SARS-CoV-2 in the winter of 2022, and Vaccination status* ·· ·· ·· 0·64 another 15 died from other causes), 2186 COVID-19 Unvaccinated 203 (15%) 121 (16%) 82 (14%) ·· survivors were eligible for 3-year follow-up. One dose 205 (15%) 112 (15%) 93 (15%) ··
+641 (29%) participants were lost to follow-up and Two doses 268 (20%) 147 (20%) 121 (20%) ··
+1545 (71%) completed the 3-year follow-up from Three and more doses 683 (50%) 373 (50%) 310 (51%) ··
+Feb 23, 2023, to April 20, 2023. We included 1359 survivors Time from symptom onset to 23·0 (22·5–23·4) 22·9 (22·5–23·3) 23·0 (22·6–23·6) 0·0001 who completed both 2-year and 3-year follow-up and with 2-year follow-up, months long COVID information at 2 years in the final analysis, Time from symptom onset to 38·5 (37·9–39·2) 38·5 (37·9–39·1) 38·6 (38·0–39·3) 0·057
+1048 (77%) of whom were interviewed face-to-face at the 3-year follow-up, months hospital and 311 (23%) were interviewed by telephone Data are n (%), n/N (%), or median (IQR), unless otherwise indicated. The differing denominators used indicate missing
+(figure 1B). data. Data on demographic characteristics, smoking history, and comorbidities were confirmed at the 12-month follow- up visit and self-reported by patients. All the included participants were Asian. ECMO=extracorporeal membrane
+Among 268 survivors of COVID-19 who had pulmonary oxygenation. HFNC=high-flow nasal cannula for oxygen therapy. ICU=intensive care unit. IMV=invasive mechanical function tests at 2 years, 238 (88·8%) had pulmonary ventilation. NIV=non-invasive ventilation. *Details of vaccination status were collected at the 3-year follow-up visit.
+function tests at 3 years; 243 community controls had
+Table 1: Baseline characteristics of COVID-19 survivors who completed 2-year and 3-year follow-up visits pulmonary function tests at both 2 years and 3 years. Of www.thelancet.com/respiratory Vol 12 January 2024 59
+Articles
+238 COVID-19 survivors and 243 controls who underwent 101 [8%] of 1351; appendix p 16). We found no significant pulmonary function tests at 3-year visits, we matched difference in comorbidities between those included and
+186 pairs by age, sex, chronic pulmonary disease status, excluded from the final analysis, except for chronic kidney and omicron infection (appendix p 32). 40 survivors with disease status (appendix p 16). The demographic
+CT abnormalities at 2 years had chest high-resolution CT characteristics of the community controls who attended at 3 years (appendix p 32). the 3-year follow-up are shown in the appendix (p 17).
+The median duration from COVID-19 symptom onset At 3 years after symptom onset and before omicron to the 3-year follow-up visit was 38·5 months infection, 728 (54%) of 1358 survivors of COVID-19 had
+(IQR 37·9–39·2). Of 1359 study participants, the median at least one sequelae symptom (appendix p 18). The age at discharge was 57·0 years (48·0–65·0), proportions of most symptoms remained stable or
+631 (46%) were female, 728 (54%) were male, and decreased between the 2-year and 3-year visits hypertension (454 [34%] of 1351) and diabetes (appendix p 18). We found a significant decrease in
+(183 [14%] of 1350) were the most common comorbidities fatigue or muscle weakness (422 [31%] of 1359 vs
+(table 1). 1156 (85%) participants received at least one 249 [18%] of 1358; p<0·0001) and increase in hair loss vaccination dose before the omicron wave, including (152 [11%] vs 246 [18%]; p<0·0001) and joint pain (128 [9%] inactivated vaccine (976 [72%] of 1359) and recombinant vs 226 [17%]; p<0·0001) at 3 years (appendix p 18). More
+COVID-19 vaccine (12 [1%] of 1359), and only than 80% of reports of each sequelae symptom were mild
+203 (15%) were unvaccinated. 753 (55%) of 1359 survivors to moderate severity (Likert 1–3), except for joint pain who reported at least one sequelae symptom at 2 years (appendix p 33). Health-care use within 3 years increased were classified into the long COVID group and significantly compared with that within 2 years of
+606 (45%) into the non-long COVID group. More female infection, including outpatient clinic visit than male participants were in the long COVID group (261 [19%] of 1356 vs 507 [37%] of 1353; p<0·0001),
+(382 [51%] of 753] vs 249 [41%] of 606), and vaccination hospitalisation (168 [12%] vs 408 [30%]; p<0·0001), and status was similar between the two groups (table 1). emergency department visit (nine [1%] vs 56 [4%];
+Compared with participants included in the final analysis, p<0·0001). 494 (87%) of 566 survivors of COVID-19 who excluded participants had a higher proportion of female worked before the primary infection returned to their participants (443 [54%] of 827 vs 631 [46%] of 1359) and original work, which was similar to the proportion at lower proportion of those requiring oxygen therapy or 2 years (appendix p 18). In survivors without self-reported ventilation (severity scale score 5–6 34 [4%] of 804 vs omicron infection, 205 (54%) of 377 had at least
+COVID-19 survivors Community p value, long p value, controls COVID vs COVID-19
+(n=248) non-long survivors vs
+COVID community controls
+Long COVID at Non-long COVID Total (n=1359)
+2 years (n=753) at 2 years (n=606)
+Omicron infection* 573 (76%) 409 (67%) 982 (72%) 206 (83%) 0·0004 0·0004
+Positive SARS-CoV-2 rapid antigen test or 222/568 (39%) 163/403 (40%) 385/971 (40%) 86/206 (42%) 0·67 0·58
+RT-PCR
+Clinical characteristics of Omicron infection
+Asymptomatic 5/568 (1%) 5/403 (1%) 10/971 (1%) 3/205 (1%) 0·59 0·60
+Symptomatic 563/568 (99%) 398/403 (99%) 961/971 (99%) 203/205 (99%) ·· ··
+Number of symptoms† 3 (2–6) 3 (2–4) 3 (2–5) 3 (2–5) <0·0001 0·27
+Pneumonia 27/568 (5%) 7/403 (2%) 34/971 (4%) 6/206 (3%) 0·012 0·67
+Treatment location ·· ·· ·· ·· 0·25 0·69
+Outpatient clinic or emergency department 32/568 (6%) 14/403 (3%) 46/971 (5%) 10/206 (5%) ·· ·· visit
+Admitted to hospital 11/568 (2%) 6/403 (1%) 17/971 (2%) 2/206 (1%) ·· ··
+Highest oxygen support therapy ·· ·· ·· ·· 0·89 0·45
+Supplemental oxygen 10/573 (2%) 6/409 (1%) 16/982 (2%) 1/206 (<1%) ·· ··
+HFNC, NIV, or both 1/573 (<1%) 0 1/982 (<1%) 0 ·· ··
+Data are n (%), n/N (%), or median (IQR). The differing denominators used indicate missing data. HFNC=high-flow nasal cannula for oxygen therapy. NIV=non-invasive ventilation. *Omicron infection was confirmed by a positive SARS-CoV-2 test result or symptoms of infection and contact with index patients. †COVID-related symptoms included fever, cough, sore or dry throat, fatigue, muscle or body aches (or soreness), congestion or runny nose, headache, chills or shaking, nausea, diarrhea, taste disorder, smell disorder, shortness of breath, and vomiting.
+Table 2: Clinical characteristics of omicron (B.1.1.529) infection in winter, 2022, among COVID-19 survivors and community controls
+60 www.thelancet.com/respiratory Vol 12 January 2024
+Articles one sequelae symptom, which was consistent with that
+Long COVID at Matched p value Non-long Matched p value of all COVID-19 survivors (appendix p 19). Comparisons
+2-year (n=205) community COVID at community of sequelae symptoms between 2 years and 3 years were controls 2 years controls similar to that among all included survivors of COVID-19, (n=205) (n=206) (n=206)
+(primary outcome), which was the same for health-care Any symptom* 126/204 (62%) 81 (40%) <0·0001 85/205 (41%) 81 (39%) 0·66 use and work status (secondary outcomes). Fatigue or muscle 72 (35%) 45 (22%) 0·0031 41 (20%) 45 (22%) 0·63
+Following the omicron wave in winter 2022, 982 (72%) weakness of 1359 COVID-19 survivors were infected with omicron Sleep difficulties 30 (15%) 17 (8%) 0·044 7 (3%) 17 (8%) 0·035 compared with 206 (83%) of 248 community controls Hair loss 14 (7%) 11 (5%) 0·54 11/205 (5%) 11 (5%) 0·99
+(table 2). The median number of COVID-related Smell disorder 12 (6%) 5 (2%) 0·083 3 (1%) 5 (2%) 0·47 symptoms in the acute phase was three (IQR 2–5) for Joint pain 7/204 (3%) 18 (9%) 0·024 3 (1%) 18 (9%) 0·0008 both infected survivors and community controls (table 2). Palpitations 38 (19%) 6 (3%) <0·0001 22 (11%) 6 (3%) 0·0017
+34 (4%) of 971 omicron-infected participants progressed Decreased appetite 10 (5%) 3 (1%) 0·048 3 (1%) 3 (1%) 1·00 to pneumonia and 17 (2%) were admitted to hospital, Taste disorder 9 (4%) 3 (1%) 0·079 4 (2%) 3 (1%) 0·70
+16 (2%) of 982 survivors requiring supplementary oxygen Dizziness 31 (15%) 12 (6%) 0·0022 24 (12%) 12 (6%) 0·036 and one (<1%) requiring high-flow nasal cannula for Chest pain 23 (11%) 5 (2%) 0·0004 17 (8%) 5 (2%) 0·0085 oxygen therapy (table 2). The proportions of participants Sore throat or difficult 15 (7%) 2 (1%) 0·0013 5 (2%) 2 (1%) 0·25 with pneumonia (six [3%] of 206 vs 34 [4%] of 971), to swallow admitted to hospital (two [1%] vs 17 [2%]), and who Skin rash 8 (4%) 1 (0%) 0·012 5 (2%) 1 (0%) 0·086 received oxygen therapy (one [<1%] vs 16 [2%]) were Myalgia 35 (17%) 9 (4%) <0·0001 15 (7%) 9 (4%) 0·21 numerically lower in community controls than in Headache 28 (14%) 9 (4%) 0·0011 13 (6%) 9 (4%) 0·38 survivors (table 2). Nausea or vomiting 8 (4%) 3 (1%) 0·13 4 (2%) 3 (1%) 0·70
+Notably, 573 (76%) of 753 survivors with long COVID at
+Data are n (%) or n/N (%), unless otherwise indicated. The differing denominators used indicate missing data.
+2 years were reinfected, which was more than Community controls infected with omicron were matched with reinfected survivors with or without long COVID by
+409 (67%) of 606 in the non-long COVID group (table 2). age and sex. *Includes all symptoms listed in the table.
+Compared with non-long COVID survivors, those with
+Table 3: Newly occurring or worse symptoms 3 months after omicron (B.1.1.529) infection in COVID-19 long COVID had more symptoms (median 3 [2–6] vs survivors and matched community controls
+3 [2–4]) and a higher proportion had pneumonia
+(27 [5%] of 568 vs seven [2%] of 403, table 2). We found no significant difference between long COVID and non- palpitations, decreased appetite, sore throat or difficulty long COVID survivors in proportions of symptomatic swallowing, myalgia, and headache after omicron infection, hospitalisation, and oxygen therapy (table 2). infection were more prevalent in long COVID survivors
+Survivors with long COVID at 2 years had slightly higher than in non-long COVID participants (appendix p 23).
+proportions of re-infection and pneumonia than non- Regarding symptom severity, most sequelae symptoms long COVID survivors in both male and female in survivors and community controls were mild and
+(appendix pp 20–21). Among all infected survivors of moderate (Likert scale score 1–3), although approximately
+COVID-19 and community controls who had positive 30% of survivors with long COVID had severe joint pain
+SARS-CoV-2 antigen or RT-PCR tests (appendix p 22), with a visual analogue scale score of 7–10 (appendix p 33).
+survivors with long COVID at 2 years had numerically Regarding the change in severity of symptoms of higher proportions of pneumonia, hospitalisation, reinfected survivors before and after omicron infection, supplemental oxygen, and more symptoms than symptoms in most participants remained stable survivors without long COVID. These results were (appendix p 34). For both male and female participants, similar to those in table 2. survivors with long COVID had higher proportions of
+126 (62%) of 204 survivors with long COVID reported newly occurring or worse symptoms 3 months after at least one newly occurring or worse symptom 3 months omicron infection than survivors without long COVID after omicron infection, which was significantly higher and community controls (appendix pp 24–25). The than the proportion in community controls matched by proportions of newly occurring or worse symptoms age and sex (81 [40%] of 205; p<0·0001; table 3). However, between COVID-19 survivors and community controls the proportion of newly occurring or worse symptoms matched by age, sex, smoking history, and comorbidities was not significantly different between non-long COVID showed similar results (appendix p 26).
+survivors and matched community controls Among COVID-19 survivors and community controls
+(85 [41%] of 205 vs 81 [39%] of 206; p=0·66; table 3). who completed pulmonary function tests at 3 years,
+Palpitations, dizziness, and chest pain were significantly 186 COVID-19 survivors (113 [61%] with long COVID and more frequent in non-long COVID survivors than in 73 [39%] without) were matched (1:1) by age, sex, chronic matched controls, but other symptoms did not differ, pulmonary disease status, and omicron infection status except for sleep difficulties and joint pain. Fatigue or with community controls. For survivors of COVID-19 with muscle weakness, sleep difficulties, smell disorder, and without long COVID, the percentage of predicted www.thelancet.com/respiratory Vol 12 January 2024 61
+Articles values of spirometry, lung volume, and diffusion capacity smoking history, the results were similar (appendix p 27).
+parameters were not statistically significantly different to Changes in lung function between 2-year and 3-year those of matched community controls, except for the follow-up visits did not differ between survivors and residual volume (89·5% for survivors with long COVID vs matched controls infected with omicron in the past year,
+92·6% for matched controls, p=0·0044, and 81·8% for except for total lung capacity between survivors with long survivors without long COVID vs 90·1% for matched COVID at 2 years and matched controls (50·0 mL controls, p=0·0009) and functional residual capacity [–160·0 to 310·0] vs –40·0 mL [–280·0 to 200·0]; p=0·043), between survivors without long COVID and matched regardless of whether the survivors had long COVID or controls (97·4% vs 106·6%; p=0·017; figure 2A, B). The not (appendix p 28).
+proportion of abnormal lung function was not significantly Of 57 COVID-19 survivors who had high-resolution CT different in long COVID or non-long COVID survivors at 2 years, 48 (84%) had CT abnormalities.
+versus matched community controls, except for the 40 (83%) of these 48 had chest high-resolution CT at residual volume (32% for survivors with long COVID vs 3-year follow-up, including 26 (65%) infected with
+16% for matched controls, p=0·0050, and 40% for survivors omicron and 14 (35%) without infection (appendix p 29).
+without long COVID vs 21% for matched controls, 35 (87%) of 40 survivors who had CT abnormalities at p=0·0098; figure 2C, D). With further matching for 2 years persisted with abnormal CT features at 3 years
+Figure 2: Lung function of COVID-19 survivors and matched community controls at the 3-year visit
+Community controls were matched by age, sex, chronic pulmonary disease history, and re-infection history. The percentage of predicted values for pulmonary function test parameters in COVID-19 survivors with long COVID (A) and non-long COVID (B) and the matched community controls. Proportions of participants with abnormal pulmonary function test parameters in COVID-19 survivors with long COVID (C), non-long COVID (D) and the matched community controls. FEV=forced expiratory volume in 1 s. FVC=forced vital capacity. TLC=total lung capacity. FRC=functional residual capacity. RV=residual volume. DLCO=diffusion capacity for carbon monoxide. *p<0·05.
+62 www.thelancet.com/respiratory Vol 12 January 2024 detciderp egatnecreP
+FEV FVC TLC FRC RV DLCO
+V o < 1 f 8 p 0 r % ed i c ted
+)%( stnapicitraP
+Long COVID at 2 years Non-long COVID at 2 years
+Matched community controls Matched community controls *
+FEV FVC TLC FRC RV DLCO
+FVC o < f 8 p 0 r % ed i c t F e E d V/ 1 FVC <70 % TLC o < f 8 p 0 r % ed i c ted FRC o < f 8 p 0 r % ed i c ted RV o < f 8 p 0 r % ed i c t D e L d CO o < f 8 p 0 r % ed i c ted FEV o < 1 f 8 p 0 r % ed i c ted FVC o < f 8 p 0 r % ed i c t F e E d V/ 1 FVC <70 % TLC o < f 8 p 0 r % ed i c ted FRC o < f 8 p 0 r % ed i c ted RV o < f 8 p 0 r % ed i c t D e L d CO o < f 8 p 0 r % ed i c ted
+Articles
+(appendix p 29). Irregular lines were the most common PHQ-9 score ≥5, and PCL-C score ≥38) were all higher feature, followed by traction bronchiectasis and than that of survivors without long COVID at 3 years.
+subpleural lines (appendix p 29). By using artificial After multivariable adjustment, survivors of COVID-19 intelligence software to calculate a CT score, the volume critical illness (severity scale score 5–6) during hospital and ratio of ground glass opacity to total lung and the stay were more likely to have dyspnoea at 3 years than volume ratio of lung lesions decreased between the were survivors with a severity scale score of 3 (odds ratio
+2-year and 3-year visits (appendix p 29). The median ratio [OR] 1·75 [95% CI 1·05 to 2·90], p=0·031; reinfected vs of lung lesion to total lung volume was 0·3% non-reinfected 1·36 [1·04 to 1·77]; p=0·023; appendix
+(IQR 0·2–1·1) in survivors infected with omicron and p 36). Compared with non-reinfected survivors,
+0·2% (0·1–0·7) in survivors who were not infected with reinfected survivors had a lower EQ-VAS score (β –4·51 omicron (appendix p 29). [–6·08 to –2·95]; p<0·0001) and increased odds of anxiety
+The appendix (p 35) shows the dynamic changes of CT or depressive symptoms (OR 1·65 [1·24 to 2·20]; imaging in four survivors who had high-resolution CT at p=0·0007), but re-infection had no effect on reduced
+3 years as examples. Lung lesions continued to resolve or daily activity (OR 0·72 [0·38 to 1·37; p=0·32; remained stable from 2 years to 3 years (appendix p 35). appendix p 36). For every 10 years increase in age, the
+In a male survivor aged 64 years (severity scale score 3) odds of dyspnoea increased (OR 1·18 [1·06 to 1·30]; who was infected with omicron in 2022, CT imaging p=0·0017), as did the odds of reduced daily activity showed irregular lines and traction bronchiectasis at (OR 1·73 [1·29 to 2·31]; p=0·0002; appendix p 36). The
+3 years, but these features were mild this survivor did not odds of dyspnoea and anxiety or depression symptoms report dyspnoea symptoms (appendix p 35). Another were higher, whereas the EQ-VAS score was lower, in male survivor aged 49 years (severity scale score 4) who female survivors compared with male survivors was infected with omicron had nearly normal imaging (appendix p 36). The disease severity scale score at and lung function and did not report dyspnoea at 3 years primary infection no longer affected EQ-VAS score, daily
+(appendix p 35). In a female survivor aged 60 years activity, and anxiety or depression symptoms at 3 years
+(severity scale score 5) infected with omicron who did not (appendix p 36). Administrating three or more doses of have dyspnoea at 3 years, we found that reticular pattern, COVID-19 vaccines was positively associated with ground glass opacity, subpleural lines, and irregular lines EQ-VAS score (β 2·85 [0·72 to 4·98]; p=0·0089) and persisted at 2 years but continued to resolve at 3 years negatively associated with reduced daily activity at 3 years
+(appendix p 35). A male survivor aged 69 years (with (OR 0·40 [0·18 to 0·89]; p=0·024; appendix p 36).
+severity scale 6) without omicron infection had obvious We used logistic regression models to explore the risk
+CT abnormalities at 3 years, with mainly irregular lines factors of sequelae symptoms and lung function at and traction bronchiectasis, reduced lung function, and 3 years. Compared with male participants, female dyspnoea (appendix p 35). participants had increased odds for at least one sequelae
+The numerical differences in the values of laboratory symptom of long COVID (OR 2·05 [95% CI 1·58–2·65]; tests, including leukocyte counts, lymphocyte counts, p<0·0001) and diffusion impairment (6·99 [3·41–14·37]; serum creatinine, alanine aminotransferase, aspartate p<0·0001; appendix p 36). Age was positively associated aminotransferase, and HbA were not clinically with diffusion impairment, with higher odds for every
+1c significant between COVID-19 survivors and community 10 years increase in age (1·33 [1·01–1·75]; p=0·040). The controls (appendix p 30). disease severity of primary infection was not significantly
+After the omicron wave, 581 (43%) of 1358 survivors associated with sequelae symptoms and diffusion had dyspnoea (mMRC score ≥1) at 3 years and the impairment (appendix p 36).
+proportion of dyspnoea in long COVID survivors was higher than in non-long COVID survivors Discussion
+(401 [53%] of 752 vs 180 [30%] of 606; appendix p 31). Pain In this longitudinal cohort study, around half of or discomfort was the most impaired dimension of COVID-19 survivors had at least one sequelae symptom
+HRQoL (543 [40%] of 1358), followed by anxiety or at the 3-year follow-up, with the most prevalent being depression (398 [29%]), and a few survivors had problems fatigue or muscle weakness, and hair loss. Compared with mobility (47 [3%]), personal care (11 [1%]) and usual with survivors without long COVID, survivors with long activity (16 [1%]; appendix p 31). The median 6MWT COVID had a higher proportion of re-infection and were result at 3 years was 488·0 m (IQR 445·0–533·0), which prone to pneumonia after re-infection. Newly occurring was slightly lower than that at 2 years (512·0 m or worse symptoms 3 months after omicron infection
+[456·0–564·0]; appendix p 31). The percentage of were more prevalent in survivors with long COVID than predicted value less than the lower limit of normal at in those without long COVID and community controls,
+3 years was higher than at 2 years (105 [10%] of 1022 vs whereas omicron infection did not affect daily activity of
+75 [8%] of 970; appendix p 31). The proportion of survivors COVID-19 survivors. Lung function of survivors with long COVID who had pain or discomfort, anxiety or recovered to levels similar to those of community depression, and worse mental health (GAD-7 score ≥5, controls.
+www.thelancet.com/respiratory Vol 12 January 2024 63
+Articles
+Before this study, there were no data on the prevalence threshold for the definition of interstitial lung of long COVID at 3 years after primary infection. The abnormalities (≥5%),39 indicating that a diagnosis of proportion of survivors with long COVID varies in interstitial lung abnormalities cannot be made. Further, different studies, ranging from 20% to 55% of the residual abnormality on chest CT was too small to hospitalised COVID-19 survivors having long COVID at have an apparent effect on lung function. Previous
+2 years after acute infection.13,21,22 Previous studies studies also showed that the lung function of survivors showed that long COVID symptoms gradually ease over with acute respiratory distress syndrome returned to a time,23,24 and fluctuations in long COVID symptoms have healthy range within 3 years after discharge.40,41 However, also been reported.25,26 The diagnosis criteria of long because of the limited amount of imaging data in this
+COVID have not been standardised and relying only on study, this finding needs to be interpreted with caution symptoms without objective examination might not and should be verified in other studies with larger facilitate clinicians in making accurate diagnoses in sample sizes.
+clinical practice.27 In our study, we found a marked This study has several limitations. First, the increase in the proportion of participants with dyspnoea information about omicron infection was self-reported between 2-year and 3-year follow-up visits among by participants, and is not as accurate as a positive
+COVID-19 survivors, but a similar lung function to that COVID-19 test. But, the interview was conducted shortly of matched community controls at 3 years. This after the omicron wave, and trained researchers made inconsistency indicates the importance of more judgments on the basis of an established unified comprehensively assessing the health status of survivors definition of omicron infection when collecting this of COVID-19, not only on subjective reports of information. We defined omicron infection as either symptoms. having positive SARS-CoV-2 antigen or RT-PCR tests, or
+Compared with the non-long COVID group, survivors in those without SARS-CoV-2 test results showing with long COVID had a higher proportion of re-infection symptoms of COVID-19 and having known close contact and more prevalent symptoms or pneumonia. with individuals positive for SARS-CoV-2. Second, this
+Impairment of the immune response was indicated as a study only included survivors infected with wild-type possible pathogenic mechanism for long COVID by SARS-CoV-2 who were hospitalised at a single centre.
+previous published studies.28–31 This immune We included few participants with critically severe dysfunction, which could persist for 8 months, was disease, who are at increased risk for long COVID.42 prevalent in survivors with long COVID,32 including but Therefore, extrapolation of our findings might be limited not limited to increased exhaustion of CD4+ and CD8+ to survivors without severe disease. Third, the trained
+T cells and increased numbers of monocytes,33,34 investigators were not masked to the group of decreased naive T cells and B cells,32 and reduced participants, although these investigators were not tendency to produce autoantibodies against chemo- involved in the study design, statistical analysis, and kines.35,36 Durable and functional immune responses are interpretation of results. Therefore, the effect of crucial for preventing re-infection.37 The impaired interview bias is small. Finally, the cohort of COVID-19 immune function of survivors with long COVID might survivors had high drop-out rates. However, the selection explain the increased proportion of re-infection; bias was low because most baseline characteristics were continuous immune evaluation might uncover the similar between participants who were included and not underlying mechanisms of susceptibility to reinfection. included in the final analysis. Additionally, our findings
+Our findings indicate that vaccination with three or indicate an association but cannot prove causation more doses might be beneficial to improve HRQoL and because of the design of the cohort study, and the sample daily activity after re-infection in patients with long size of the control group in this study was small and the
+COVID. findings need to be further verified in future studies on
+CT abnormalities discovered in several studies are long COVID.
+unable to ascertain whether they indicate interstitial In conclusion, most survivors of COVID-19 had mild lung diseases or interstitial lung abnormalities following to moderate long COVID symptoms at 3 years and lung
+SARS-CoV-2 infection, or simply residual lung function was similar to that of matched controls. The abnormalities after acute lung injury. In the interim residual abnormalities on chest CT were too small to analysis of the UKILD study,38 an estimated have an apparent effect on lung function. COVID-19
+11·7% of hospitalised survivors of COVID-19 survivors survivors with long COVID had higher proportions of who were discharged before March, 2021, had residual omicron re-infection, pneumonia, and newly occurring lung abnormalities within 240 days after infection. or worse symptoms 3 months after omicron infection
+However, no data have been published on 3 year follow- than those without long COVID. Omicron re-infection up. In our cohort, although residual lung abnormality was associated with slightly increased symptom characteristics still existed—ie, irregular lines, traction occurrence (dyspnoea, anxiety or depression symptoms, bronchiectasis, and subpleural lines—the percentage of and HRQoL) in COVID-19 survivors but did not have an total lung lesions was lower (0·2–0·3%) than the effect on reduced daily activity.
+64 www.thelancet.com/respiratory Vol 12 January 2024
+Articles
+Contributors 14 Carabelli AM, Peacock TP, Thorne LG, et al. SARS-CoV-2 variant
+BC, DZ, HZ, XG, and YeW conceived and designed the study. HZ, XG, biology: immune escape, transmission and fitness.
+YeW, JX, and BC drafted the paper. HZ and XG did the analysis. Nat Rev Microbiol 2023; 21: 162–77.
+HZ, CH, XL, QW, YiW, JX, and HD collected and verified the data. 15 Bowe B, Xie Y, Al-Aly Z. Acute and postacute sequelae associated
+BC, DZ, HZ, and XG accessed and verified the data in the study. with SARS-CoV-2 reinfection. Nat Med 2022; 28: 2398–405.
+ML assessed the lung imaging that acquires at 2-year and 3-year follow- 16 Chinese Center for Disease Control and Prevention. National up visits. All authors critically revised the manuscript for important situation of novel coronavirus infection https://www.chinacdc.cn/ intellectual content and agreed to submit the final version for jkzt/crb/zl/szkb_11803/jszl_13141/202301/t20230125_263519.html
+(accessed Jan 30, 2023).
+publication. All authors agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of 17 Huang C, Huang L, Wang Y, et al. 6-month consequences of
+COVID-19 in patients discharged from hospital: a cohort study.
+any part of the work are appropriately investigated and resolved. All
+Lancet 2023; 401: e21–33.
+authors had full access to all the data in the study and had final
+18 Huang L, Yao Q, Gu X, et al. 1-year outcomes in hospital survivors responsibility for the decision to submit for publication.
+with COVID-19: a longitudinal cohort study. Lancet 2021;
+Declaration of interests 398: 747–58.
+We declare no competing interests. 19 Ballering AV, van Zon SKR, Olde Hartman TC, Rosmalen JGM.
+Persistence of somatic symptoms after COVID-19 in the
+Data sharing
+Netherlands: an observational cohort study. Lancet 2022;
+These data are not publicly available. Data can be made available upon 400: 452–61.
+reasonable request to the corresponding author and with the 20 Downie WW, Leatham PA, Rhind VM, Wright V, Branco JA, permission of the China-Japan Friendship Hospital and Wuhan Anderson JA. Studies with pain rating scales. Ann Rheum Dis 1978;
+Jinyintan Hospital. 37: 378-81
+Acknowledgments 21 Li D, Liao X, Liu Z, et al. Healthy outcomes of patients with
+This work was funded by the Chinese Academy of Medical Sciences COVID-19 two years after the infection: a prospective cohort study.
+Emerg Microbes Infect 2022; 11: 2680–88.
+Innovation Fund for Medical Sciences (CIFMS 2021-I2M-1-048), the
+National Natural Science Foundation of China 22 Yang X, Hou C, Shen Y, et al. Two-year health outcomes in hospitalized COVID-19 survivors in China. JAMA Netw Open 2022;
+(82241056/82200114/82200009). This work was also supported by
+5: e2231790.
+Changping Laboratory, the New Cornerstone Science Foundation, and
+23 Iwashyna TJ, Seelye S, Berkowitz TS, et al. Late mortality after
+Peking Union Medical College Education Foundation. We acknowledge
+COVID-19 infection among US veterans vs risk-matched all the individuals who participated in this study. We also thank all comparators: a 2-year cohort analysis. JAMA Intern Med 2023; investigators who contributed to the longitudinal cohort of COVID-19 published online Aug 21. https://doi.org/10.1001/ survivors. jamainternmed.2023.3587.

@@ -1,0 +1,260 @@
+[ COPD OriginalResearch ]
+Effect of Dual Phosphodiesterase 3 and 4
+Inhibitor Ensifentrine on Exacerbation Rate and Risk in Patients With Moderate to
+Severe COPD
+FrankC.Sciurba,MD;StephanieA.Christenson,MD;TaraRheault,PhD,MPH;ThomasBengtsson,MSc;
+KathleenRickard,MD;andIgorZ.Barjaktarevic,MD,PhD
+BACKGROUND: Exacerbations in COPD can be life-threatening and can lead to irreversible declinesinlungfunctionandqualityoflife.Medicationsthatreduceexacerbationburdenare anunmetneed,becauseexacerbationsputpatientsatriskofmoreexacerbationsanddecrease quality of life. Ensifentrine is a first-in-class selective dual inhibitor of phosphodiesterase 3 and4withdemonstratednonsteroidalantiinflammatoryactivityandbronchodilatoryeffects.
+RESEARCHQUESTION: Does ensifentrine reduce the rate or risk of COPD exacerbations?
+STUDY DESIGN AND METHODS: A prespecified, pooled analysis of the phase 3 clinical trials
+Ensifentrine as a Novel Inhaled Nebulized COPD Therapy (ENHANCE)-1 (ClinicalTrials.
+gov Identifier: NCT04535986) and ENHANCE-2 (ClinicalTrials.gov Identifier:
+NCT04542057) was conducted to assess the effect of ensifentrine on exacerbation rate and risk(timetofirstexacerbation).Thetrialsincludedsymptomaticpatientsaged40to80years withmoderatetosevereCOPDwhoreceived3mgtwice-dailyensifentrineover24weeksor placebo. Subgroup analyses and frequent exacerbator transition risk assessment were con- ducted post hoc.
+RESULTS: In total, 975 patients treated with ensifentrine and 574 patients who received placebo were included in the pooled analysis, including 62% of patients receiving concom- b itantlong-actingmuscarinicantagonistorlong-acting -agonisttherapyand18%receiving concomitant inhaled corticosteroid therapy. Ensifentrine was associated with significant re- ductionsintherate(rateratio,0.59;95%CI,0.43-0.80;P<.001)andrisk(hazardratio,0.59;
+95% CI, 0.44-0.81; P < .001) of moderate to severe exacerbations compared with placebo.
+Reductions in the rate and risk of exacerbations generally were consistent across patient subgroups, including age, sex, race, background maintenance medication use, chronic bronchitis, eosinophil count, COPD severity, and exacerbation history. Ensifentrine was associated with a numerical delay in transitioning from an infrequent exacerbator (Global
+Initiative for Chronic Obstructive Lung Disease group B) to a frequent exacerbator (Global
+Initiative for Chronic Obstructive Lung Disease group E) compared with placebo.
+INTERPRETATION: Ensifentrine reduced the rate of exacerbations and increased the time to first exacerbation among patients with COPD across a broad range of clinically relevant subgroups. CHEST2025;167(2):425-435
+KEYWORDS: COPD; ensifentrine; exacerbation; patient-reported outcomes
+FOREDITORIALCOMMENT,SEEPAGE305 chestjournal.org 425 and inhaled corticosteroids (ICSs), which can reduce
+Take-home Points the exacerbation rate, the exacerbation burden
+Study Question: Does twice-daily ensifentrine remains high.7,8 Further, ICSs are associated with a reduce the rate and/or risk of moderate/severe ex- 2%to3%increasedyearlyriskofpneumoniaandmay acerbations in patients with COPD? have a limited effect in patients with low blood
+Results:In a pooled analysis of data from the phase eosinophil levels.1,9,10 Medications such as oral
+3 Ensifentrine as a Novel Inhaled Nebulized COPD roflumilast or chronic azithromycin, commonly used
+Therapy (ENHANCE)-1 and ENHANCE-2 trials, in patients withfrequent exacerbations,areassociated ensifentrine substantially reduced both the rate and with worrisome side effects: substantial theriskofexacerbationsover24weeksoftreatment. gastrointestinal side effects are associated with
+Treatment effects favoring ensifentrine were roflumilast, and cardiac arrhythmias and ototoxicity observed in all subgroups assessed: age, sex, race, are associated with azithromycin.11,12 Novel therapies background maintenance medication, history of that can provide broad, nonsteroidal bronchitis,baselineeosinophilcount,COPDseverity, antiinflammatory effects that prevent or reduce and prior exacerbations (within the previous exacerbations and are well tolerated could decrease
+15 months) subgroups. disease burden and improve quality of life
+Interpretation: These data support ensifentrine as a meaningfully for patients with COPD.
+potential treatment option for the majority of pa The second messenger molecule cyclic adenosine tients with COPD who require additional or alter- monophosphate (cAMP) mediates multiple processes in native treatment options to reduce exacerbation thelungassociatedwithCOPD.IncreasedlevelsofcAMP burden.
+lead to bronchial relaxation in airway smooth muscle, mediation of inflammatory cell activity, migration, and
+Patients with COPD experience debilitating dyspnea, survival; furthermore, cAMP stimulates cystic fibrosis cough, sputum, and activity limitation and often transmembrane conductance regulator and ciliary beat experience acute exacerbations of increased respiratory frequency,whichcanfacilitatemucociliaryclearance.13,14 symptoms(COPDexacerbations)thatnegativelyimpact Phosphodiesterase enzymes hydrolyze cAMP, thereby their health status, increase the rate of lung function controllingtheintracellularconcentrationsofcAMPand decline, and worsen overall prognosis.1 COPD making them promising targets for COPD therapy.13 exacerbations are associated with accelerated lung Dualinhibitionofphosphodiesterase3and4resultsinan function decline, worse quality of life, increased risk of accumulationofcAMPinlungepithelial,smoothmuscle, cardiacevents,andhigherriskofdeath.1,2Thiscanlead and inflammatory cells and has demonstrated enhanced to a substantial burden on health care systems,3-5 or synergistic effects on bronchodilation and because exacerbations are a primary contributor to antiinflammatory response compared with inhibition of cost.5,6 Thus, medications that reduce COPD either phosphodiesterase 3 or phosphodiesterase 4 exacerbation frequency provide meaningful benefit to alone.15-17 patients and health care systems.
+Ensifentrine is a first-in-class selective dual inhibitor of
+Despite current recommended maintenance therapies phosphodiesterase 3 and 4 that has demonstrated consisting of combinations of long-acting nonsteroidal antiinflammatory activity and bronchodilators (long-acting b -agonists [LABAs] bronchodilatory effects.18,19 In phase 3 trials and long-acting muscarinic antagonists [LAMAs]) (Ensifentrine as a Novel Inhaled Nebulized COPD
+ABBREVIATIONS: cAMP = cyclic adenosine monophosphate; ofPulmonaryandCriticalCare(I.Z.B.),UniversityofCalifornia,Los
+ENHANCE = Ensifentrine as a Novel Inhaled Nebulized COPD Angeles, Los Angeles, CA; Verona Pharma plc (T. R. and K. R.),
+Therapy; GOLD = Global Initiative for Chronic Obstructive Lung Raleigh,NC;andStatMindAB(T.B.),Lund,Sweden.
+Disease;ICS=inhaledcorticosteroid;LABA=long-acting 2 -agonist; CORRESPONDENCE TO: Igor Z. Barjaktarevic, MD, PhD; email:
+LAMA=long-actingmuscarinicantagonist;NNT=numberneededto IBarjaktarevic@mednet.ucla.edu treat Copyright(cid:1)2024TheAuthor(s).PublishedbyElsevierIncunderli AFFILIATIONS: From the Division of Pulmonary and Critical Care censefromtheAmericanCollegeofChestPhysicians.Thisisanopen
+Medicine(F.C.S.),UniversityofPittsburgh,Pittsburgh,PA;theDi- access article under the CC BY-NC-ND license (http:// visionofPulmonary,CriticalCare,Allergy,andSleepMedicine(S.A. creativecommons.org/licenses/by-nc-nd/4.0/).
+C.),UniversityofCalifornia,SanFrancisco,SanFrancisco;theDivision DOI:https://doi.org/10.1016/j.chest.2024.07.168
+426 OriginalResearch [ 167#2 CHEST FEBRUARY 2025 ]
+Therapy [ENHANCE]-1 and ENHANCE-2), ensifentrine3mgbidadministeredover24weeksonthe ensifentrine was associated with significant rateandriskofmoderatetosevereCOPDexacerbations improvements in lung function and substantial using pooled data from the ENHANCE-1 and reductions in the rate and risk of moderate to severe ENHANCE-2trials,includingananalysisoftheeffectof exacerbations in a broad population of patients with ensifentrine in clinically relevant subgroups of patients
+COPD.20 Herein, we report on the effect of nebulized with COPD.
+Study Design and Methods (nasal discharge, nasal congestion, or both), fever (oral
+TrialDesign temperature > 37.5 (cid:1) C) without other cause, increased
+This analysis pooled data over 24 weeks from the modi- cough, or increased wheeze.
+fied intention-to-treat populations of ENHANCE-1
+Aposthocanalysiswasconductedtodeterminetheeffect
+(ClinicalTrials.gov Identifier: NCT04535986) and of ensifentrine vs placebo in reducing the risk of transi ENHANCE-2 (ClinicalTrials.gov Identifier: tioningfromalowerexacerbationriskgroup(infrequent
+NCT04542057),phase3,global,multicenter,randomized, exacerbators), analogous to Global Initiative for Chronic double-blind, parallel-group, placebo-controlled clinical
+ObstructiveLungDisease(GOLD)groupB,toafrequent trials in patients with symptomatic, moderate to severe exacerbatorstatus,analogoustoGOLDgroupE.GroupE
+COPD,themethodsofwhichhavebeenpublishedprevi- defines a group of patients at substantially higher risk of ously.20 Eligible patients had moderate to severe COPD future exacerbations compared with group B.21 Accord (FEV toFVCratio,<0.7;30%-70%ofpredictednormal
+1 ingtotheGOLD2024strategy,patientswithCOPDcate FEV 1 afterbronchodilatoradministration),were40to80 gorized as group B are symptomatic (modified Medical years of age, and were symptomatic at randomization Research Council scale $ 2 or COPD Assessment
+(score $ 2 on the modified Medical Research Council Test $ 10) and experienced zero or one moderate exac- scale). Patients with asthma or a history of life- erbations (not leading to hospitalization) in the prior threatening COPD, recent hospitalizations for COPD, year,whereasgroupEincludespatientswhoexperienced pneumonia, COVID-19 within 12 weeks of the trial, or two ormore exacerbations oran exacerbationleading to
+COPD exacerbation requiring oral or IV steroids within hospitalization.1GOLD2024groupsBtoEservedasthe
+3 months of the trial were excluded. Prior history of ex- basis for this analysis of risk of transitioning from low acerbations was not required for eligibility. Eligible pa- exacerbationrisktohighexacerbationrisk.Thetransition tients were assigned randomly 5:3 to receive eventsweredefinedasfollows:(1)anexacerbationbefore ensifentrine3mgbidorplaceboover24weeksviaastan- treatment and an exacerbation after treatment, and the dard jet nebulizer (PARI); a subset of patients in exacerbation before treatment was within 1 year of the
+ENHANCE-1receivedtreatmentfor48weeks.Random- exacerbation after treatment and the exacerbation after ization in ENHANCE-1 was stratified by stable back- treatmentoccurredwithin24weeksoffirstdoseofstudy ground maintenance with LAMA or LABA (yes or no), medication; (2) two exacerbations after treatment smoking status (current or former), and treatmentdura- occurred within 24 weeks of administration of the first tion (24 or 48 weeks); randomization in ENHANCE-2 doseofstudymedication;or(3)anexacerbationoccurred was stratified by stable background maintenance with within 24 weeks of administration of the first dose of
+LAMAorLABA(yesorno)andsmokingstatus(current studymedicationandhospitalizationresultingfromexac- orformer).Ratesofmoderatetosevereexacerbationand erbation was recorded.
+time to first exacerbation event were evaluated at
+24 weeks. Moderate COPD exacerbations were defined PatientSubgroups asworseningofCOPDsymptoms($2majorsymptoms A post hoc subgroup analysis was performed to assess or one major and one minor symptom) for $ 2 days, the effect of ensifentrine treatment on exacerbation requiring $ 3 daysoftherapy with oralorsystemiccor- rate and risk (time to first exacerbation) according to ticosteroids, antibiotics, or both, whereas severe COPD clinical characteristics and known risk factors for exacerbations required worsening of specified symptoms COPD exacerbations. Results were analyzed according andin-patienthospitalization.Majorsymptomsincluded to demographic subgroups, including age (< 65 or $ dyspnea, sputum volume, and sputum purulence 65 years); sex; race (White or not White [ie, self (color). Minor symptoms included sore throat, colds reported Black or African American, Asian, American chestjournal.org 427
+Indian or Alaskan Native, not reported, or other]); estimate the effect as a hazard ratio. All subgroup ana- smokingstatus(currentorformer);backgroundmedica- lysesomittedregionasafactor.ACoxproportionalhaz- tionuse(yesorno);andLABA,LAMA,orICSusedur- ards regression model, adjusted for treatment, trial, ing the trial period. Disease state subgroups included background medication strata, and smoking status, was history of chronic bronchitis, COPD severity (moderate used to evaluate the duration of time until a GOLD or severe), blood eosinophil count at screening ($ 100 2024 group B to E transition event.
+or < 100 cells/ m L and $ 300 or < 300 cells/ m L), and
+Oversight priorhistoryofexacerbations($1or0inthe15months
+The trials were performed in accordance with the tenets before screening).
+oftheDeclarationofHelsinkiandGoodClinicalPractice
+Statistical Analysis guidelines (International Council for Harmonisation/
+Themoderatetosevereexacerbationratewascompared Committee for Proprietary Medicinal Products/135/95) between treatment groups by using a negative binomial and were registered at ClinicalTrials.gov (ENHANCE-1 modelwithadjustmentfortreatment,region,trial,back- Identifier: NCT04535986; ENHANCE-2 Identifier: ground medication strata, and smoking status, with NCT04542057) and EudraCT (ENHANCE-1 Identifier: log(trialtime)(inyears)asanoffset.Timetofirstmod- 2020-002086-34; ENHANCE-2 Identifier: 2020-002069- erate to severe exacerbation was analyzed by using the 32). Patients provided written informed consent before log-rank test, stratified by region, trial, background participation. Two trial sites in ENHANCE-1 and one medication strata, and smoking status. Withdrawn pa- trialsiteinENHANCE-2wereexcludedfromallanalyses tients without any events were censored at the last day before database lock and unmasking because of signifi- in the study. Missing data were not imputed. Propor- cant noncompliance with Good Clinical Practice guide- tionality of the hazard was tested by the interaction be- lines. A detailed list of participating sites and approving tweentreatmentandlog(trialtime).ACoxproportional ethics committees can be found in e-Table 1 and in hazards model was used with the same factors to Anzueto et al.20
+Results significant 41% reduction in risk (hazard ratio, 0.59;
+95% CI, 0.44-0.81; P < .001) (Fig 2). Proportionality
+Patients of hazards was assessed graphically and by testing the
+This pooled analysis included 1,549 patients, 975 of interaction treatment by log(trial time) that was not whom were treated with ensifentrine and 574 of whom significant. Based on the exacerbation rate reduction, received placebo(Fig 1).The demographics and baseline the number needed to treat (NNT) for the prevention disease characteristics of the pooled ENHANCE-1 and of one exacerbation annually is equal to 6.25 patients.
+ENHANCE-2 populations were similar (Table 1) and wereconsistentwitheachindividualtrial.20Atthetimeof
+SubgroupAnalysis initial screening, 22.6% of patients receiving ensifentrine
+Ensifentrine-treated patients demonstrated and 23.7% of those receiving placebo reported a COPD consistent reductions in moderate to severe exacerbation in the preceding 15 months. Most patients exacerbation rate and risk in all clinically important
+(62%) were receiving concomitant bronchodilator subgroups assessed as compared with those treated therapy (LAMA or LABA) and 18% were receiving with placebo (Fig 3, e-Fig 1). Ensifentrine concomitant ICS therapy during the trials.
+significantly reduced the exacerbation rate and risk
+PooledAnalysis consistently in sex subgroups, in those with a
+In the pooled analysis, treatment with ensifentrine current and former history of smoking, in patients
+3 mg bid over 24 weeks was associated with a with or without a history of chronic bronchitis, significant 41% reduction in the moderate to severe those aged 65 years or older, those taking LAMAs exacerbation rate compared with placebo (rate ratio, or ICSs (containing predominately patients taking
+0.59; 95% CI, 0.43-0.80; P < .001). The time to first LABAs and ICSs), and those with moderate COPD.
+moderate or severe exacerbation over 24 weeks also Numerical reductions in exacerbation rate and risk was delayed significantly compared with placebo of similar magnitude favoring ensifentrine were seen
+(P ¼ .001, log-rank test). Furthermore, a Cox in patients aged 64 years and younger, those with proportional hazards model demonstrated a an exacerbation in the previous 15 months, patients
+428 OriginalResearch [ 167#2 CHEST FEBRUARY 2025 ]
+ENHANCE-1 ENHANCE-2
+EudraCT No: 2020-002086-34 EudraCT No: 2020-002069-32
+NCT04535986 NCT04542067
+Patients screened Patients screened
+(N = 1,280) (N = 1,714)
+Patients screened and Patients screened and not randomized (n = 517) not randomized (n = 924)
+Patients randomized Patients randomized
+(n = 763) (n = 790)
+Patients randomized and Patients randomized and not treated (n = 3) not treated (n = 1)
+Included in the mITT analysis Included in the mITT analysis
+(n = 760) (n = 789)
+Ensifentrine group Placebo group Ensifentrine group Placebo group included in the included in the included in the included in the current analysis current analysis current analysis current analysis
+(n = 477) (n = 283) (n = 498) (n = 291)
+Current pooled analysis
+(n = 1,549)
+Total ensifentrine group Total placebo group
+(n = 975) (n = 574)
+Ensifentrine group Placebo group completed 24 weeks – 83.7% completed 24 weeks – 81.9%
+(n = 816) (n = 470)
+Trial withdrawal – 16.3% Trial withdrawal – 18.1%
+(n = 159) (n = 104)
+• Withdrew consent (n = 71) • Withdrew consent (n = 43)
+• Adverse event (n = 30) • Adverse event (n = 10)
+• Positive COVID-19 (n = 17) • Positive COVID-19 (n = 12)
+• Lost to follow-up (n = 10) • Lost to follow-up (n = 13)
+• COPD exacerbation withdrawal • COPD exacerbation withdrawal criteria (n = 9) criteria (n = 10)
+• Other (n = 6) • Other (n = 4)
+• Death (n = 5) • Death (n = 5)
+• Lack of efficacy (n = 5) • Lack of efficacy (n = 6)
+• Investigator discretion (n = 5) • Investigator discretion (n = 1)
+• Sponsor discretion (n = 1) • Sponsor discretion (n = 0)
+Figure1–ConsolidatedStandardsofReportingTrialsflowdiagramshowingpooledanalysisofENHANCE-1andENHANCE-2clinicaltrials.
+ENHANCE¼EnsifentrineasaNovelInhaledNebulizedCOPDTherapy;mITT¼modifiedintention-to-treat.
+with severe COPD, and those taking LABAs or no Discussion background therapy. InthispooledanalysisofbothENHANCEphase3trials, ensifentrine substantially and significantly reduced the
+Ensifentrine-treated patients demonstrated a significant rate and risk of moderate to severe exacerbations over and consistent reduction in the rate and risk of
+24 weeks across a broad population of patients with exacerbations in patients with blood eosinophil counts of $ 100 cells/ m L and < 300 cells/ m L. Numerical COPD.Treatmenteffectsshowingreductionsintherate and risk of exacerbations favoring ensifentrine over reductions were observed in patients with blood eosinophilcountsof<100cells/ m Land$300cells/ m L. placebo were observed in all subgroups assessed.
+Importantly, substantial reductions in exacerbation rate andrisk(measuredbytimetofirstevent)wereobserved
+Exacerbation RiskTransitionAnalysis regardlessofage,sex,smokingstatus,historyofchronic
+Treatment with ensifentrine numerically delayed the bronchitis, receipt of background medication, receiving transition from lower to higher exacerbation risk LAMA treatment, receiving ICS therapy, among
+(from group B to E) compared with patients who were moderateCOPD,andbloodeosinophilscountsof$100 treated with placebo (hazard ratio, 0.64; 95% CI, cells/ m L and < 300 cells/ m L. Treatment effects across
+0.41-1.01; P ¼ .058) (Fig 4). subgroups were consistent with the pooled analysis, chestjournal.org 429
+TABLE1] DemographicandClinicalCharacteristics result. Although the treatment effect in patients with oftheENHANCEPooledModified blood eosinophil counts of $ 300 cells/ m L seems
+Intention-to-TreatPopulationa relatively lower than that of other subgroups, it still
+PooledENHANCETrials suggests a treatment effect favoring ensifentrine.
+Ensifentrine PlaceboGroup However, the true effect size cannot be determined
+Characteristic Group(n¼975) (n¼574) because of the small subgroup size in this pooled
+Age,y 65 65 analysis and the large CI. The response in those who
+Sex,male 518(53%) 305(53%) actively smoked is notable because ICS efficacy is
+COPDseverity attenuatedinthispopulation.22-24Itisalsonotablethat
+Mildormoderateb 561(58%) 307(54%) consistent effects on exacerbation rate and risk
+Severeorvery 414(43%) 267(47%) reduction are observed regardless of whether patients severeb haveahistoryofchronicbronchitis.Thiscontrastswith
+FEV 1 ,%predicted 51.8(10.6) 51.0(10.6) the oral phosphodiesterase 4 inhibitor roflumilast,
+Chronicbronchitisc 707(73%) 405(71%) which has an indication limited only to patients with
+Currentsmoking 544(55%) 323(56%) chronic bronchitis because of lack of efficacy in history subgroups without chronic bronchitis.11 Reductions in
+Background 606(62%) 352(61%) exacerbation rate and risk also were seen in patients medication(s) receiving standard-of-care background maintenance
+LAMA 324(33%) 171(30%) medication classes, indicating that ensifentrine is
+LABA 282(29%) 181(32%) showing a complementary effect to LAMAs, LABAs,
+LABAplusICS 159(16%) 113(20%) and ICSs. Further, this analysis pooled exacerbation
+Exacerbationsin15 220(23%) 136(24%) mobefore datafromENHANCE-1andENHANCE-2trialsovera screening 24-week treatment period. Exacerbation data over
+Baselineassessment 48weeks previously were reported and wereconsistent scores with those over 24 weeks showing a reduction in
+E-RStotal 13.7(6.7) 13.3(6.1) exacerbation rate and risk of 44% and 52%,
+SGRQtotal 49.4(17.9) 49.1(16.9) respectively.20
+BDI 5.9(1.2) 5.9(1.2)
+Although the trial population was not enriched for
+Data are presented as No. (%), mean, or mean (SD). BDI ¼ Baseline patients with a recent exacerbation history, treatment
+Dyspnea Index; ENHANCE ¼ Ensifentrine as a Novel Inhaled Nebulized
+COPDTherapy;E-RS¼EvaluatingRespiratorySymptomsinCOPD;ICS¼ with ensifentrine resulted in substantial reductions in inhaled corticosteroid; LABA ¼ long-acting b 2 -agonist; LAMA ¼ long- exacerbation rate and increased time to first acting muscarinic antagonist; mITT ¼ modified intention-to-treat;
+SGRQ¼St.George’sRespiratoryQuestionnaire. exacerbation.7,8 The pooled exacerbation rates observed aDefinedasrandomizedpatientswhoreceived$1doseofstudymedi- in the modified intention-to-treat population (patients cation(ie,ensifentrineorplacebo).
+treated with ensifentrine, 27%; patients receiving bMild,FEV $80%predictedafterbronchodilatoradministration;mod- erate,50%#baselineFEV <80%predicted;severe,30%#baseline placebo, 45%) are within the reported range of
+FEV 1 <50%predicted;verysevere,baselineFEV 1 <30%predicted.Two exacerbationratesinabroadpopulationofpatientswith patientswithmildCOPDandfourpatientswithverysevereCOPDwere moderate to severe COPD reported before the COVID- randomizedinerrorandwereallowedtocontinueinthetrial.
+cDefinedas regular production ofsputum for $3moin 2consecutive 19 pandemic (22%-39%).25 Furthermore, the NNT to yearsintheabsenceofotherconditionsthatmayexplainit. prevent one patient exacerbation was demonstrated to be 6.25 patients with COPD annually. This NNT is except for the large effect size observed in patients with consistent in magnitude to other approved COPD moderate COPD (66% reduction) and the relatively therapies; however, those studies produced an NNT for smaller effects observed in patients with severe COPD a subgroup of patients with frequent exacerbations and and patients with blood eosinophil counts of $ 300 are not reflective of the all symptomatic patients with m cells/ L (14% and 21% reduction in risk, respectively). COPD regardless of prior exacerbation history, as was
+Of note, a higher proportion of patients who received the case in the ENHANCE trials.26 The clinical placebo who had severe COPD discontinued treatment meaningfulnessofthesedataissupportedfurtherbythe
+(32.2%)thanpatientstreatedwith ensifentrinewhohad reduction in risk of transitioning to a frequently severe COPD (25.6%), possibly impacting exacerbation exacerbating patient, GOLD group E, because it is rates in the placebo group and impacting this subgroup known that these patients have worse daily symptoms
+430 OriginalResearch [ 167#2 CHEST FEBRUARY 2025 ]
+Time in study, d
+No., at riska tneve tuohtiw stneitap fo noitcarF
+0.70 HR: 0.59
+95% CI: 0.44-0.81
+0.65 P < .001
+0 25 50 75 100 125 150 175
+975 952 914 867 832 816 792 714
+574 550 520 492 466 450 429 392
+Ensifentrine Placebo
+Figure2–Kaplan-MeierplotshowingtimetofirstmoderatetosevereCOPDexacerbationover24weeks.aReportednumberatriskcorrespondstothe lastexacerbationthatoccurredduringtheintervalreported.HR¼hazardratio.
+Ensifentrine Placebo
+Events/No (%) Events/No (%) HR (95% CI) P Value
+Primary analysis mITT 84/975 (8.6) 81/574 (14.1) 0.59 (0.44-0.81) .001
+≤ 64 38/443 (8.6) 35/257 (13.6) 0.58 (0.37-0.93) .022
+≥ 65 46/532 (8.6) 46/317 (14.5) 0.58 (0.38-0.87) .009
+Male 43/518 (8.3) 39/305 (12.8) 0.62 (0.40-0.96) .033
+Female 41/457 (9.0) 42/269 (15.6) 0.55 (0.36-0.85) .007
+Smoking status
+Former 41/431 (9.5) 38/251 (15.1) 0.60 (0.39-0.94) .024
+Current 43/544 (7.9) 43/323 (13.3) 0.57 (0.37-0.87) .009
+Background medication
+On background 52/606 (8.6) 54/352 (15.3) 0.54 (0.37-0.78) .001
+LABA 27/282 (9.6) 29/181 (16.0) 0.57 (0.34-0.97) .036
+LAMA 25/324 (7.7) 25/171 (14.6) 0.51 (0.29-0.88) .016
+No background 32/369 (8.7) 27/222 (12.2) 0.68 (0.41-1.14) .141
+ICS use
+Nonuser 70/811 (8.6) 61/456 (13.4) 0.63 (0.44-0.88) .008
+User 14/164 (8.5) 20/118 (16.9) 0.46 (0.23-0.91) .026
+History of chronic bronchitisa
+With 60/707 (8.5) 51/405 (12.6) 0.65 (0.45-0.94) .023
+Without 24/268 (9.0) 30/169 (17.8) 0.48 (0.28-0.82) .008
+Baseline eosinophils
+< 100 cell/(cid:2)L 10/182 (5.5) 11/107 (10.3) 0.52 (0.22-1.24) .141
+≥ 100 cells/(cid:2)L 74/791 (9.4) 70/467 (15.0) 0.60 (0.43-0.83) .002
+< 300 cells/(cid:2)L 60/745 (8.1) 62/434 (14.3) 0.53 (0.37-0.76) .001
+≥ 300 cells/(cid:2)L 24/228 (10.5) 19/140 (13.6) 0.79 (0.43-1.45) .453
+Previous exacerbation (≤ 15 mo)
+Yes 29/220 (13.2) 26/136 (19.1) 0.69 (0.40-1.17) .165
+No 55/755 (7.3) 55/438 (12.6) 0.56 (0.38-0.81) .002
+COPD severity
+Moderate 26/559 (4.7) 40/307 (13.0) 0.34 (0.21-0.56) < .001
+Severe 56/410 (13.7) 41/267 (15.4) 0.86 (0.58-1.29) .475
+0.25 0.5 0.75 1 1.5
+Ensifentrine better Placebo better
+Figure3–ForestplotshowingHRsoftimetofirstmoderatetosevereexacerbationbymodelcovariateover24weeks.aChronicbronchitiswasdefined asregularproductionofsputumfor$3monthsin2consecutiveyearsintheabsenceofotherconditionsthatmayexplainit.1Modelsforsubgroup analysesadjustedfortrial,backgroundmedicationstrata,andsmokingstatus,exceptforsubgroupsbasedonbackgroundmedication,ICSuse,or eosinophilcountof<100cells/ m Lthatusedonlytrialandsmokingstatus.HR¼hazardratio;ICS¼inhaledcorticosteroid;LABA¼long-acting b 2- agonist;LAMA¼long-actingmuscarinicantagonist;mITT¼modifiedintention-to-treat.
+chestjournal.org 431
+Time in study, d
+No., at riska and quality of life and higher future exacerbation risk ICS in patients with low eosinophil counts.1 and mortality risk than those with infrequent Additionally,ICSuseiswellknowntobeassociatedwith exacerbations (ie, patients with GOLD group B increased pneumonia risk in patients with COPD, disease).27 It is imperative to reduce exacerbation including increased rates of hospitalized pneumonia.9,10 burdenearlyintheCOPDdiseasecoursebeforepatients A meta-analysis of studies with ICS-containing experience frequent exacerbations. The rate of lung combination therapies in patients with COPD further functiondeclineishighestinpatientswithGOLDgrade showed that the risk of pneumonia was higher in those
+1 and 2 disease; thus, these events even in those with with lower blood eosinophil counts (< 2% vs $ 2%; mild to moderate COPD have significant clinical hazard ratio, 1.31; 95% CI, 1.06-1.62), further consequences for patients with this chronic, progressive highlighting the lack of a benefit to risk ratio for ICS condition. Although the ENHANCE program did not treatment in patients with low eosinophil counts enroll patients with GOLD grade 1 disease, it is still experiencingexacerbations.29DespiteICStherapybeing important to reduce exacerbation burden early in the limited to a subset of patients with higher eosinophil disease course, before patients progress to a frequent counts and its clear association with a higher risk of exacerbator status (ie, GOLD group E). Given the pneumonia, ICS therapy is used widely in COPD for totality of data, including a large magnitude of effect patients outside of recommendations.30,31 In the pooled
+(66% reduction in risk of a moderate or severe
+ENHANCE data, ensifentrine demonstrated consistent exacerbation) in patients GOLD grade 2 (moderate) efficacy in patients with blood eosinophil counts of $
+COPD, ensifentrine may have a substantial impact on 100 cells/ m L and < 300 cells/ m L, as well as a similar health care systems.28 magnitude of effect in patients with eosinophil counts
+The GOLD 2024 report highlights concerns about the of < 100 cells/ m L, although this did not reach statistical risk to benefit profile of ICS-containing therapies, significance because of the small subgroup size. These including triple therapy, for patients without elevated results indicate that ensifentrine may be considered a eosinophils.1 GOLD recommends the addition of ICS meaningful treatment option in patients with blood only to the subset of exacerbation-prone patients with eosinophil counts of < 300 cells/ m L, providing a much- elevated blood eosinophils ($ 300 cells/ m L or $ 100 needed alternative to ICS therapy, an option for de- m cells/ L if continued exacerbations despite LAMA plus escalation,orasanadditiontoICStherapyinmaximally
+LABA therapy), citing low evidence for the benefits of treated patients.
+tuohtiw stneitap fo noitcarF tneve
+B puorg
+0 25 50 75 100 125 150 175
+975 958 926 887 857 845 825
+574 560 540 515 497 487 470
+Ensifentrine Placebo
+Figure4–Kaplan-MeierplotshowingtimetofirstGlobalInitiativeforChronicObstructiveLungDiseasegroupBtoEtransitionover24weeks.
+aReportednumberatriskcorrespondstothelastexacerbationthatoccurredduringtheintervalreported.
+432 OriginalResearch [ 167#2 CHEST FEBRUARY 2025 ]
+Despite the availability of current medications, mechanism by which ensifentrine is working patients with COPD still experience symptoms and compared with existing classes of therapy. A key impairment of daily living activities. One limitation goal of treatment is to reduce exacerbation burden of this analysis is that the ENHANCE-1 and in patients with COPD.36 These data support
+ENHANCE-2 trials excluded patients who were ensifentrine as a potential treatment option for most receiving concurrent dual LAMA and LABA patients with COPD who require additional or treatment or triple therapy; thus, ensifentrine was alternative treatment options. This analysis further not studied in all possible combinations of demonstrated ensifentrine as a novel nonsteroidal medications in current use to treat COPD. Most antiinflammatory treatment option for a broad patients in the United States continue to receive population of patients with COPD and would be a therapy consisting of a single bronchodilator for valuable and complementary addition to the limited
+COPD maintenance,32,33 despite recent GOLD and available treatment methods.
+American Thoracic Society clinical practice guideline recommendations.1,34 Based on these prescribing Funding/Support patterns, the populations of the ENHANCE-1 and
+Medical writing support was provided by by Ian
+ENHANCE-2 trials were selected to reflect a broad
+Rochford, PhD; Austin Horton, PhD; and Sara N.
+range of patients with moderate to severe COPD
+Fischer, PhD, CMPP, from Citrus Scientific, a Citrus who were receiving commonly used maintenance
+Health Group, Inc., company, in accordance with Good therapy. Furthermore, at the time of recruitment,
+Publication Practice (GPP 2022) guidelines and funded
+LAMA or LABA treatment was consistent with the by Verona Pharma plc.
+GOLD guidelines for group B, although this was updated to LAMA plus LABA treatment in fi subsequent recommendations.1,35 Another limitation Financial/Non nancial Disclosures to note is that the subgroup analyses were post hoc TheauthorshavereportedtoCHESTthefollowing:F.
+analyses not powered for assessment of exacerbation C. S. has received grant or contract support from rate and risk, and these results should be interpreted Agency for Healthcare Research and Quality, with caution. The pooled analysis described herein AstraZeneca, the COPD Foundation, Gala was conducted to explore the effect of ensifentrine Therapeutics, Nuvaira, Pulmonx, Sanofi/Regeneron, on exacerbation rate and risk with its novel and Verona Pharma; and consulting fees from mechanism of action as monotherapy and when AstraZeneca,BoehringerIngelheim,GlaxoSmithKline, added to these existing classes. Additional data and Sanofi/Regeneron. S. A. C. has participated in regarding exacerbation rate and risk with advisory boards and/or received consulting fees from ensifentrine in combination with dual or triple AstraZeneca, Amgen, Apogee Therapeutics, Axon bronchodilator maintenance therapy will inform Advisors, DevPro Pharma, Genentech, Kymera, treatment decision-making further. Regeneron, Sanofi, and Verona Pharma; has received nonbranded speaking and/or writing honoraria from
+Interpretation AstraZeneca, Daedalus Enterprises, GSK, Horizon
+In a pooled analysis of the ENHANCE phase 3 CME, MJH Holdings, Regeneron, Sanofi, UpToDate, clinical trials, ensifentrine treatment was shown to and WebMD; and has received travel fees from Sanofi significantly reduce the rate of moderate and severe and Regeneron. T. R. is an employee of Verona exacerbations and increase the time until the first Pharmaplcandmayholdstockorstockoptions.T.B.
+exacerbation in patients with moderate to severe is a paid statistical consultant for Verona Pharma. K.
+COPD. Consistent effects were shown across R.isanemployeeofVeronaPharmaplcandmayhold clinically important subgroups: patients who stock or stock options. I. Z. B. has received grant or currently smoke and formerly smoked, patients with contract support from Aerogen, Takeda, Theravance, or without chronic bronchitis, and patients taking and Viatris and consulting fees and paid honoraria
+LAMA or LABA maintenance therapy (with and fromAstraZeneca,Grifols,Inhibrx,Sanofi/Regeneron, without ICSs), demonstrating the complementary Takeda, and Verona Pharma.
+chestjournal.org 433
+Acknowledgments 8. LipsonDA,BarnhartF,BrealeyN,etal. dualphosphodiesterase3and
+Once-dailysingle-inhalertripleversus phosphodiesterase4inhibitor,in
+Authorcontributions:Allauthorsmade dualtherapyinpatientswithCOPD. healthyvolunteersandinpatientswith substantialcontributionstotheconceptionor NEnglJMed.2018;378(18):1671-1680. asthmaorchronicobstructive designoftheworkortheacquisition, pulmonarydisease:findingsfromfour
+9. KewKM,SeniukovichA.Inhaledsteroids analysis,orinterpretationofdataforthe clinicaltrials.LancetRespirMed.
+andriskofpneumoniaforchronic work;draftedtheworkorreviseditcritically 2013;1(9):714-727.
+forimportantintellectualcontent;gavefinal obstructivepulmonarydisease.Cochrane
+DatabaseSystRev.2014;2014(3): 20. AnzuetoA,BarjaktarevicIZ,SilerTM, approvaloftheversiontobepublished;and Cd010115. etal.Ensifentrine,anovel agreetobeaccountableforallaspectsofthe phosphodiesterase3and4inhibitorfor workinensuringthatquestionsrelatedtothe 10. TashkinDP,MiravitllesM,CelliBR, thetreatmentofchronicobstructive etal.Concomitantinhaledcorticosteroid accuracyorintegrityofanypartofthework pulmonarydisease:randomized,double- useandtheriskofpneumoniainCOPD: areinvestigatedappropriatelyandresolved. blind,placebo-controlled,multicenter amatched-subgroupposthocanalysisof
+Roleofsponsors:Theauthors,including theUPLIFT(cid:3)trial.RespirRes. phaseIIItrials(theENHANCETrials).
+AmJRespirCritCareMed.2023;208(4): thoseemployedbyVeronaPharma, 2018;19(1):196.
+406-416.
+participatedinstudydesign,datacollection, 11. AstraZeneca.Daliresp(roflumilast) dataanalysis,datainterpretation,and/or packageinsert,2020,AstraZeneca. 21. RothnieKJ,MüllerováH,SmeethL,
+QuintJK.Naturalhistoryofchronic manuscriptdevelopment.AlthoughVerona AccessedOctober20,2024.https://den8 obstructivepulmonarydisease
+Pharmawasinvolvedinthereviewofthe dhaj6zs0e.cloudfront.net/50fd68b9-106 exacerbationsinageneralpractice- manuscript,thecontentofthemanuscript, b-4550-b5d0-12b045f8b184/704932ce-e1 basedpopulationwithchronic theultimateinterpretation,andthedecision 04-4c6f-840a-575170971344/704932ce-e1 obstructivepulmonarydisease.AmJ tosubmititforpublicationinCHESTwere 04-4c6f-840a-575170971344_viewable_
+RespirCritCareMed.2018;198(4): madebytheauthorsindependently. rendition__v.pdf 464-471.
+Additionalinformation:Thee-Figureand 12. AlbertRK,ConnettJ,BaileyWC,etal. 22. DuffySP,CrinerGJ.Chronicobstructive
+Azithromycinforpreventionof e-Tableareavailableonlineunder pulmonarydisease:evaluationand
+“SupplementaryData.” exacerbationsofCOPD.NEnglJMed. management.MedClinNorthAm.
+2011;365(8):689-698.
+2019;103(3):453-461.
+13. ZuoH,Cattani-CavalieriI,MushesheN, 23. AuDH,BrysonCL,ChienJW,etal.The
