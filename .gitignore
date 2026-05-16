@@ -1,19 +1,52 @@
-# 忽略个人本地配置
+# 个人本地配置
 config.py
 
-# 忽略数据和输出（大文件，不上传）
+# Python虚拟环境和缓存
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE配置
+.idea/
+.vscode/
+
+# ==================== 大文件和原始数据（不上传） ====================
+
+# 原始PDF文献（50+篇，几百MB）
+原始文献数据/
+
+# 大压缩包
+2_CMeKG原始数据.zip
+汇报附件.zip
+*.tar.gz
+
+# 图片和文档（大文件）
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.doc
+*.docx
+
+# 清洗后的原始文本（50个大txt文件）
+抽取结果/cleaned_texts/
+抽取结果_v2/cleaned_texts/
+
+# 种子词典构建中间JSON（大文件）
+种子词典构建结果/*.json
+
+# 抽取中间结果JSON
+抽取结果/step1_cleaned_papers.json
+抽取结果_v2/step1_cleaned_papers.json
+
+# 数据/输出目录
 data/
 output/
 result/
-*.pdf
-*.csv
-*.xlsx
-*.png
-*.jpg
 
-# PyCharm 和 Python 缓存
-.idea/
-__pycache__/
-*.pyc
-.venv/
-venv/
+# ==================== 临时文件（不上传） ====================
+_temp*
+*.tmp
+*~
