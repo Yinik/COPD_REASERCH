@@ -1,52 +1,42 @@
-# 个人本地配置
-config.py
-
-# Python虚拟环境和缓存
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
 .venv/
 venv/
-__pycache__/
-*.pyc
-*.pyo
+ENV/
 
-# IDE配置
+# IDE
 .idea/
 .vscode/
+*.iml
 
-# ==================== 大文件和原始数据（不上传） ====================
+# OS
+.DS_Store
+Thumbs.db
 
-# 原始PDF文献（50+篇，几百MB）
+# Project temp files
+_*.py
+_*.txt
+tmp_*
+*.tmp
+requirements_full.txt
+seed_dict_wordlist.txt
+
+# Data outputs (large files)
+抽取结果/
+抽取结果_v2/
+data/清洗后的文本数据/
 原始文献数据/
 
-# 大压缩包
-2_CMeKG原始数据.zip
-汇报附件.zip
-*.tar.gz
+# Reports (generated)
+汇报附件/
+种子词典构建结果/
 
-# 图片和文档（大文件）
-*.png
-*.jpg
-*.jpeg
-*.xlsx
-*.doc
-*.docx
-
-# 清洗后的原始文本（50个大txt文件）
-抽取结果/cleaned_texts/
-抽取结果_v2/cleaned_texts/
-
-# 种子词典构建中间JSON（大文件）
-种子词典构建结果/*.json
-
-# 抽取中间结果JSON
-抽取结果/step1_cleaned_papers.json
-抽取结果_v2/step1_cleaned_papers.json
-
-# 数据/输出目录
-data/
-output/
-result/
-
-# ==================== 临时文件（不上传） ====================
-_temp*
-*.tmp
-*~
+# Keep core outputs
+!关系抽取结果/方向规范化_疾病统一在头.tsv
+!关系抽取结果/import/*.csv
+!关系抽取结果/Neo4j导入/*.csv
+!关系抽取结果/Neo4j导入/*.cypher
+!关系抽取结果/Neo4j导入/*.md

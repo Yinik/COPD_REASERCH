@@ -130,6 +130,30 @@
 
 ---
 
+## 四、可视化展示
+
+### 4.1 知识图谱概览
+
+![COPD中心辐射图](assets/kg_copd_core.png)
+
+*COPD中心辐射图：以慢性阻塞性肺疾病为中心，2跳内可达的实体网络*
+
+### 4.2 实体与关系统计
+
+| 实体类型分布 | 关系类型分布 |
+|-------------|-------------|
+| ![实体饼图](assets/entity_pie.png) | ![关系统计](assets/relation_stats.png) |
+
+### 4.3 子图示例
+
+| 药物子图 | 症状子图 |
+|---------|---------|
+| ![药物子图](assets/kg_drug.png) | ![症状子图](assets/kg_symptom.png) |
+
+> **说明**: 以上图片由 `generate_kg_viz.py` 自动生成，无需启动Neo4j即可查看图谱效果。
+
+---
+
 ## 五、核心功能模块
 
 ### 5.1 文献清洗与预处理
@@ -336,6 +360,9 @@ python verify_project.py
 |------|---------|
 | 了解项目全貌 | [README.md](README.md) |
 | 中期汇报文档 | [MIDTERM_REPORT.md](MIDTERM_REPORT.md) |
+| 系统测试报告 | [TEST_REPORT.md](TEST_REPORT.md) |
+| 核心代码说明 | [CODE_GUIDE.md](CODE_GUIDE.md) |
+| 一键运行演示 | [run_demo.bat](run_demo.bat) / `python verify_project.py` |
 | Neo4j导入教程 | [关系抽取结果/Neo4j导入教程.md](关系抽取结果/Neo4j导入教程.md) |
 | 最终三元组数据 | [关系抽取结果/方向规范化_疾病统一在头.tsv](关系抽取结果/方向规范化_疾病统一在头.tsv) |
 | 端到端演示 | [COPD图谱端到端抽取系统.py](COPD图谱端到端抽取系统.py) |
