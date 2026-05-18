@@ -3,7 +3,7 @@
 """
 COPD医学知识图谱 - 端到端抽取演示系统
 
-功能：输入一段COPD临床文本 → 自动识别实体 → 抽取关系 → 增量更新Neo4j图谱
+功能：输入一段COPD临床文本 -> 自动识别实体 -> 抽取关系 -> 增量更新Neo4j图谱
 
 使用方式：
     1. 确保Neo4j数据库已启动且已有基础图谱数据
@@ -27,11 +27,11 @@ from collections import defaultdict
 # Neo4j连接配置（根据你的实际设置修改）
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "password123"  # 修改为你设置的密码
+NEO4J_PASSWORD = "19950824"  # Neo4j数据库密码
 
 # 资源文件路径
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
-NODES_CSV = os.path.join(PROJECT_DIR, '关系抽取结果', 'Neo4j导入', 'nodes.csv')
+NODES_CSV = os.path.join(PROJECT_DIR, '关系抽取结果', 'import', 'nodes.csv')
 TRIPLES_TSV = os.path.join(PROJECT_DIR, '关系抽取结果', '方向规范化_疾病统一在头.tsv')
 
 # ==================== 全局知识库 ====================
@@ -416,12 +416,12 @@ class Neo4jUpdater:
             self.connected = True
             print(f"[Neo4j] 连接成功: {self.uri}")
         except ImportError:
-            print("[错误] 未安装py2neo，请运行: pip install py2neo")
+            print("[提示] 未安装py2neo，请运行: pip install py2neo")
         except Exception as e:
-            print(f"[错误] Neo4j连接失败: {e}")
-            print(f"[提示] 请检查: 1) Neo4j是否已启动 2) 密码是否正确")
-            print(f"[提示] 当前配置: URI={self.uri}, USER={self.user}")
-    
+            print(f"[提示] 未检测到Neo4j: {e}")
+            print("[提示] 无Neo4j也能运行实体识别和关系抽取，仅跳过图谱可视化")
+            print("[提示] 如需图谱展示，请启动Neo4j并修改密码配置")
+
     def update(self, triples: list):
         """增量更新三元组到Neo4j"""
         if not self.connected or not self.graph:
@@ -505,10 +505,10 @@ class COPDKGPipeline:
         entities = self.recognizer.recognize(text)
         
         if not entities:
-            print("  ⚠ 未识别到任何已知实体")
+            print("  [WARN] 未识别到任何已知实体")
             return {'entities': [], 'triples': [], 'is_new': False}
         
-        print(f"  ✓ 识别到 {len(entities)} 个实体:")
+        print(f"  [OK] 识别到 {len(entities)} 个实体:")
         for ent in entities:
             print(f"    - {ent[2]} ({ent[3]})")
         
@@ -517,7 +517,7 @@ class COPDKGPipeline:
         triples = self.extractor.extract(text, entities)
         
         if not triples:
-            print("  ⚠ 未抽取到任何关系")
+            print("  [WARN] 未抽取到任何关系")
             return {'entities': entities, 'triples': [], 'is_new': False}
         
         # 区分已有三元组和新三元组
@@ -530,13 +530,13 @@ class COPDKGPipeline:
             else:
                 new_triples.append(t)
         
-        print(f"  ✓ 共抽取 {len(triples)} 个关系:")
+        print(f"  [OK] 共抽取 {len(triples)} 个关系:")
         if existing_triples:
             print(f"    - {len(existing_triples)} 个已存在于知识库（灰色）")
         if new_triples:
             print(f"    - {len(new_triples)} 个新关系（绿色，将入库）:")
             for t in new_triples[:5]:  # 只显示前5个
-                print(f"      → {t['head']} --[{t['relation']}]--> {t['tail']}")
+                print(f"      -> {t['head']} --[{t['relation']}]--> {t['tail']}")
             if len(new_triples) > 5:
                 print(f"      ... 还有 {len(new_triples) - 5} 个")
         
@@ -544,7 +544,7 @@ class COPDKGPipeline:
         if update_neo4j and new_triples and self.updater.connected:
             print("\n[Step 3] 增量更新到Neo4j...")
             inserted = self.updater.update(new_triples)
-            print(f"  ✓ 成功插入 {inserted} 条新关系到Neo4j")
+            print(f"  [OK] 成功插入 {inserted} 条新关系到Neo4j")
             
             # 显示更新后统计
             stats = self.updater.get_stats()
