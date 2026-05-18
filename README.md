@@ -131,7 +131,9 @@ v4采用最大覆盖策略，召回率达到981条，但73.2%为"相关"等模�
 | 图谱连通性 | COPD可达率 | 91.3%（115/126实体可从COPD出发2跳内到达） |
 | 系统性能 | 文本处理速度/内存占用 | 约2000万字符/秒，峰值内存0.71MB |
 
-### 抽样准确率评估（Precision）
+### 核心评价指标（Precision / Recall / F1）
+
+#### Precision（精确率）
 
 从675条三元组中随机抽取100条（seed=42），基于COPD医学知识库进行自动预审，
 经四轮规则修正和人工复核后，最终判定结果如下：
@@ -143,7 +145,24 @@ v4采用最大覆盖策略，召回率达到981条，但73.2%为"相关"等模�
 | **Precision** | **76.00%** | — |
 
 **评估方法说明**：100条样本在95%置信水平下，推断总体Precision的误差范围约±10%。
-对于基于规则的抽取系统，这个精度处于合理水平。
+
+#### Recall（召回率）
+
+由于缺乏完整的人工标注ground truth，Recall采用**GOLD 2024核心推荐三元组覆盖率**
+作为proxy指标。将GOLD 2024的52条核心临床推荐转化为52个标准三元组，
+统计实际抽取的675条中覆盖了多少个，同时考虑方向规范化后的实际方向进行匹配。
+
+| 指标 | 数值 | 计算方法 |
+|------|------|----------|
+| **Recall** | **78.85%** | GOLD 2024三元组覆盖率（41/52） |
+
+#### F1值
+
+| 指标 | 数值 |
+|------|------|
+| **F1** | **77.40%** |
+
+F1 = 2 × Precision × Recall / (Precision + Recall) = 2 × 76.00% × 78.85% / 154.85% = 77.40%
 
 **24条错误的主要类型**：
 - 实体类型错配（7条，29.2%）：如"线胸片"被标为Medication
@@ -151,11 +170,12 @@ v4采用最大覆盖策略，召回率达到981条，但73.2%为"相关"等模�
 - 医学事实错误（4条，16.7%）：如"肺炎→LABA"（LABA不治肺炎）
 - 方向/因果关系问题（4条，16.7%）
 
-详细错误分析和改进建议见 `ERROR_ANALYSIS.md`，评估过程审计链见各轮 `batch_fix_*_report.txt`。
+详细错误分析、改进建议和完整评估报告见 `ERROR_ANALYSIS.md` 和 `PRECISION_RECALL_F1_REPORT.md`，
+评估过程审计链见各轮 `batch_fix_*_report.txt`。
 
 ![Precision评估](assets/precision_evaluation.png)
 
-详细评价报告见 `GOLD_COVERAGE_REPORT.md`、`EVALUATION_REPORT.md` 和 `ERROR_ANALYSIS.md`。
+详细评价报告见 `GOLD_COVERAGE_REPORT.md`、`EVALUATION_REPORT.md`、`ERROR_ANALYSIS.md` 和 `PRECISION_RECALL_F1_REPORT.md`。
 
 ---
 
