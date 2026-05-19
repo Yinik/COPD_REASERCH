@@ -249,7 +249,7 @@ F1 = 2 × Precision × Recall / (Precision + Recall) = 2 × 76.00% × 78.85% / 1
 ```
 .
 ├── README.md                          # 本文件（项目总览）
-├── MIDTERM_REPORT.md                  # 中期汇报全文
+├── 中期汇报.docx                      # 中期汇报全文
 ├── TEST_REPORT.md                     # 系统测试报告
 ├── CODE_GUIDE.md                      # 核心代码说明
 ├── GOLD_COVERAGE_REPORT.md            # GOLD 2024指南覆盖率报告
@@ -347,7 +347,7 @@ Windows用户可以直接双击 `run_demo.bat`，会自动运行验证+生成图
 | 想看什么 | 点这里 |
 |---------|--------|
 | 项目全貌 | [README.md](README.md) |
-| 中期汇报 | [MIDTERM_REPORT.md](MIDTERM_REPORT.md) |
+| 中期汇报 | [中期汇报.docx](中期汇报.docx) |
 | 测试报告 | [TEST_REPORT.md](TEST_REPORT.md) |
 | 代码说明 | [CODE_GUIDE.md](CODE_GUIDE.md) |
 | GOLD覆盖率 | [GOLD_COVERAGE_REPORT.md](GOLD_COVERAGE_REPORT.md) |
