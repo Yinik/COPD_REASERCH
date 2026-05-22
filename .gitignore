@@ -28,11 +28,38 @@ seed_dict_wordlist.txt
 抽取结果/
 抽取结果_v2/
 data/清洗后的文本数据/
+data/清洗结果/
 原始文献数据/
 
 # Reports (generated)
 汇报附件/
+汇报附件.zip
 种子词典构建结果/
+
+# BERT model weights (too large)
+bert_relation_output/
+
+# Office temp files
+*.xlsx
+~$*.xlsx
+*.xls
+
+# Archives & binaries
+*.zip
+*.pdf
+
+# Session artifacts
+session_种子词典*
+
+# Batch fix & suspect reports
+batch_fix_*.txt
+*_suspect.txt
+*_stats.txt
+report_*.txt
+auto_judge_*.txt
+fixed*_stats.txt
+gold_coverage_detail.csv
+gold_coverage_summary.csv
 
 # Keep core outputs
 !关系抽取结果/方向规范化_疾病统一在头.tsv
@@ -40,3 +67,5 @@ data/清洗后的文本数据/
 !关系抽取结果/Neo4j导入/*.csv
 !关系抽取结果/Neo4j导入/*.cypher
 !关系抽取结果/Neo4j导入/*.md
+!关系抽取结果/Neo4j导入_v2/*.csv
+!关系抽取结果/Neo4j导入_v2/*.cypher
