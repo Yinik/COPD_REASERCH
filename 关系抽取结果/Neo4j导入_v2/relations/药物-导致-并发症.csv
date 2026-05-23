@@ -1,0 +1,8 @@
+head,tail,source,doc
+ACEI,慢性咳嗽,,
+支气管舒张剂,咳痰,,
+支气管舒张剂,高碳酸血症,cooccurrence,38_【主要参考】慢性阻塞性肺疾病急性加重诊治中国专家共识(2023年修订版)-已解锁_cleaned.txt
+激动剂,心绞痛,cooccurrence,21_慢性阻塞性肺疾病诊治指南（2021年修订版）-主要参考_cleaned.txt
+糖皮质激素,高碳酸血症,cooccurrence,21_慢性阻塞性肺疾病诊治指南（2021年修订版）-主要参考_cleaned.txt
+罗氟司特,抑郁症,cooccurrence,21_慢性阻塞性肺疾病诊治指南（2021年修订版）-主要参考_cleaned.txt
+茶碱类药物,抑郁症,cooccurrence,68_2022_慢性阻塞性肺疾病免疫调节治疗专家共识_cleaned.txt

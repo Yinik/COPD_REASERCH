@@ -48,6 +48,14 @@ bert_relation_output/
 *.zip
 *.pdf
 
+# Generated outputs
+output/
+output_v3/
+*.png
+*.tsv
+*.docx
+~$*.docx
+
 # Session artifacts
 session_种子词典*
 

@@ -21,3 +21,8 @@ BERT_OUTPUT_DIR = BASE_DIR / "bert_relation_output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 RESULT_DIR.mkdir(exist_ok=True)
 BERT_OUTPUT_DIR.mkdir(exist_ok=True)
+
+# ========== Neo4j 配置 ==========
+NEO4J_URI = "bolt://localhost:7687"
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "19950824"

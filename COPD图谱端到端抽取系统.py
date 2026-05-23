@@ -26,9 +26,10 @@ from collections import defaultdict
 # ==================== 配置区域 ====================
 
 # Neo4j连接配置（根据你的实际设置修改）
-NEO4J_URI = "bolt://localhost:7687"
-NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "19950824"  # Neo4j数据库密码
+import config
+NEO4J_URI = config.NEO4J_URI
+NEO4J_USER = config.NEO4J_USER
+NEO4J_PASSWORD = config.NEO4J_PASSWORD
 
 # 资源文件路径
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
