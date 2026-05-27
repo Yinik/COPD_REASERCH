@@ -117,6 +117,21 @@
 
 ## 实验设计与评价指标
 
+### 实验环境
+
+| 环境项 | 配置 |
+|--------|------|
+| 操作系统 | Windows 11 (Build 26200) |
+| CPU | Intel Core i5-12450H (12th Gen) |
+| 内存 | 16 GB DDR4 |
+| Python | 3.12.7 |
+| 深度学习框架 | PyTorch 2.12.0 (CPU版) |
+| BERT模型 | bert-base-chinese，在CPU上推理 |
+| 图数据库 | Neo4j Community 5.x |
+| 关键依赖 | py2neo、transformers、torch、networkx、pandas、matplotlib |
+
+> 说明：本项目所有实验均在CPU环境下完成，未使用GPU。BERT关系验证模型在CPU上单条推理约200-500ms，58篇文献批量抽取总耗时约15-20分钟。
+
 ### 消融实验
 
 为验证关系抽取方案的有效性，设计了7个递进版本进行消融对比：
@@ -210,12 +225,14 @@ F1 = 2 × Precision × Recall / (Precision + Recall) = 2 × 76.00% × 78.85% / 1
 - [x] 性能测试脚本（`performance_test.py`）
 - [x] 可视化图表生成（`generate_kg_viz.py`，6张PNG）
 - [x] GOLD 2024指南覆盖率分析
-- [x] 项目文档（中期报告、测试报告、代码指南）
+- [x] **单元测试覆盖**（`tests/test_core.py`，19个测试用例全部通过）
+- [x] **BERT消融实验对比**（4种配置消融实验 + 文献基线对比）
+- [x] 项目文档（中期报告、测试报告、代码指南、开发过程文档）
 
 ### 后续计划
 
 - 扩展更多呼吸系统疾病（哮喘、肺癌），构建呼吸专科知识图谱
-- 如果有更多标注数据，尝试深度学习方法优化抽取效果
+- 网络条件允许时，对比MC-BERT/PCL-MedBERT等医学预训练模型
 - 增加评估量表实体类型（mMRC评分、CAT评分、6分钟步行试验）
 
 ### 存在问题
@@ -261,6 +278,7 @@ F1 = 2 × Precision × Recall / (Precision + Recall) = 2 × 76.00% × 78.85% / 1
 ```
 .
 ├── README.md                          # 本文件（项目总览）
+├── DEVELOPMENT.md                     # 开发过程文档（16天完整周期）
 ├── 中期汇报.docx                      # 中期汇报全文
 ├── TEST_REPORT.md                     # 系统测试报告
 ├── CODE_GUIDE.md                      # 核心代码说明
@@ -269,22 +287,24 @@ F1 = 2 × Precision × Recall / (Precision + Recall) = 2 × 76.00% × 78.85% / 1
 ├── requirements.txt                   # Python依赖列表
 │
 ├── config.py                          # 统一配置（路径、Neo4j连接信息）
-├── PDF清洗.py                         # PDF文本提取与清洗
 ├── PDF清洗_v2.py                      # 增强版PDF清洗
-├── COPD图谱端到端抽取系统.py          # 端到端演示系统（v1）
 ├── COPD图谱端到端抽取系统_v2.py       # 端到端演示系统（v2，共现匹配+BERT验证）
 ├── batch_extract.py                   # 58篇文献批量抽取脚本
-├── medical_review.py                  # 医学知识自动审核脚本（v1）
-├── medical_review_v2.py               # 医学审核（宽松标准，v2）
-├── medical_review_v3.py               # 医学审核（严格标准，v3）
-├── organize_neo4j_import.py           # 整理Neo4j导入文件夹
-├── reimport_neo4j_v2.py               # 清空Neo4j后规范化重新导入
+├── 医学知识自动审核_v2.py             # 医学审核（宽松标准，v2）
 ├── verify_project.py                  # 一键数据完整性验证
 ├── performance_test.py                # 性能测试
 ├── generate_kg_viz.py                 # 图谱可视化生成
-├── evaluate_kg.py                     # 评价指标计算脚本
 ├── gold_coverage.py                   # GOLD 2024覆盖率分析
+├── run_tests.py                       # 单元测试运行脚本
 ├── run_demo.bat                       # Windows一键运行脚本
+│
+├── tests/                             # 单元测试目录
+│   ├── __init__.py
+│   └── test_core.py                   # 19个测试用例
+│
+├── p3_train_compare.py                # BERT消融实验训练脚本
+├── p3_visualize.py                    # 消融实验可视化
+├── prepare_rel_cls_data.py            # 关系分类数据集准备
 │
 ├── 关系抽取结果/                       # 核心产出数据
 │   ├── Neo4j导入_v2/                  # 规范化Neo4j导入文件
@@ -322,23 +342,20 @@ git clone https://github.com/Yinik/COPD_REASERCH.git
 cd COPD_REASERCH
 
 # 2. 装依赖
-pip install pdfplumber pandas python-docx py2neo networkx matplotlib transformers torch
+pip install -r requirements_core.txt
 
 # 3. 修改config.py中的Neo4j连接信息（如有需要）
 
 # 4. 一键验证数据完整性
 python verify_project.py
 
-# 5. 批量抽取58篇文献
+# 5. 运行单元测试
+python run_tests.py
+
+# 6. 批量抽取58篇文献
 python batch_extract.py
 
-# 6. 医学审核（生成审核报告）
-python medical_review_v3.py
-
-# 7. 导入Neo4j
-python reimport_neo4j_v2.py
-
-# 8. 生成可视化图片
+# 7. 生成可视化图片
 python generate_kg_viz.py
 ```
 
@@ -360,7 +377,23 @@ Windows用户可以直接双击 `run_demo.bat`，会自动运行验证+生成图
 
 ## 测试情况
 
-项目测试情况记录于 `TEST_REPORT.md`，主要包括：
+### 单元测试（P2新增）
+
+运行 `python run_tests.py`，19个测试用例覆盖核心模块：
+
+| 模块 | 测试数 | 验证内容 |
+|------|--------|---------|
+| 实体识别器 | 5 | 贪婪最长匹配、边界处理、类型标注 |
+| 关系抽取器 | 5 | 模板匹配、共现匹配、类型一致性 |
+| BERT验证器 | 2 | 模型加载、13类标签映射 |
+| Neo4j连接 | 2 | 连接建立、统计查询 |
+| 端到端Pipeline | 5 | 实体抽取、三元组抽取、空文本处理 |
+
+**结果：19/19 全部通过。**
+
+### 系统测试
+
+项目系统测试记录于 `TEST_REPORT.md`，主要包括：
 
 - **功能测试**：抽样检查45条三元组，44条正确，准确率97.8%
 - **性能测试**：846条三元组加载约6ms，文本处理速度约2000万字符/秒，峰值内存0.71MB
@@ -375,6 +408,7 @@ Windows用户可以直接双击 `run_demo.bat`，会自动运行验证+生成图
 | 想看什么 | 点这里 |
 |---------|--------|
 | 项目全貌 | [README.md](README.md) |
+| 开发过程 | [DEVELOPMENT.md](DEVELOPMENT.md) |
 | 中期汇报 | [中期汇报.docx](中期汇报.docx) |
 | 测试报告 | [TEST_REPORT.md](TEST_REPORT.md) |
 | 代码说明 | [CODE_GUIDE.md](CODE_GUIDE.md) |
