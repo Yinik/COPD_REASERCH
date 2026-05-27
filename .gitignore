@@ -19,6 +19,7 @@ Thumbs.db
 # Project temp files
 _*.py
 _*.txt
+!tests/__init__.py
 tmp_*
 *.tmp
 requirements_full.txt
@@ -52,6 +53,7 @@ bert_relation_output/
 output/
 output_v3/
 *.png
+!assets/p3_*.png
 *.tsv
 *.docx
 ~$*.docx
