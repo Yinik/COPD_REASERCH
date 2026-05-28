@@ -1,0 +1,105 @@
+% 使用 XeLaTeX 编译
+\documentclass[11pt,a4paper]{article}
+
+% 页面设置
+\usepackage[margin=2cm]{geometry}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{fontawesome5}
+
+% 中文支持（XeLaTeX）
+\usepackage{ctex}
+
+% 颜色定义
+\definecolor{primary}{RGB}{102,126,234}
+\definecolor{secondary}{RGB}{118,75,162}
+\definecolor{darkgray}{RGB}{64,64,64}
+\definecolor{lightgray}{RGB}{128,128,128}
+
+% 标题格式
+\usepackage{titlesec}
+\titleformat{\section}{\Large\bfseries\color{primary}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{16pt}{8pt}
+
+% 列表设置
+\setlist[itemize]{leftmargin=1.5em,itemsep=2pt,parsep=0pt}
+\setlist[enumerate]{leftmargin=1.5em,itemsep=2pt,parsep=0pt}
+
+% 超链接
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=primary,urlcolor=primary}
+
+\begin{document}
+
+% ========== 项目标题 ==========
+\begin{center}
+{\LARGE\bfseries\color{darkgray} 基于COPD医学文本的实体关系抽取与知识图谱构建}\\[6pt]
+{\color{lightgray}\faIcon{github} \href{https://github.com/Yinik/COPD_REASERCH}{github.com/Yinik/COPD\_REASERCH}}
+\end{center}
+
+\vspace{8pt}
+
+% ========== 项目概述 ==========
+\section{项目概述}
+
+独立负责面向\textbf{慢性阻塞性肺疾病（COPD）}的医学知识图谱构建项目，从58篇核心医学文献（GOLD指南、中国诊治指南、专家共识）中自动化抽取结构化医学知识，构建可查询、可交互的专科知识图谱系统。项目涵盖\textbf{数据处理、实体识别、关系抽取、BERT验证、图谱构建与Web应用}全链路。
+
+\vspace{4pt}
+\noindent\textbf{技术栈：}Python \textbar{} PyTorch \textbar{} BERT \textbar{} Neo4j \textbar{} pandas \textbar{} matplotlib \textbar{} ThreadingHTTPServer
+
+% ========== 研究内容 ==========
+\section{研究内容}
+
+\subsection*{1. 医学文本处理与实体识别}
+\begin{itemize}
+    \item 设计PDF文本清洗流程（版式提取、去噪、断行修复），处理58篇文献共49万字
+    \item 基于PMI（点互信息）+ 左右熵构建种子词典，通过Bootstrapping扩展至\textbf{154个医学实体}
+    \item 实现贪婪最长匹配实体识别器，覆盖疾病、症状、药物、治疗、检查、危险因素、并发症7类实体
+\end{itemize}
+
+\subsection*{2. 关系抽取与BERT验证}
+\begin{itemize}
+    \item 设计\textbf{24个正则模板}覆盖常见医学句式，实现规则模板匹配
+    \item 引入\textbf{共现匹配兜底策略}（10种类型映射，同句距离阈值），解决模板覆盖不足问题
+    \item 基于bert-base-chinese微调\textbf{BERT关系分类模型}（13类关系，验证集F1=0.7473），对候选三元组进行置信度验证（阈值0.3）
+    \item 设计消融实验对比4种配置，验证实体标记策略[E1]/[E2]与类别权重对模型性能的贡献
+\end{itemize}
+
+\subsection*{3. 知识图谱构建与系统开发}
+\begin{itemize}
+    \item 基于Neo4j构建图数据库，实现方向规范化（疾病统一为头实体）与同义词归并
+    \item 开发Web交互系统（ThreadingHTTPServer多线程），支持文本关系抽取、实体关联查询、知识图谱可视化
+    \item 编写自动化验证脚本与\textbf{19个单元测试用例}，覆盖实体识别、关系抽取、BERT验证、Neo4j连接等核心模块
+\end{itemize}
+
+% ========== 项目成果 ==========
+\section{项目成果}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\textwidth}{>{\bfseries}l X}
+\toprule
+指标 & 数值 \\
+\midrule
+图谱规模 & \textbf{154实体} / \textbf{846关系} / \textbf{15类关系类型} \\
+数据质量 & 经BERT验证 + 两轮医学审核，零模糊关系 \\
+评价指标 & Precision = 76.0\%，Recall = 78.85\%，F1 = 77.40\% \\
+指南对齐 & GOLD 2024核心推荐覆盖率90.4\%（47/52） \\
+系统性能 & 实体识别<10ms，关系抽取<50ms，峰值内存0.71MB \\
+代码产出 & 完整Pipeline + 消融实验脚本 + Web交互系统 + 技术文档 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\vspace{4pt}
+\noindent\textbf{代表性工作：}
+\begin{itemize}
+    \item 提出"\textbf{规则模板 + 共现兜底 + BERT验证}"三层混合抽取策略，在675条低资源标注数据上达到与公开基线相近性能
+    \item 构建端到端演示系统，输入临床文本即可自动抽取实体关系并可视化知识图谱
+    \item 项目代码开源至GitHub，包含完整数据血缘记录（1125候选$\rightarrow$846最终）与评估审计链
+\end{itemize}
+
+\end{document}
